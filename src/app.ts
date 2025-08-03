@@ -1,6 +1,8 @@
 import express, { Application, Request, Response } from "express";
 import { config } from "./config";
-
+import { logger } from "./utils/logger";
+import { errorHandler } from "./utils/errorHandler";
+import routers from "./routes/homeRouter";
 
 // Create Express application
 const app: Application = express();
@@ -8,6 +10,8 @@ const app: Application = express();
 // Middleware for parsing JSON
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
+
+app.use(logger);
 
 // Custom middleware
 
@@ -23,18 +27,27 @@ app.get("/health", (req: Request, res: Response) => {
 
 
 // API routes
-
+app.use(config.apiPrefix, routers);
 
 // 404 handler
-app.use('*', (req: Request, res: Response)=>{
+// app.all('/*splat', (req: Request, res: Response) => {
+//     res.status(404).json({
+//         success: false,
+//         message: `Route ${req.originalUrl} not found`
+//     });
+// });
+
+// 404 handler
+app.use((req: Request, res: Response) => {
     res.status(404).json({
         success: false,
         message: `Route ${req.originalUrl} not found`
-    })
-})
+    });
+});
 
 
 // Global error handler (must be last)
+app.use(errorHandler);
 
 
 export default app;

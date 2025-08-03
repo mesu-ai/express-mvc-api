@@ -21,21 +21,3 @@ process.on("uncaughtException", (err: Error) => {
   console.error("❌ Unhandled Promise Exception:", err.message);
   process.exit(1);
 });
-
-
-// import express from 'express';
-
-// const app = express();
-// const PORT = 4000;
-
-// // Basic middleware
-// app.use(express.json());
-
-// // Simple test route
-// app.get('/', (req, res) => {
-//   res.json({ message: 'Server is working!' });
-// });
-
-// app.listen(PORT, () => {
-//   console.log(`🚀 Server running on http://localhost:${PORT}`);
-// });

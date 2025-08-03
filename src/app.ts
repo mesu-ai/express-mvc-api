@@ -2,7 +2,7 @@ import express, { Application, Request, Response } from "express";
 import { config } from "./config";
 import { logger } from "./utils/logger";
 import { errorHandler } from "./utils/errorHandler";
-import routers from "./routes/homeRouter";
+import router from "./routes";
 
 // Create Express application
 const app: Application = express();
@@ -27,15 +27,7 @@ app.get("/health", (req: Request, res: Response) => {
 
 
 // API routes
-app.use(config.apiPrefix, routers);
-
-// 404 handler
-// app.all('/*splat', (req: Request, res: Response) => {
-//     res.status(404).json({
-//         success: false,
-//         message: `Route ${req.originalUrl} not found`
-//     });
-// });
+app.use(config.apiPrefix, router);
 
 // 404 handler
 app.use((req: Request, res: Response) => {

@@ -67,7 +67,7 @@ router.post("/refresh", (req: Request, res: Response) => {
       message: "Refresh token not found",
     });
   }
-  
+
   try {
     // Verify refresh token
     const decoded = jwt.verify(refreshToken, REFRESH_TOKEN_SECRET) as {
@@ -82,7 +82,7 @@ router.post("/refresh", (req: Request, res: Response) => {
       { expiresIn: "15m" }
     );
 
-    res.status(200).json({
+    return res.status(200).json({
       success: true,
       message: "Token refreshed successfully",
       data: {

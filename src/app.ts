@@ -1,5 +1,6 @@
 import express, { Application, Request, Response } from "express";
 import cors from "cors";
+import cookieParser from "cookie-parser";
 import { config } from "./config";
 import { logger } from "./utils/logger";
 import { errorHandler } from "./utils/errorHandler";
@@ -18,7 +19,8 @@ app.use(cors({
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-
+// Middleware for parsing cookies
+app.use(cookieParser());
 
 app.use(logger);
 

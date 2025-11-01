@@ -1,0 +1,100 @@
+import { Router, Request, Response } from "express";
+import jwt from "jsonwebtoken";
+
+const router = Router();
+
+const ACCESS_TOKEN_SECRET =
+  process.env.ACCESS_TOKEN_SECRET || "your-access-token-secret";
+const REFRESH_TOKEN_SECRET =
+  process.env.REFRESH_TOKEN_SECRET || "your-refresh-token-secret";
+
+router.post("/login", (req: Request, res: Response) => {
+  const { username, password } = req.body;
+
+  // const accessToken = "mock-access-token-" + Date.now();
+  const refreshToken = "mock-refresh-token-" + Date.now();
+
+  if (username === "admin" && password === "1234") {
+    const userInfo = {
+      id: 1,
+      name: "Momin",
+      role: "admin",
+      permissions: ["products.read", "products.create"],
+    };
+
+    const accessToken = jwt.sign(
+      { id: userInfo.id, role: userInfo.role },
+      ACCESS_TOKEN_SECRET,
+      { expiresIn: "5m" }
+    );
+
+    // Generate refresh token (expires in 7 days)
+    const refreshToken = jwt.sign(
+      { id: userInfo.id, username },
+      REFRESH_TOKEN_SECRET,
+      { expiresIn: "7d" }
+    );
+
+    res.cookie("refreshToken", refreshToken, {
+      httpOnly: true,
+      secure: false, // Set to true in production with HTTPS
+      sameSite: "lax",
+      maxAge: 7 * 24 * 60 * 60 * 1000, // 7 days
+    });
+
+    res.status(200).json({
+      success: true,
+      message: "Login successful",
+      data: {
+        userInfo,
+        accessToken,
+      },
+    });
+  } else {
+    res.status(401).json({
+      success: false,
+      message: "Invalid username or password",
+    });
+  }
+});
+
+router.post("/refresh", (req: Request, res: Response) => {
+  const refreshToken = req.cookies.refreshToken;
+
+  if (!refreshToken) {
+    return res.status(401).json({
+      success: false,
+      message: "Refresh token not found",
+    });
+  }
+  
+  try {
+    // Verify refresh token
+    const decoded = jwt.verify(refreshToken, REFRESH_TOKEN_SECRET) as {
+      id: number;
+      username: string;
+    };
+
+    // Generate new access token
+    const accessToken = jwt.sign(
+      { id: decoded.id, username: decoded.username, role: "admin" },
+      ACCESS_TOKEN_SECRET,
+      { expiresIn: "15m" }
+    );
+
+    res.status(200).json({
+      success: true,
+      message: "Token refreshed successfully",
+      data: {
+        accessToken: accessToken,
+      },
+    });
+  } catch (error) {
+    return res.status(403).json({
+      success: false,
+      message: "Invalid or expired refresh token",
+    });
+  }
+});
+
+export default router;

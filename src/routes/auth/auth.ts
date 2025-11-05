@@ -1,3 +1,5 @@
+import { users } from "../../data/user";
+import { UserT } from "../../types/user";
 import { Router, Request, Response } from "express";
 import jwt from "jsonwebtoken";
 
@@ -11,26 +13,28 @@ const REFRESH_TOKEN_SECRET =
 router.post("/login", (req: Request, res: Response) => {
   const { username, password } = req.body;
 
-  // const accessToken = "mock-access-token-" + Date.now();
-  const refreshToken = "mock-refresh-token-" + Date.now();
+  const user: UserT | undefined = users.find(
+    (item) => item?.username === username
+  );
+  console.log({user})
 
-  if (username === "admin" && password === "1234") {
-    const userInfo = {
-      id: 1,
-      name: "Momin",
-      role: "admin",
-      permissions: ["products.read", "products.create"],
-    };
+  if (user && username === user?.username && password === "1234") {
+    // const userInfo = {
+    //   id: 1,
+    //   name: "Momin",
+    //   role: "admin",
+    //   permissions: ["products.read", "products.create"],
+    // };
 
     const accessToken = jwt.sign(
-      { id: userInfo.id, role: userInfo.role },
+      { id: user.id, role: user.role },
       ACCESS_TOKEN_SECRET,
-      { expiresIn: "5m" }
+      { expiresIn: "15m" }
     );
 
     // Generate refresh token (expires in 7 days)
     const refreshToken = jwt.sign(
-      { id: userInfo.id, username },
+      { id: user.id, username },
       REFRESH_TOKEN_SECRET,
       { expiresIn: "7d" }
     );
@@ -46,7 +50,7 @@ router.post("/login", (req: Request, res: Response) => {
       success: true,
       message: "Login successful",
       data: {
-        userInfo,
+        userInfo: user as Omit<typeof user, "username">,
         accessToken,
       },
     });

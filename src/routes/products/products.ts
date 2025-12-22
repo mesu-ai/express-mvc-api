@@ -4,7 +4,6 @@ import { Router, Request, Response } from "express";
 const router= Router();
 
 router.get("/", verifyAccessToken, (req: Request, res: Response) => {
-  console.log('product assess request:', req);
   res.status(200).json({
     success: true,
     message: "Products retrieved successfully",

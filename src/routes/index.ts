@@ -10,7 +10,7 @@ const router = Router();
 router.use("/users", userRoutes);
 router.use("/products", productRoutes);
 router.use("/auth", authRouters);
-router.use('/roles', roleRouters)
+router.use('/roles', roleRouters);
 
 // Root API route
 router.get("/", (req: Request, res: Response) => {

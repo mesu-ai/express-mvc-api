@@ -1,8 +1,15 @@
 export interface UserT {
-  id: number;
   name: string;
   username: string;
-  role: 'admin' | 'vendor' | 'support' ;
+  employeeId: string;
+  mobileNo: string;
+  email: string;
+  nid: string;
+  photo: File | string;
+  depertment: string;
+  role: string;
+  gender: "femele" | "male";
+  status: "Y" | "N";
+  permissions: string[];
   // token: { access: string; refresh: string };
-  permissions: string[]; // e.g., ['products.read', 'users.create']
 }

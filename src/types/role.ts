@@ -1,5 +1,6 @@
 export interface RoleT {
   id: number;
   role: string;
-  status: boolean;
+  status: string;
+  permissions: string[];
 }

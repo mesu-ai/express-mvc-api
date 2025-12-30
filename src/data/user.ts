@@ -2,10 +2,17 @@ import { UserT } from "@/types/user";
 
 export const users: UserT[] = [
   {
-    id: 1,
-    name: "momin",
-    username: "momin12",
+    employeeId: '556699',
+    name: "mesu",
+    username: "mesu12",
+    email: "mesu@example.com",
     role: "admin",
+    status: "Y",
+    gender: "male",
+    mobileNo: '01521316455',
+    depertment: 'e-commerce',
+    nid: '2154784541',
+    photo: '/images/user44.jpg',
     permissions: [
       "dashboard.index",
       "dashboard.index.view.action",
@@ -22,14 +29,21 @@ export const users: UserT[] = [
       "products.pending.update.action",
       "products.approved.update.action",
 
-      "access-control.roles-permissions",
+      "access-control.roles",
     ],
   },
   {
-    id: 2,
+    employeeId: '556610',
     username: "sumin12",
     name: "sumin",
-    role: "support",
+    email: "sumin@example.com",
+    role: "admin",
+    status: "Y",
+    gender: "male",
+    mobileNo: '01912345678',
+    depertment: 'hr',
+    nid: '2154784541',
+    photo: '/images/user54.png',
     permissions: [
       "dashboard.index",
       "dashboard.index.view.action",
@@ -53,17 +67,22 @@ export const users: UserT[] = [
       "products.rejected.delete.action",
     ],
   },
-
   {
-    id: 3,
+    employeeId: '558899',
     name: "jomin",
     username: "jomin12",
+    email: "jomin@example.com",
     role: "vendor",
+    status: "Y",
+    gender: "male",
+    mobileNo: '01812547896',
+    depertment: 'e-commerce',
+    nid: '2154784541',
+    photo: '/images/user66.jpg',
     permissions: [
       "dashboard.index",
       "dashboard.index.delete.action",
-
-      "products.index",
+      
       "products.create",
       "products.low-stock",
       "products.rejected",
@@ -73,12 +92,16 @@ export const users: UserT[] = [
       "products.rejected.update.action",
 
       "access-control.index",
-      "access-control.employee-list",
-      "access-control.roles-permissions",
-      "access-control.roles-permissions.create.action",
-      "access-control.roles-permissions.update.action",
+      "access-control.employees",
+      "access-control.employees.create",
+      "access-control.employees.edit",
 
-      "access-control.roles-permissions.create",
+      "access-control.roles",
+      "access-control.roles.create.action",
+      "access-control.roles.update.action",
+
+      "access-control.roles.create",
+      "access-control.roles.edit",
     ],
   },
 ];

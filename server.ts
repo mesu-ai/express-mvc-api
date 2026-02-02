@@ -1,7 +1,7 @@
 import app from "./src/app";
 import { config } from "./src/config";
 
-const PORT = config.port || 4001;
+const PORT = config.port || 4000;
 
 // Start the server
 app.listen(PORT, () => {

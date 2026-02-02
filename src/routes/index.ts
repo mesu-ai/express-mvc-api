@@ -3,6 +3,8 @@ import userRoutes from "./users/users";
 import productRoutes from "./products/products";
 import authRouters from "./auth/auth";
 import roleRouters from "./roles/roles";
+import categoryRouters from "./categories/categories";
+import shopRouters from "./shops/shops";
 
 const router = Router();
 
@@ -10,7 +12,9 @@ const router = Router();
 router.use("/users", userRoutes);
 router.use("/products", productRoutes);
 router.use("/auth", authRouters);
-router.use('/roles', roleRouters);
+router.use("/roles", roleRouters);
+router.use("/categories", categoryRouters);
+router.use("/shops", shopRouters);
 
 // Root API route
 router.get("/", (req: Request, res: Response) => {
@@ -23,6 +27,7 @@ router.get("/", (req: Request, res: Response) => {
       products: "/api/v1/products",
       auth: "/api/v1/auth",
       roles: "/api/v1/roles",
+      categories: "/api/v1/categories",
     },
   });
 });

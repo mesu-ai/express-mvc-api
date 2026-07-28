@@ -24,6 +24,7 @@ import { blogPosts } from "../src/data/blogPost";
 import { outlets } from "../src/data/outlet";
 import { bannerDimensions } from "../src/data/bannerDimension";
 import { bannerPlacements } from "../src/data/bannerPlacement";
+import { bannerContents } from "../src/data/bannerContent";
 
 // Clears a table then bulk-inserts the rows in chunks (Postgres has a limit on
 // the number of bind parameters per query, so we batch large datasets).
@@ -35,6 +36,30 @@ async function reseed(name: string, model: any, data: any[]) {
   }
   console.log(`  ${name}: ${data.length}`);
 }
+
+// async function reseedBannerContents() {
+//   await prisma.bannerImage.deleteMany({});
+//   await prisma.bannerContent.deleteMany({});
+
+//   const bannerContentRows = bannerContents.map(({ adsImages, ...banner }) => banner);
+//   const bannerImageRows = bannerContents.flatMap(({ adsImages }) => adsImages);
+
+//   const batchSize = 1000;
+//   for (let i = 0; i < bannerContentRows.length; i += batchSize) {
+//     await prisma.bannerContent.createMany({
+//       data: bannerContentRows.slice(i, i + batchSize),
+//     });
+//   }
+
+//   for (let i = 0; i < bannerImageRows.length; i += batchSize) {
+//     await prisma.bannerImage.createMany({
+//       data: bannerImageRows.slice(i, i + batchSize),
+//     });
+//   }
+
+//   console.log(`  bannerContents: ${bannerContentRows.length}`);
+//   console.log(`  bannerImages: ${bannerImageRows.length}`);
+// }
 
 async function main() {
   console.log("Seeding database...");
@@ -70,6 +95,7 @@ async function main() {
   await reseed("outlets", prisma.outlet, outlets);
   await reseed("bannerDimensions", prisma.bannerDimension, bannerDimensions);
   await reseed("bannerPlacements", prisma.bannerPlacement, bannerPlacements);
+  await reseed("bannerContents", prisma.bannerContent, bannerContents);
   console.log("✅ Seeding complete.");
 }
 

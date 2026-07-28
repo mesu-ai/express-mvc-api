@@ -504,3 +504,39 @@ model BannerPlacement {
 
   @@map("banner_placements")
 }
+
+model BannerContent {
+  adsInfoId       Int           @id @default(autoincrement())
+  adsName         String
+  adsDetails      String?
+  adsTypeId       Int
+  adsTypeName     String
+  imageTypeId     Int
+  imageTypeName   String
+  adsLocationId   Int
+  adsLocationName String
+  isDelete        String?
+  projectId       Int?
+  bannerTitle     String?
+  adsImages       Json?
+
+  @@map("banner_contents")
+}
+
+// model BannerImage {
+//   adsImageId               Int     @id
+//   adsImageUrl              String
+//   adsImageSeoName          String
+//   adsLink                  String
+//   isActive                 String?
+//   displayOrder             Int?
+//   appUrl                   String?
+//   contentTitle             String?
+//   advertisingInfoAdsInfoId Int
+//   adsMobileImageUrl        String?
+
+//   bannerContent BannerContent @relation(fields: [advertisingInfoAdsInfoId], references: [adsInfoId], onDelete: Cascade)
+
+//   @@index([advertisingInfoAdsInfoId])
+//   @@map("banner_images")
+// }

@@ -16,6 +16,7 @@ import contentsRoutes from "./contents/contents";
 import cacheRoutes from './cache/cache';
 import blogRoutes from './blogs/blogs';
 import outletRoutes from './outlets/outlets';
+import bannerRoutes from './banners/banners';
 
 const router = Router();
 
@@ -37,6 +38,7 @@ router.use("/contents", contentsRoutes);
 router.use("/cache", cacheRoutes);
 router.use("/blogs", blogRoutes);
 router.use("/outlets", outletRoutes);
+router.use("/banners", bannerRoutes);
 
 // Root API route
 router.get("/", (req: Request, res: Response) => {
@@ -62,6 +64,7 @@ router.get("/", (req: Request, res: Response) => {
       cache: "/api/v1/cache",
       blogs: "/api/v1/blogs",
       outlets: "/api/v1/outlets",
+      banners: "/api/v1/banners",
     },
   });
 });

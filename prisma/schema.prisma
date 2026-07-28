@@ -14,47 +14,47 @@ datasource db {
 // Mirrors the objects in src/data/category.ts.
 // "Y"/"N" flags are kept as String to match the existing API responses.
 model Category {
-  categoryId          Int     @id
-  categoryName        String
-  metaKeywords        String?
-  metaTitle           String?
-  description         String?
-  metaDescription     String?
-  parentCategoryId    Int?
-  pictureId           Int?
-  pageSize            Int?
-  showOnHomepage      String?
-  includeInTopMenu    String?
-  isDeleted           String?
-  displayOrder        Int?
-  isActive            String?
-  categoryUrl         String?
-  imagePath           String?
-  breadcrumbCategory  String?
-  levelNo             String?
-  isProduct           String?
-  isReturnable        String?
-  localCmsnPercentage Float?
-  localCmsnFlatAmt    Float?
+  categoryId           Int     @id
+  categoryName         String
+  metaKeywords         String?
+  metaTitle            String?
+  description          String?
+  metaDescription      String?
+  parentCategoryId     Int?
+  pictureId            Int?
+  pageSize             Int?
+  showOnHomepage       String?
+  includeInTopMenu     String?
+  isDeleted            String?
+  displayOrder         Int?
+  isActive             String?
+  categoryUrl          String?
+  imagePath            String?
+  breadcrumbCategory   String?
+  levelNo              String?
+  isProduct            String?
+  isReturnable         String?
+  localCmsnPercentage  Float?
+  localCmsnFlatAmt     Float?
   globalCmsnPercentage Float?
-  globalCmsnFlatAmt   Float?
-  isPopular           String?
-  isNewArrival        String?
-  isTopCategory       String?
-  repalceCategoryUrl  String?
-  brandId             Int?
-  brandName           String?
-  metaLongDescription String?
-  ogType              String?
-  ogTitle             String?
-  ogDescription       String?
-  ogUrl               String?
-  ogImgUrl            String?
-  totalItems          Int?
-  createdBy           String?
-  createDate          String?
-  updateBy            String?
-  updateDate          String?
+  globalCmsnFlatAmt    Float?
+  isPopular            String?
+  isNewArrival         String?
+  isTopCategory        String?
+  repalceCategoryUrl   String?
+  brandId              Int?
+  brandName            String?
+  metaLongDescription  String?
+  ogType               String?
+  ogTitle              String?
+  ogDescription        String?
+  ogUrl                String?
+  ogImgUrl             String?
+  totalItems           Int?
+  createdBy            String?
+  createDate           String?
+  updateBy             String?
+  updateDate           String?
 
   @@map("categories")
 }
@@ -119,16 +119,16 @@ model Product {
 
 // Mirrors src/data/ContentCategory.ts
 model ContentCategory {
-    contentTypeId    Int @id
-    contentTypeName  String
-    isActive         String?
-    ip               String?
-    createdBy        String?
-    createDate       String?
-    updateBy         String?
-    updateDate       String?
+  contentTypeId   Int     @id
+  contentTypeName String
+  isActive        String?
+  ip              String?
+  createdBy       String?
+  createDate      String?
+  updateBy        String?
+  updateDate      String?
 
- @@map("content_category")
+  @@map("content_category")
 }
 
 // Mirrors src/data/contentPost.ts.
@@ -219,7 +219,7 @@ model Seller {
   tradeLicenseDoc        String?
   tinNoDoc               String?
   binNoDoc               String?
-  dbIdDoc               String?
+  dbIdDoc                String?
   actApprovedBy          String?
   actApprovedStatus      String?
   actApprovedDate        String?
@@ -276,7 +276,7 @@ model User {
 
 // Mirrors src/data/column.ts (column visibility settings). value is unique.
 model ColumnSetting {
-  value     String  @id
+  value     String   @id
   label     String
   disabled  Boolean?
   isVisible Boolean?
@@ -332,7 +332,7 @@ model SizeAttribute {
 
 // Mirrors src/data/sizeChart.ts. sizeChartMeasurements array -> JSON column.
 model SizeChart {
-  sizeChartId           Int     @id
+  sizeChartId           Int     @id @default(autoincrement())
   chartName             String
   chartCode             String?
   sizeTemplateId        Int?
@@ -357,19 +357,19 @@ model SizeChart {
 
 // Mirrors src/data/variantAttribute.ts.
 model VariantAttribute {
-  productVariantId        Int     @id
-  variantName             String
-  variantDescription      String?
-  variantSetupTempleteId  Int?
+  productVariantId         Int     @id
+  variantName              String
+  variantDescription       String?
+  variantSetupTempleteId   Int?
   variantDisplayTempleteId Int?
-  isActive                String?
-  isDelete                String?
-  imgChgVariant           String?
-  displayOrder            Int?
-  createdBy               String?
-  createDate              String?
-  updateBy                String?
-  updateDate              String?
+  isActive                 String?
+  isDelete                 String?
+  imgChgVariant            String?
+  displayOrder             Int?
+  createdBy                String?
+  createDate               String?
+  updateBy                 String?
+  updateDate               String?
 
   @@map("variant_attributes")
 }
@@ -392,19 +392,19 @@ model VariantAttributeValue {
 
 // Mirrors src/data/variantCategoryCombination.ts. Surrogate id.
 model VariantCategoryCombination {
-  id                  Int     @id @default(autoincrement())
-  variantOptionId     Int?
-  productCategoryId   Int?
-  productVariantId    Int?
-  variantOptionText   String?
-  variantRemark       String?
-  variantTempleteId   Int?
-  variantOptionValue  String?
-  isDelete            String?
-  isCommon            String?
-  categoryName        String?
-  variantName         String?
-  displayOrder        Int?
+  id                   Int     @id @default(autoincrement())
+  variantOptionId      Int?
+  productCategoryId    Int?
+  productVariantId     Int?
+  variantOptionText    String?
+  variantRemark        String?
+  variantTempleteId    Int?
+  variantOptionValue   String?
+  isDelete             String?
+  isCommon             String?
+  categoryName         String?
+  variantName          String?
+  displayOrder         Int?
   variantOptionValueId Int?
 
   @@index([productCategoryId])
@@ -427,7 +427,7 @@ model BlogCategory {
 
 // Mirrors src/data/blogPost.ts.
 model BlogPost {
-  postId           Int     @id
+  postId           Int      @id
   postCategoryId   Int
   postTitle        String
   postDescription  String?
@@ -472,11 +472,35 @@ model Outlet {
   @@map("outlets")
 }
 
-//Mirrors src/data/radisCache.ts
+// Mirrors src/data/radisCache.ts
 model RedisCache {
-  id                  Int       @id @default(autoincrement())
-  key                 String    @unique
-  expireTime          String?
+  id         Int     @id @default(autoincrement())
+  key        String  @unique
+  expireTime String?
 
   @@map("redis_cache")
+}
+
+// Mirrors src/data/bannerDimension.ts
+model BannerDimension {
+  adsImageTypeId       Int     @id @default(autoincrement())
+  imageTypeName        String
+  isActive             String?
+  dimensionDescription String?
+  imageHeight          Int
+  imageWidth           Int
+  imageMobileHeight    Int     @default(0)
+  imageMobileWidth     Int     @default(0)
+  imageUnit            String? @default("px")
+
+  @@map("banner_dimensions")
+}
+
+model BannerPlacement {
+  adsLocationId      Int     @id @default(autoincrement())
+  adsLocationName    String
+  isActive           String?
+  adsLocationDetails String
+
+  @@map("banner_placements")
 }

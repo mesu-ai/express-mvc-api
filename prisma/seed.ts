@@ -22,6 +22,8 @@ import { redisCache } from "../src/data/redisCache";
 import { blogCategories } from "../src/data/blogCategory";
 import { blogPosts } from "../src/data/blogPost";
 import { outlets } from "../src/data/outlet";
+import { bannerDimensions } from "../src/data/bannerDimension";
+import { bannerPlacements } from "../src/data/bannerPlacement";
 
 // Clears a table then bulk-inserts the rows in chunks (Postgres has a limit on
 // the number of bind parameters per query, so we batch large datasets).
@@ -66,6 +68,8 @@ async function main() {
   await reseed("blogCategories", prisma.blogCategory, blogCategories);
   await reseed("blogPosts", prisma.blogPost, blogPosts);
   await reseed("outlets", prisma.outlet, outlets);
+  await reseed("bannerDimensions", prisma.bannerDimension, bannerDimensions);
+  await reseed("bannerPlacements", prisma.bannerPlacement, bannerPlacements);
   console.log("✅ Seeding complete.");
 }
 

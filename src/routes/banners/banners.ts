@@ -9,19 +9,29 @@ router.get(
   verifyAccessToken,
   async (req: Request, res: Response, next: NextFunction) => {
     try {
-      const { keyword, currentPage, status, itemsPerPage } = req.query;
+      const { keyword, imageTypeId, adsLocationId, currentPage, itemsPerPage } = req.query;
 
       const keywordStr =
         typeof keyword === "string" ? keyword.toLowerCase().trim() : undefined;
-      const statusStr = typeof status === "string" ? status : undefined;
+      // const statusStr = typeof status === "string" ? status : undefined;
+      const imageTypeIdStr =
+        typeof imageTypeId === "string" ? imageTypeId : undefined;
+      const adsLocationIdStr =
+        typeof adsLocationId === "string" ? adsLocationId : undefined;
 
       const where: any = {};
       if (keywordStr) {
         where.adsName = { contains: keywordStr, mode: "insensitive" };
       }
-      if (statusStr) {
-        where.isActive = statusStr;
+      if (imageTypeIdStr) {
+        where.imageTypeId = Number(imageTypeIdStr);
       }
+      if (adsLocationIdStr) {
+        where.adsLocationId = Number(adsLocationIdStr);
+      }
+      // if (statusStr) {
+      //   where.isActive = statusStr;
+      // }
 
       const perPage =
         typeof itemsPerPage === "string" && !Number.isNaN(Number(itemsPerPage))

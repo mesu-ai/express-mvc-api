@@ -506,7 +506,7 @@ model BannerPlacement {
 }
 
 model BannerContent {
-  adsInfoId       Int           @id @default(autoincrement())
+  adsInfoId       Int     @id @default(autoincrement())
   adsName         String
   adsDetails      String?
   adsTypeId       Int
@@ -523,20 +523,31 @@ model BannerContent {
   @@map("banner_contents")
 }
 
-// model BannerImage {
-//   adsImageId               Int     @id
-//   adsImageUrl              String
-//   adsImageSeoName          String
-//   adsLink                  String
-//   isActive                 String?
-//   displayOrder             Int?
-//   appUrl                   String?
-//   contentTitle             String?
-//   advertisingInfoAdsInfoId Int
-//   adsMobileImageUrl        String?
+model CustomerAddress {
+  customerAddressId Int     @id @default(autoincrement())
+  customerId        Int
+  recipientName     String
+  contactNumber     String
+  addressType       Int
+  postCode          String
+  address           String
+  createDae         String
+  status            String
+  shippingStatus    String?
+  countryId         Int
+  countryName       String
+  cityId            Int
+  cityName          String
+  areaName          String
+  areaId            Int
 
-//   bannerContent BannerContent @relation(fields: [advertisingInfoAdsInfoId], references: [adsInfoId], onDelete: Cascade)
+  @@map("customer_addresses")
+}
 
-//   @@index([advertisingInfoAdsInfoId])
-//   @@map("banner_images")
-// }
+model CityWithArea {
+  cityId   Int    @id
+  cityName String
+  areas    Json?
+
+  @@map("city_with_area")
+}

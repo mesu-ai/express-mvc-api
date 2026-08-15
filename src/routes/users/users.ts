@@ -1,10 +1,12 @@
 import { Request, Response, Router, NextFunction } from "express";
 import { prisma } from "../../config/prisma";
+import { verifyAccessToken } from "../../middleware/auth.middleware";
 
 const router = Router();
 
 router.get(
   "/",
+  verifyAccessToken,
   async (req: Request, res: Response, next: NextFunction) => {
     try {
       const data = await prisma.user.findMany();
@@ -21,6 +23,7 @@ router.get(
 
 router.get(
   "/:id",
+  verifyAccessToken,
   async (req: Request, res: Response, next: NextFunction) => {
     try {
       const { id } = req.params;

@@ -230,5 +230,33 @@ router.get(
   },
 );
 
+router.get(
+  "/:id",
+  verifyAccessToken,
+  async (req: Request, res: Response, next: NextFunction) => {
+    try {
+      const { id } = req.params;
+
+      const data = await prisma.bannerContent.findUnique({
+        where: { adsInfoId: Number(id) },
+      });
+
+      if (!data) {
+        return res.status(404).json({
+          success: false,
+          message: "Banner content not found",
+        });
+      }
+
+      return res.status(200).json({
+        success: true,
+        message: "Banner content retrieved successfully",
+        data,
+      });
+    } catch (error) {
+      return next(error);
+    }
+  },
+);
 
 export default router;

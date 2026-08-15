@@ -25,6 +25,8 @@ import { outlets } from "../src/data/outlet";
 import { bannerDimensions } from "../src/data/bannerDimension";
 import { bannerPlacements } from "../src/data/bannerPlacement";
 import { bannerContents } from "../src/data/bannerContent";
+import { customerAddresses } from "../src/data/customerAddress";
+import { citiesWithAreas } from "../src/data/cityWithArea";
 
 // Clears a table then bulk-inserts the rows in chunks (Postgres has a limit on
 // the number of bind parameters per query, so we batch large datasets).
@@ -96,6 +98,8 @@ async function main() {
   await reseed("bannerDimensions", prisma.bannerDimension, bannerDimensions);
   await reseed("bannerPlacements", prisma.bannerPlacement, bannerPlacements);
   await reseed("bannerContents", prisma.bannerContent, bannerContents);
+  await reseed("customerAddresses", prisma.customerAddress, customerAddresses);
+  await reseed("cityWithAreas", prisma.cityWithArea, citiesWithAreas);
   console.log("✅ Seeding complete.");
 }
 

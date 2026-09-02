@@ -183,7 +183,7 @@ export const products = [
     isReturnable: "Y",
     returnDuration: 15,
     returnPolicy:
-      '&nbsp;<span style="color: rgb(141, 148, 152); font-size: 14px;">At SaRa we gladly exchange within 15 days of purchase with an original receipt. Items must be in their original state: unwashed, unworn, unaltered, and must have all tickets attached.</span><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">To protect our customers from fraudulent activity, SaRa reserves the right to request valid photo ID for the purposes of validating customer information when processing a replacement or exchange. For more information, please contact SaRa Customer Service at +8801885998899 or email us at ecom@saralifestyle.com.bd The following Replacement Policy only applies to online purchases made through http://www.saralifestyle.com and SaRa Reserve the right to change any policy at any time.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;"><span style="font-weight: 700; color: rgb(51, 59, 63); outline: 0px !important;">For Online:</span></p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">*Customer has to check ordered products (Color, size, quantity and quality) in front of the delivery agent after that no complaint will be accepted.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">*Customer has to return the Product to the delivery agent instantly if the product has any issue, No charge will be applicable for return.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">*Replacement, Return or Refund will be applicable if the Customer raises any issue in front of delivery agent while receiving order.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">*If Customer failed to check while receiving product then have replaced unworn and unaltered garments within 15 days of purchase from any of our Outlets and online.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">*For Outside Dhaka City, If Customer failed to check while receiving product, he/she has to return the item by Courier (Example: Sundarban).</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* Products on discount or promotional offer, lingerie, masks, shocks, lungi and PPE are not exchangeable.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* Customer must preserve original invoice, tags carefully to avail replacement.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* The exchange garments value must be equal or more than that of original invoice.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* We reserve all rights to determine whether the goods have been altered, used or damaged.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;"><span style="font-weight: 700; color: rgb(51, 59, 63); outline: 0px !important;">Refund Policy for Online:</span></p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* If we are not able to deliver.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* If we deliver different Products without informing the customer.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* If the customer receives damaged product.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">*According to Digital Policy 2021 of the Government we will refund within 7-10 days.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* Refund is applicable for online orders only.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;"><span style="font-weight: 700; color: rgb(51, 59, 63); outline: 0px !important;">For Outlet:</span></p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* Customer may replace unworn and unaltered garments within 15 days of purchase from any of our Outlets.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* Customer must preserve original invoice, tags carefully to avail replacement.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* The exchange garments value must be equal or more than that of original invoice.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* Products on discount or promotional offer, lingerie, masks and PPE are not exchangeable.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* We reserve all rights to determine whether the goods have been altered, used or damaged.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* We donâ€™t have return or refund option.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">And for your kind information, Customer can replace the product one time only. Thank you.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">What qualifies as a replacement? Any product would qualify as a replacement if it meets any of the following conditions:</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">ïƒ¼ Wrong product, size or color.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">ïƒ¼ Damaged product.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">ïƒ¼ Product lost in shipment.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">ïƒ¼ Products with major quality defects.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;"><span style="font-weight: 700; color: rgb(51, 59, 63); outline: 0px !important;">How do I replacement an item?</span></p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">The customer needs to fill-up the replacement and exchange form that must be enclosed with all replacements or exchanges. If you no longer have the replacement/exchange form please&nbsp;<a href="https://saralifestyle.com.bd/WebContent/ReturnForm" style="background-color: transparent; outline: 0px !important;">click here</a>&nbsp;to fill-up the form. Please be sure to print out the form, complete all required information and include it with your replacement items. We do not accept replacements or exchanges without the original invoice slip. You can replace your products through courier or our delivery man service along with the return form to our e-commerce warehouse at the following address: service along with the return form to our e-commerce warehouse at the following address:</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;"><span style="font-weight: 700; color: rgb(51, 59, 63); outline: 0px !important;">E-Commerce Warehouse:</span></p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;"><span style="font-weight: 700; color: rgb(51, 59, 63); outline: 0px !important;">SaRa Lifestyle Ltd</span></p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;"><span style="font-weight: 700; color: rgb(51, 59, 63); outline: 0px !important;">House 966, Road 14, Avenue 2, Mirpur DOHS 1216.</span></p>',
+      '&nbsp;<span style="color: rgb(141, 148, 152); font-size: 14px;">At SaRa we gladly exchange within 15 days of purchase with an original receipt. Items must be in their original state: unwashed, unworn, unaltered, and must have all tickets attached.</span><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">To protect our customers from fraudulent activity, SaRa reserves the right to request valid photo ID for the purposes of validating customer information when processing a replacement or exchange. For more information, please contact SaRa Customer Service at +8801885998899 or email us at ecom@saralifestyle.com.bd The following Replacement Policy only applies to online purchases made through http://www.saralifestyle.com and SaRa Reserve the right to change any policy at any time.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;"><span style="font-weight: 700; color: rgb(51, 59, 63); outline: 0px !important;">For Online:</span></p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">*Customer has to check ordered products (Color, size, quantity and quality) in front of the delivery agent after that no complaint will be accepted.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">*Customer has to return the Product to the delivery agent instantly if the product has any issue, No charge will be applicable for return.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">*Replacement, Return or Refund will be applicable if the Customer raises any issue in front of delivery agent while receiving order.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">*If Customer failed to check while receiving product then have replaced unworn and unaltered garments within 15 days of purchase from any of our Outlets and online.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">*For Outside Dhaka City, If Customer failed to check while receiving product, he/she has to return the item by Courier (Example: Sundarban).</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* Products on discount or promotional offer, lingerie, masks, shocks, lungi and PPE are not exchangeable.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* Customer must preserve original invoice, tags carefully to avail replacement.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* The exchange garments value must be equal or more than that of original invoice.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* We reserve all rights to determine whether the goods have been altered, used or damaged.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;"><span style="font-weight: 700; color: rgb(51, 59, 63); outline: 0px !important;">Refund Policy for Online:</span></p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* If we are not able to deliver.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* If we deliver different Products without informing the customer.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* If the customer receives damaged product.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">*According to Digital Policy 2021 of the Government we will refund within 7-10 days.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* Refund is applicable for online orders only.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;"><span style="font-weight: 700; color: rgb(51, 59, 63); outline: 0px !important;">For Outlet:</span></p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* Customer may replace unworn and unaltered garments within 15 days of purchase from any of our Outlets.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* Customer must preserve original invoice, tags carefully to avail replacement.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* The exchange garments value must be equal or more than that of original invoice.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* Products on discount or promotional offer, lingerie, masks and PPE are not exchangeable.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* We reserve all rights to determine whether the goods have been altered, used or damaged.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* We donÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢t have return or refund option.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">And for your kind information, Customer can replace the product one time only. Thank you.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">What qualifies as a replacement? Any product would qualify as a replacement if it meets any of the following conditions:</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">ÃƒÂ¯Ã†â€™Ã‚Â¼ Wrong product, size or color.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">ÃƒÂ¯Ã†â€™Ã‚Â¼ Damaged product.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">ÃƒÂ¯Ã†â€™Ã‚Â¼ Product lost in shipment.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">ÃƒÂ¯Ã†â€™Ã‚Â¼ Products with major quality defects.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;"><span style="font-weight: 700; color: rgb(51, 59, 63); outline: 0px !important;">How do I replacement an item?</span></p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">The customer needs to fill-up the replacement and exchange form that must be enclosed with all replacements or exchanges. If you no longer have the replacement/exchange form please&nbsp;<a href="https://saralifestyle.com.bd/WebContent/ReturnForm" style="background-color: transparent; outline: 0px !important;">click here</a>&nbsp;to fill-up the form. Please be sure to print out the form, complete all required information and include it with your replacement items. We do not accept replacements or exchanges without the original invoice slip. You can replace your products through courier or our delivery man service along with the return form to our e-commerce warehouse at the following address: service along with the return form to our e-commerce warehouse at the following address:</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;"><span style="font-weight: 700; color: rgb(51, 59, 63); outline: 0px !important;">E-Commerce Warehouse:</span></p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;"><span style="font-weight: 700; color: rgb(51, 59, 63); outline: 0px !important;">SaRa Lifestyle Ltd</span></p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;"><span style="font-weight: 700; color: rgb(51, 59, 63); outline: 0px !important;">House 966, Road 14, Avenue 2, Mirpur DOHS 1216.</span></p>',
     sizeChartId: 1,
     warrantyTypeId: 1,
     warrantyPeriodId: 1,
@@ -431,8 +431,8 @@ export const products = [
     "gender": "male",
     "variantDimensions": [
       {
-        "dimensionId": "attr-0",
-        "name": "Primary Option",
+        "dimensionId": "color",
+        "name": "Color",
         "options": [
           {
             "variantOptionId": 1470,
@@ -445,16 +445,16 @@ export const products = [
         ]
       },
       {
-        "dimensionId": "attr-1",
-        "name": "Secondary Option",
+        "dimensionId": "size",
+        "name": "Size",
         "options": [
           {
-            "variantOptionId": 1474,
-            "variantOptionText": "Formal"
+            "variantOptionId": 5015,
+            "variantOptionText": "50"
           },
           {
-            "variantOptionId": 1475,
-            "variantOptionText": "Casual"
+            "variantOptionId": 5016,
+            "variantOptionText": "52"
           }
         ]
       }
@@ -483,23 +483,23 @@ export const products = [
       {
         "sku": "sku-6000",
         "subStyle": "sub-7000",
-        "shopProductSku": "BLACFORM3",
+        "shopProductSku": "BLAC503",
         "stock": 70,
-        "dpPrice": 1461,
-        "mrp": 2175,
-        "sellingPrice": 1933,
+        "dpPrice": 1001,
+        "mrp": 1330,
+        "sellingPrice": 1182,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 121,
-        "commissionAmount": 146,
+        "burnAmount": 148,
+        "commissionAmount": 181,
         "options": [
           {
             "variantOptionId": 1470,
             "variantOptionText": "Black"
           },
           {
-            "variantOptionId": 1474,
-            "variantOptionText": "Formal"
+            "variantOptionId": 5015,
+            "variantOptionText": "50"
           }
         ],
         "inventoryTypeId": 1,
@@ -508,23 +508,23 @@ export const products = [
       {
         "sku": "sku-6000",
         "subStyle": "sub-7000",
-        "shopProductSku": "BLACCASU3",
+        "shopProductSku": "BLAC523",
         "stock": 81,
-        "dpPrice": 1461,
-        "mrp": 2175,
-        "sellingPrice": 1933,
+        "dpPrice": 1001,
+        "mrp": 1330,
+        "sellingPrice": 1182,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 121,
-        "commissionAmount": 146,
+        "burnAmount": 148,
+        "commissionAmount": 181,
         "options": [
           {
             "variantOptionId": 1470,
             "variantOptionText": "Black"
           },
           {
-            "variantOptionId": 1475,
-            "variantOptionText": "Casual"
+            "variantOptionId": 5016,
+            "variantOptionText": "52"
           }
         ],
         "inventoryTypeId": 1,
@@ -533,23 +533,23 @@ export const products = [
       {
         "sku": "sku-6000",
         "subStyle": "sub-7000",
-        "shopProductSku": "RED-FORM3",
+        "shopProductSku": "RED-503",
         "stock": 30,
-        "dpPrice": 1461,
-        "mrp": 2175,
-        "sellingPrice": 1933,
+        "dpPrice": 1001,
+        "mrp": 1330,
+        "sellingPrice": 1182,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 121,
-        "commissionAmount": 146,
+        "burnAmount": 148,
+        "commissionAmount": 181,
         "options": [
           {
             "variantOptionId": 4743,
             "variantOptionText": "Red Orange"
           },
           {
-            "variantOptionId": 1474,
-            "variantOptionText": "Formal"
+            "variantOptionId": 5015,
+            "variantOptionText": "50"
           }
         ],
         "inventoryTypeId": 1,
@@ -558,23 +558,23 @@ export const products = [
       {
         "sku": "sku-6000",
         "subStyle": "sub-7000",
-        "shopProductSku": "RED-CASU3",
+        "shopProductSku": "RED-523",
         "stock": 26,
-        "dpPrice": 1461,
-        "mrp": 2175,
-        "sellingPrice": 1933,
+        "dpPrice": 1001,
+        "mrp": 1330,
+        "sellingPrice": 1182,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 121,
-        "commissionAmount": 146,
+        "burnAmount": 148,
+        "commissionAmount": 181,
         "options": [
           {
             "variantOptionId": 4743,
             "variantOptionText": "Red Orange"
           },
           {
-            "variantOptionId": 1475,
-            "variantOptionText": "Casual"
+            "variantOptionId": 5016,
+            "variantOptionText": "52"
           }
         ],
         "inventoryTypeId": 1,
@@ -634,34 +634,20 @@ export const products = [
         "name": "Color",
         "options": [
           {
-            "variantOptionId": 487,
-            "variantOptionText": "Whale"
+            "variantOptionId": 8212,
+            "variantOptionText": "White"
           },
           {
-            "variantOptionId": 1956,
-            "variantOptionText": "TEAL BLUE"
-          }
-        ]
-      },
-      {
-        "dimensionId": "size",
-        "name": "Size",
-        "options": [
-          {
-            "variantOptionId": 1124,
-            "variantOptionText": "14 Inch"
-          },
-          {
-            "variantOptionId": 1853,
-            "variantOptionText": "25"
+            "variantOptionId": 8715,
+            "variantOptionText": "Grey"
           }
         ]
       }
     ],
     "variantImages": [
       {
-        "variantOptionId": 487,
-        "variantOptionText": "Whale",
+        "variantOptionId": 8212,
+        "variantOptionText": "White",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -669,8 +655,8 @@ export const products = [
         ]
       },
       {
-        "variantOptionId": 1956,
-        "variantOptionText": "TEAL BLUE",
+        "variantOptionId": 8715,
+        "variantOptionText": "Grey",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -682,23 +668,19 @@ export const products = [
       {
         "sku": "sku-6001",
         "subStyle": "sub-7001",
-        "shopProductSku": "WHAL14-I4",
-        "stock": 6,
-        "dpPrice": 2988,
-        "mrp": 4260,
-        "sellingPrice": 3987,
+        "shopProductSku": "WHIT4",
+        "stock": 100,
+        "dpPrice": 1031,
+        "mrp": 1492,
+        "sellingPrice": 1390,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 137,
-        "commissionAmount": 299,
+        "burnAmount": 102,
+        "commissionAmount": 359,
         "options": [
           {
-            "variantOptionId": 487,
-            "variantOptionText": "Whale"
-          },
-          {
-            "variantOptionId": 1124,
-            "variantOptionText": "14 Inch"
+            "variantOptionId": 8212,
+            "variantOptionText": "White"
           }
         ],
         "inventoryTypeId": 1,
@@ -707,73 +689,19 @@ export const products = [
       {
         "sku": "sku-6001",
         "subStyle": "sub-7001",
-        "shopProductSku": "WHAL254",
-        "stock": 97,
-        "dpPrice": 2988,
-        "mrp": 4260,
-        "sellingPrice": 3987,
+        "shopProductSku": "GREY4",
+        "stock": 77,
+        "dpPrice": 1031,
+        "mrp": 1492,
+        "sellingPrice": 1390,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 137,
-        "commissionAmount": 299,
+        "burnAmount": 102,
+        "commissionAmount": 359,
         "options": [
           {
-            "variantOptionId": 487,
-            "variantOptionText": "Whale"
-          },
-          {
-            "variantOptionId": 1853,
-            "variantOptionText": "25"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6001",
-        "subStyle": "sub-7001",
-        "shopProductSku": "TEAL14-I4",
-        "stock": 83,
-        "dpPrice": 2988,
-        "mrp": 4260,
-        "sellingPrice": 3987,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 137,
-        "commissionAmount": 299,
-        "options": [
-          {
-            "variantOptionId": 1956,
-            "variantOptionText": "TEAL BLUE"
-          },
-          {
-            "variantOptionId": 1124,
-            "variantOptionText": "14 Inch"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6001",
-        "subStyle": "sub-7001",
-        "shopProductSku": "TEAL254",
-        "stock": 99,
-        "dpPrice": 2988,
-        "mrp": 4260,
-        "sellingPrice": 3987,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 137,
-        "commissionAmount": 299,
-        "options": [
-          {
-            "variantOptionId": 1956,
-            "variantOptionText": "TEAL BLUE"
-          },
-          {
-            "variantOptionId": 1853,
-            "variantOptionText": "25"
+            "variantOptionId": 8715,
+            "variantOptionText": "Grey"
           }
         ],
         "inventoryTypeId": 1,
@@ -790,10 +718,10 @@ export const products = [
     "warrantyTypeId": 1,
     "warrantyPeriodId": 19,
     "warrantyPolicy": "Local Seller Warranty - 7 Years.",
-    "packageWeight": 1.56,
-    "packageLength": 1.66,
-    "packageWidth": 1.2,
-    "packageHeight": 0.89,
+    "packageWeight": 1.64,
+    "packageLength": 1.43,
+    "packageWidth": 1.68,
+    "packageHeight": 1.39,
     "productUrl": "home-appliances-4",
     "videoUrl": "",
     "metaTitle": "Home Appliances CRRJU #4",
@@ -811,409 +739,11 @@ export const products = [
   },
   {
     "productId": 5,
-    "productName": "Phone & Tablets Captain BD #5",
-    "categoryId": 226,
-    "unit": "pair",
-    "shopId": 43,
+    "productName": "HONOR  #5",
+    "categoryId": 434,
+    "unit": "set",
+    "shopId": 102,
     "displayOrder": "5",
-    "thumbnailImages": [
-      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
-      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
-    ],
-    "brandId": 604,
-    "strapMaterial": null,
-    "fitType": null,
-    "gender": null,
-    "variantDimensions": [
-      {
-        "dimensionId": "color",
-        "name": "Color",
-        "options": [
-          {
-            "variantOptionId": 1518,
-            "variantOptionText": "Royal Blue Yellow"
-          },
-          {
-            "variantOptionId": 1636,
-            "variantOptionText": "Sublimation-Print"
-          }
-        ]
-      },
-      {
-        "dimensionId": "size",
-        "name": "Size",
-        "options": [
-          {
-            "variantOptionId": 1929,
-            "variantOptionText": "6 UK"
-          },
-          {
-            "variantOptionId": 1053,
-            "variantOptionText": "16 CM"
-          }
-        ]
-      }
-    ],
-    "variantImages": [
-      {
-        "variantOptionId": 1518,
-        "variantOptionText": "Royal Blue Yellow",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      },
-      {
-        "variantOptionId": 1636,
-        "variantOptionText": "Sublimation-Print",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      }
-    ],
-    "variantCombinations": [
-      {
-        "sku": "sku-6002",
-        "subStyle": "sub-7002",
-        "shopProductSku": "ROYA6-UK5",
-        "stock": 10,
-        "dpPrice": 1819,
-        "mrp": 2243,
-        "sellingPrice": 1920,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 162,
-        "commissionAmount": 182,
-        "options": [
-          {
-            "variantOptionId": 1518,
-            "variantOptionText": "Royal Blue Yellow"
-          },
-          {
-            "variantOptionId": 1929,
-            "variantOptionText": "6 UK"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6002",
-        "subStyle": "sub-7002",
-        "shopProductSku": "ROYA16-C5",
-        "stock": 97,
-        "dpPrice": 1819,
-        "mrp": 2243,
-        "sellingPrice": 1920,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 162,
-        "commissionAmount": 182,
-        "options": [
-          {
-            "variantOptionId": 1518,
-            "variantOptionText": "Royal Blue Yellow"
-          },
-          {
-            "variantOptionId": 1053,
-            "variantOptionText": "16 CM"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6002",
-        "subStyle": "sub-7002",
-        "shopProductSku": "SUBL6-UK5",
-        "stock": 21,
-        "dpPrice": 1819,
-        "mrp": 2243,
-        "sellingPrice": 1920,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 162,
-        "commissionAmount": 182,
-        "options": [
-          {
-            "variantOptionId": 1636,
-            "variantOptionText": "Sublimation-Print"
-          },
-          {
-            "variantOptionId": 1929,
-            "variantOptionText": "6 UK"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6002",
-        "subStyle": "sub-7002",
-        "shopProductSku": "SUBL16-C5",
-        "stock": 92,
-        "dpPrice": 1819,
-        "mrp": 2243,
-        "sellingPrice": 1920,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 162,
-        "commissionAmount": 182,
-        "options": [
-          {
-            "variantOptionId": 1636,
-            "variantOptionText": "Sublimation-Print"
-          },
-          {
-            "variantOptionId": 1053,
-            "variantOptionText": "16 CM"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      }
-    ],
-    "description": "Phone & Tablets Captain BD #5 available at Computer City Technologies Ltd.. Category: Phone & Tablets.",
-    "specification": "Brand: Captain BD. Category: Phone & Tablets.",
-    "hasEmi": "N",
-    "isReturnable": "Y",
-    "returnDuration": 15,
-    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 351,
-    "warrantyTypeId": 4,
-    "warrantyPeriodId": 14,
-    "warrantyPolicy": "International Manufacturer Warranty - 24 Months.",
-    "packageWeight": 1.64,
-    "packageLength": 0.64,
-    "packageWidth": 1.08,
-    "packageHeight": 0.64,
-    "productUrl": "phone-tablets-5",
-    "videoUrl": "",
-    "metaTitle": "Phone & Tablets Captain BD #5",
-    "metaKeywords": "Phone & Tablets, Captain BD",
-    "metaDescription": "Buy Phone & Tablets Captain BD #5 online at Computer City Technologies Ltd..",
-    "ogType": "product",
-    "ogTitle": "Phone & Tablets Captain BD #5",
-    "ogUrl": "phone-tablets-5",
-    "ogDescription": "Buy Phone & Tablets Captain BD #5 online at Computer City Technologies Ltd..",
-    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-    "createdBy": "A A Momin",
-    "createdAt": "2026-04-04T09:50",
-    "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
-  },
-  {
-    "productId": 6,
-    "productName": "Shirt & Katua Ajnur #6",
-    "categoryId": 81,
-    "unit": "pair",
-    "shopId": 53,
-    "displayOrder": "6",
-    "thumbnailImages": [
-      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
-      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
-    ],
-    "brandId": 549,
-    "strapMaterial": null,
-    "fitType": "Slim",
-    "gender": "male",
-    "variantDimensions": [
-      {
-        "dimensionId": "attr-0",
-        "name": "Primary Option",
-        "options": [
-          {
-            "variantOptionId": 4759,
-            "variantOptionText": "Embroidery"
-          },
-          {
-            "variantOptionId": 2380,
-            "variantOptionText": "Print"
-          }
-        ]
-      },
-      {
-        "dimensionId": "attr-1",
-        "name": "Secondary Option",
-        "options": [
-          {
-            "variantOptionId": 3205,
-            "variantOptionText": "Light Blue"
-          },
-          {
-            "variantOptionId": 8744,
-            "variantOptionText": "Print"
-          }
-        ]
-      }
-    ],
-    "variantImages": [
-      {
-        "variantOptionId": 4759,
-        "variantOptionText": "Embroidery",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      },
-      {
-        "variantOptionId": 2380,
-        "variantOptionText": "Print",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      }
-    ],
-    "variantCombinations": [
-      {
-        "sku": "sku-6003",
-        "subStyle": "sub-7003",
-        "shopProductSku": "EMBRLIGH6",
-        "stock": 21,
-        "dpPrice": 1361,
-        "mrp": 1788,
-        "sellingPrice": 1619,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 85,
-        "commissionAmount": 136,
-        "options": [
-          {
-            "variantOptionId": 4759,
-            "variantOptionText": "Embroidery"
-          },
-          {
-            "variantOptionId": 3205,
-            "variantOptionText": "Light Blue"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6003",
-        "subStyle": "sub-7003",
-        "shopProductSku": "EMBRPRIN6",
-        "stock": 72,
-        "dpPrice": 1361,
-        "mrp": 1788,
-        "sellingPrice": 1619,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 85,
-        "commissionAmount": 136,
-        "options": [
-          {
-            "variantOptionId": 4759,
-            "variantOptionText": "Embroidery"
-          },
-          {
-            "variantOptionId": 8744,
-            "variantOptionText": "Print"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6003",
-        "subStyle": "sub-7003",
-        "shopProductSku": "PRINLIGH6",
-        "stock": 85,
-        "dpPrice": 1361,
-        "mrp": 1788,
-        "sellingPrice": 1619,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 85,
-        "commissionAmount": 136,
-        "options": [
-          {
-            "variantOptionId": 2380,
-            "variantOptionText": "Print"
-          },
-          {
-            "variantOptionId": 3205,
-            "variantOptionText": "Light Blue"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6003",
-        "subStyle": "sub-7003",
-        "shopProductSku": "PRINPRIN6",
-        "stock": 42,
-        "dpPrice": 1361,
-        "mrp": 1788,
-        "sellingPrice": 1619,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 85,
-        "commissionAmount": 136,
-        "options": [
-          {
-            "variantOptionId": 2380,
-            "variantOptionText": "Print"
-          },
-          {
-            "variantOptionId": 8744,
-            "variantOptionText": "Print"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      }
-    ],
-    "description": "Shirt & Katua Ajnur #6 available at AIIM Global Limited. Category: Shirt & Katua.",
-    "specification": "Brand: Ajnur. Category: Shirt & Katua.",
-    "hasEmi": "N",
-    "isReturnable": "Y",
-    "returnDuration": 15,
-    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 352,
-    "warrantyTypeId": 5,
-    "warrantyPeriodId": 23,
-    "warrantyPolicy": "Brand Warranty - 4 Years.",
-    "packageWeight": 1.1,
-    "packageLength": 0.99,
-    "packageWidth": 0.59,
-    "packageHeight": 0.74,
-    "productUrl": "shirt-katua-6",
-    "videoUrl": "",
-    "metaTitle": "Shirt & Katua Ajnur #6",
-    "metaKeywords": "Shirt & Katua, Ajnur",
-    "metaDescription": "Buy Shirt & Katua Ajnur #6 online at AIIM Global Limited.",
-    "ogType": "product",
-    "ogTitle": "Shirt & Katua Ajnur #6",
-    "ogUrl": "shirt-katua-6",
-    "ogDescription": "Buy Shirt & Katua Ajnur #6 online at AIIM Global Limited.",
-    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-    "createdBy": "A A Momin",
-    "createdAt": "2026-04-04T09:50",
-    "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
-  },
-  {
-    "productId": 7,
-    "productName": "Gimbals and Stabilizers  #7",
-    "categoryId": 229,
-    "unit": "psc",
-    "shopId": 61,
-    "displayOrder": "7",
     "thumbnailImages": [
       "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
       "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -1231,34 +761,20 @@ export const products = [
         "name": "Color",
         "options": [
           {
-            "variantOptionId": 1587,
-            "variantOptionText": "Sandy Gold"
+            "variantOptionId": 7697,
+            "variantOptionText": "White"
           },
           {
-            "variantOptionId": 1313,
-            "variantOptionText": "Light Scarlet"
-          }
-        ]
-      },
-      {
-        "dimensionId": "size",
-        "name": "Size",
-        "options": [
-          {
-            "variantOptionId": 1183,
-            "variantOptionText": "XL & Free"
-          },
-          {
-            "variantOptionId": 1837,
-            "variantOptionText": "55''"
+            "variantOptionId": 7688,
+            "variantOptionText": "Cyan Lake"
           }
         ]
       }
     ],
     "variantImages": [
       {
-        "variantOptionId": 1587,
-        "variantOptionText": "Sandy Gold",
+        "variantOptionId": 7697,
+        "variantOptionText": "White",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -1266,8 +782,8 @@ export const products = [
         ]
       },
       {
-        "variantOptionId": 1313,
-        "variantOptionText": "Light Scarlet",
+        "variantOptionId": 7688,
+        "variantOptionText": "Cyan Lake",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -1277,129 +793,71 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6004",
-        "subStyle": "sub-7004",
-        "shopProductSku": "SANDXL-F7",
-        "stock": 16,
-        "dpPrice": 1037,
-        "mrp": 1280,
-        "sellingPrice": 1164,
+        "sku": "sku-6002",
+        "subStyle": "sub-7002",
+        "shopProductSku": "WHIT5",
+        "stock": 57,
+        "dpPrice": 2360,
+        "mrp": 2958,
+        "sellingPrice": 2666,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 58,
-        "commissionAmount": 104,
+        "burnAmount": 292,
+        "commissionAmount": 306,
         "options": [
           {
-            "variantOptionId": 1587,
-            "variantOptionText": "Sandy Gold"
-          },
-          {
-            "variantOptionId": 1183,
-            "variantOptionText": "XL & Free"
+            "variantOptionId": 7697,
+            "variantOptionText": "White"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       },
       {
-        "sku": "sku-6004",
-        "subStyle": "sub-7004",
-        "shopProductSku": "SAND557",
-        "stock": 55,
-        "dpPrice": 1037,
-        "mrp": 1280,
-        "sellingPrice": 1164,
+        "sku": "sku-6002",
+        "subStyle": "sub-7002",
+        "shopProductSku": "CYAN5",
+        "stock": 72,
+        "dpPrice": 2360,
+        "mrp": 2958,
+        "sellingPrice": 2666,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 58,
-        "commissionAmount": 104,
+        "burnAmount": 292,
+        "commissionAmount": 306,
         "options": [
           {
-            "variantOptionId": 1587,
-            "variantOptionText": "Sandy Gold"
-          },
-          {
-            "variantOptionId": 1837,
-            "variantOptionText": "55''"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6004",
-        "subStyle": "sub-7004",
-        "shopProductSku": "LIGHXL-F7",
-        "stock": 49,
-        "dpPrice": 1037,
-        "mrp": 1280,
-        "sellingPrice": 1164,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 58,
-        "commissionAmount": 104,
-        "options": [
-          {
-            "variantOptionId": 1313,
-            "variantOptionText": "Light Scarlet"
-          },
-          {
-            "variantOptionId": 1183,
-            "variantOptionText": "XL & Free"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6004",
-        "subStyle": "sub-7004",
-        "shopProductSku": "LIGH557",
-        "stock": 86,
-        "dpPrice": 1037,
-        "mrp": 1280,
-        "sellingPrice": 1164,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 58,
-        "commissionAmount": 104,
-        "options": [
-          {
-            "variantOptionId": 1313,
-            "variantOptionText": "Light Scarlet"
-          },
-          {
-            "variantOptionId": 1837,
-            "variantOptionText": "55''"
+            "variantOptionId": 7688,
+            "variantOptionText": "Cyan Lake"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       }
     ],
-    "description": "Gimbals and Stabilizers  #7 available at Electro Mart Ltd.. Category: Gimbals and Stabilizers.",
-    "specification": "Brand: Generic. Category: Gimbals and Stabilizers.",
-    "hasEmi": "N",
+    "description": "HONOR  #5 available at TICKR. Category: HONOR.",
+    "specification": "Brand: Generic. Category: HONOR.",
+    "hasEmi": "Y",
     "isReturnable": "Y",
     "returnDuration": 15,
     "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 343,
-    "warrantyTypeId": 4,
-    "warrantyPeriodId": 22,
-    "warrantyPolicy": "International Manufacturer Warranty - 3 years.",
-    "packageWeight": 0.56,
-    "packageLength": 1.44,
-    "packageWidth": 0.95,
-    "packageHeight": 1.1,
-    "productUrl": "gimbals-and-stabilizers-7",
+    "sizeChartId": 344,
+    "warrantyTypeId": 5,
+    "warrantyPeriodId": 13,
+    "warrantyPolicy": "Brand Warranty - 36 Months.",
+    "packageWeight": 0.36,
+    "packageLength": 1.08,
+    "packageWidth": 1.52,
+    "packageHeight": 1.65,
+    "productUrl": "honor-5",
     "videoUrl": "",
-    "metaTitle": "Gimbals and Stabilizers  #7",
-    "metaKeywords": "Gimbals and Stabilizers,",
-    "metaDescription": "Buy Gimbals and Stabilizers  #7 online at Electro Mart Ltd..",
+    "metaTitle": "HONOR  #5",
+    "metaKeywords": "HONOR,",
+    "metaDescription": "Buy HONOR  #5 online at TICKR.",
     "ogType": "product",
-    "ogTitle": "Gimbals and Stabilizers  #7",
-    "ogUrl": "gimbals-and-stabilizers-7",
-    "ogDescription": "Buy Gimbals and Stabilizers  #7 online at Electro Mart Ltd..",
+    "ogTitle": "HONOR  #5",
+    "ogUrl": "honor-5",
+    "ogDescription": "Buy HONOR  #5 online at TICKR.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
@@ -1407,12 +865,211 @@ export const products = [
     "updatedAt": "2026-04-04T09:50"
   },
   {
-    "productId": 8,
-    "productName": "Portable Power Station BLN #8",
-    "categoryId": 545,
-    "unit": "psc",
-    "shopId": 90,
-    "displayOrder": "8",
+    "productId": 6,
+    "productName": "Womens Jumpsuit BONTE #6",
+    "categoryId": 468,
+    "unit": "set",
+    "shopId": 65,
+    "displayOrder": "6",
+    "thumbnailImages": [
+      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
+      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
+    ],
+    "brandId": 534,
+    "strapMaterial": null,
+    "fitType": "Slim",
+    "gender": "unisex",
+    "variantDimensions": [
+      {
+        "dimensionId": "color",
+        "name": "Color",
+        "options": [
+          {
+            "variantOptionId": 6948,
+            "variantOptionText": "Multi Color"
+          },
+          {
+            "variantOptionId": 8056,
+            "variantOptionText": "Antique White"
+          }
+        ]
+      },
+      {
+        "dimensionId": "size",
+        "name": "Size",
+        "options": [
+          {
+            "variantOptionId": 6943,
+            "variantOptionText": "L"
+          },
+          {
+            "variantOptionId": 6945,
+            "variantOptionText": "XXL"
+          }
+        ]
+      }
+    ],
+    "variantImages": [
+      {
+        "variantOptionId": 6948,
+        "variantOptionText": "Multi Color",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      },
+      {
+        "variantOptionId": 8056,
+        "variantOptionText": "Antique White",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      }
+    ],
+    "variantCombinations": [
+      {
+        "sku": "sku-6003",
+        "subStyle": "sub-7003",
+        "shopProductSku": "MULTL6",
+        "stock": 35,
+        "dpPrice": 1735,
+        "mrp": 2245,
+        "sellingPrice": 2072,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 173,
+        "commissionAmount": 337,
+        "options": [
+          {
+            "variantOptionId": 6948,
+            "variantOptionText": "Multi Color"
+          },
+          {
+            "variantOptionId": 6943,
+            "variantOptionText": "L"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6003",
+        "subStyle": "sub-7003",
+        "shopProductSku": "MULTXXL6",
+        "stock": 61,
+        "dpPrice": 1735,
+        "mrp": 2245,
+        "sellingPrice": 2072,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 173,
+        "commissionAmount": 337,
+        "options": [
+          {
+            "variantOptionId": 6948,
+            "variantOptionText": "Multi Color"
+          },
+          {
+            "variantOptionId": 6945,
+            "variantOptionText": "XXL"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6003",
+        "subStyle": "sub-7003",
+        "shopProductSku": "ANTIL6",
+        "stock": 7,
+        "dpPrice": 1735,
+        "mrp": 2245,
+        "sellingPrice": 2072,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 173,
+        "commissionAmount": 337,
+        "options": [
+          {
+            "variantOptionId": 8056,
+            "variantOptionText": "Antique White"
+          },
+          {
+            "variantOptionId": 6943,
+            "variantOptionText": "L"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6003",
+        "subStyle": "sub-7003",
+        "shopProductSku": "ANTIXXL6",
+        "stock": 36,
+        "dpPrice": 1735,
+        "mrp": 2245,
+        "sellingPrice": 2072,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 173,
+        "commissionAmount": 337,
+        "options": [
+          {
+            "variantOptionId": 8056,
+            "variantOptionText": "Antique White"
+          },
+          {
+            "variantOptionId": 6945,
+            "variantOptionText": "XXL"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      }
+    ],
+    "description": "Womens Jumpsuit BONTE #6 available at Micropack Bangladesh. Category: Womens Jumpsuit.",
+    "specification": "Brand: BONTE. Category: Womens Jumpsuit.",
+    "hasEmi": "N",
+    "isReturnable": "Y",
+    "returnDuration": 15,
+    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
+    "sizeChartId": 356,
+    "warrantyTypeId": 1,
+    "warrantyPeriodId": 18,
+    "warrantyPolicy": "Local Seller Warranty - 18 months.",
+    "packageWeight": 1.32,
+    "packageLength": 0.54,
+    "packageWidth": 0.64,
+    "packageHeight": 0.62,
+    "productUrl": "womens-jumpsuit-6",
+    "videoUrl": "",
+    "metaTitle": "Womens Jumpsuit BONTE #6",
+    "metaKeywords": "Womens Jumpsuit, BONTE",
+    "metaDescription": "Buy Womens Jumpsuit BONTE #6 online at Micropack Bangladesh.",
+    "ogType": "product",
+    "ogTitle": "Womens Jumpsuit BONTE #6",
+    "ogUrl": "womens-jumpsuit-6",
+    "ogDescription": "Buy Womens Jumpsuit BONTE #6 online at Micropack Bangladesh.",
+    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+    "createdBy": "A A Momin",
+    "createdAt": "2026-04-04T09:50",
+    "updatedBy": "B B Momin",
+    "updatedAt": "2026-04-04T09:50"
+  },
+  {
+    "productId": 7,
+    "productName": "Mosquito Killers BLN #7",
+    "categoryId": 389,
+    "unit": "pair",
+    "shopId": 40,
+    "displayOrder": "7",
     "thumbnailImages": [
       "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
       "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -1430,34 +1087,20 @@ export const products = [
         "name": "Color",
         "options": [
           {
-            "variantOptionId": 2249,
-            "variantOptionText": "Cream White"
+            "variantOptionId": 6668,
+            "variantOptionText": "Common Color"
           },
           {
-            "variantOptionId": 1391,
-            "variantOptionText": "Brown & Navy"
-          }
-        ]
-      },
-      {
-        "dimensionId": "size",
-        "name": "Size",
-        "options": [
-          {
-            "variantOptionId": 339,
-            "variantOptionText": "3 YEARS"
-          },
-          {
-            "variantOptionId": 1909,
-            "variantOptionText": "180MM, 7â€³"
+            "variantOptionId": 5862,
+            "variantOptionText": "Grey"
           }
         ]
       }
     ],
     "variantImages": [
       {
-        "variantOptionId": 2249,
-        "variantOptionText": "Cream White",
+        "variantOptionId": 6668,
+        "variantOptionText": "Common Color",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -1465,8 +1108,135 @@ export const products = [
         ]
       },
       {
-        "variantOptionId": 1391,
-        "variantOptionText": "Brown & Navy",
+        "variantOptionId": 5862,
+        "variantOptionText": "Grey",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      }
+    ],
+    "variantCombinations": [
+      {
+        "sku": "sku-6004",
+        "subStyle": "sub-7004",
+        "shopProductSku": "COMM7",
+        "stock": 11,
+        "dpPrice": 1504,
+        "mrp": 2221,
+        "sellingPrice": 2221,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 0,
+        "commissionAmount": 717,
+        "options": [
+          {
+            "variantOptionId": 6668,
+            "variantOptionText": "Common Color"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6004",
+        "subStyle": "sub-7004",
+        "shopProductSku": "GREY7",
+        "stock": 36,
+        "dpPrice": 1504,
+        "mrp": 2221,
+        "sellingPrice": 2221,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 0,
+        "commissionAmount": 717,
+        "options": [
+          {
+            "variantOptionId": 5862,
+            "variantOptionText": "Grey"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      }
+    ],
+    "description": "Mosquito Killers BLN #7 available at Bay. Category: Mosquito Killers.",
+    "specification": "Brand: BLN. Category: Mosquito Killers.",
+    "hasEmi": "Y",
+    "isReturnable": "Y",
+    "returnDuration": 15,
+    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
+    "sizeChartId": 348,
+    "warrantyTypeId": 2,
+    "warrantyPeriodId": 21,
+    "warrantyPolicy": "Non-local Warranty - 7 Months.",
+    "packageWeight": 1.43,
+    "packageLength": 0.9,
+    "packageWidth": 1.68,
+    "packageHeight": 0.75,
+    "productUrl": "mosquito-killers-7",
+    "videoUrl": "",
+    "metaTitle": "Mosquito Killers BLN #7",
+    "metaKeywords": "Mosquito Killers, BLN",
+    "metaDescription": "Buy Mosquito Killers BLN #7 online at Bay.",
+    "ogType": "product",
+    "ogTitle": "Mosquito Killers BLN #7",
+    "ogUrl": "mosquito-killers-7",
+    "ogDescription": "Buy Mosquito Killers BLN #7 online at Bay.",
+    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+    "createdBy": "A A Momin",
+    "createdAt": "2026-04-04T09:50",
+    "updatedBy": "B B Momin",
+    "updatedAt": "2026-04-04T09:50"
+  },
+  {
+    "productId": 8,
+    "productName": "Sports Watch Binbond #8",
+    "categoryId": 232,
+    "unit": "psc",
+    "shopId": 68,
+    "displayOrder": "8",
+    "thumbnailImages": [
+      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
+      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
+    ],
+    "brandId": 286,
+    "strapMaterial": "Metal",
+    "fitType": null,
+    "gender": null,
+    "variantDimensions": [
+      {
+        "dimensionId": "color",
+        "name": "Color",
+        "options": [
+          {
+            "variantOptionId": 6640,
+            "variantOptionText": "Purple"
+          },
+          {
+            "variantOptionId": 6017,
+            "variantOptionText": "White"
+          }
+        ]
+      }
+    ],
+    "variantImages": [
+      {
+        "variantOptionId": 6640,
+        "variantOptionText": "Purple",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      },
+      {
+        "variantOptionId": 6017,
+        "variantOptionText": "White",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -1478,23 +1248,19 @@ export const products = [
       {
         "sku": "sku-6005",
         "subStyle": "sub-7005",
-        "shopProductSku": "CREA3-YE8",
-        "stock": 83,
-        "dpPrice": 942,
+        "shopProductSku": "PURP8",
+        "stock": 8,
+        "dpPrice": 976,
         "mrp": 1398,
-        "sellingPrice": 1310,
+        "sellingPrice": 1327,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 44,
-        "commissionAmount": 94,
+        "burnAmount": 71,
+        "commissionAmount": 351,
         "options": [
           {
-            "variantOptionId": 2249,
-            "variantOptionText": "Cream White"
-          },
-          {
-            "variantOptionId": 339,
-            "variantOptionText": "3 YEARS"
+            "variantOptionId": 6640,
+            "variantOptionText": "Purple"
           }
         ],
         "inventoryTypeId": 1,
@@ -1503,102 +1269,48 @@ export const products = [
       {
         "sku": "sku-6005",
         "subStyle": "sub-7005",
-        "shopProductSku": "CREA180M8",
-        "stock": 26,
-        "dpPrice": 942,
+        "shopProductSku": "WHIT8",
+        "stock": 53,
+        "dpPrice": 976,
         "mrp": 1398,
-        "sellingPrice": 1310,
+        "sellingPrice": 1327,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 44,
-        "commissionAmount": 94,
+        "burnAmount": 71,
+        "commissionAmount": 351,
         "options": [
           {
-            "variantOptionId": 2249,
-            "variantOptionText": "Cream White"
-          },
-          {
-            "variantOptionId": 1909,
-            "variantOptionText": "180MM, 7â€³"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6005",
-        "subStyle": "sub-7005",
-        "shopProductSku": "BROW3-YE8",
-        "stock": 61,
-        "dpPrice": 942,
-        "mrp": 1398,
-        "sellingPrice": 1310,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 44,
-        "commissionAmount": 94,
-        "options": [
-          {
-            "variantOptionId": 1391,
-            "variantOptionText": "Brown & Navy"
-          },
-          {
-            "variantOptionId": 339,
-            "variantOptionText": "3 YEARS"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6005",
-        "subStyle": "sub-7005",
-        "shopProductSku": "BROW180M8",
-        "stock": 99,
-        "dpPrice": 942,
-        "mrp": 1398,
-        "sellingPrice": 1310,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 44,
-        "commissionAmount": 94,
-        "options": [
-          {
-            "variantOptionId": 1391,
-            "variantOptionText": "Brown & Navy"
-          },
-          {
-            "variantOptionId": 1909,
-            "variantOptionText": "180MM, 7â€³"
+            "variantOptionId": 6017,
+            "variantOptionText": "White"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       }
     ],
-    "description": "Portable Power Station BLN #8 available at Dewan Electronics. Category: Portable Power Station.",
-    "specification": "Brand: BLN. Category: Portable Power Station.",
-    "hasEmi": "N",
-    "isReturnable": "N",
+    "description": "Sports Watch Binbond #8 available at Ultima Bangladesh. Category: Sports Watch.",
+    "specification": "Brand: Binbond. Category: Sports Watch.",
+    "hasEmi": "Y",
+    "isReturnable": "Y",
     "returnDuration": 15,
     "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
     "sizeChartId": 340,
-    "warrantyTypeId": 2,
-    "warrantyPeriodId": 3,
-    "warrantyPolicy": "Non-local Warranty - 3 Month.",
-    "packageWeight": 1.26,
-    "packageLength": 1.59,
-    "packageWidth": 0.58,
-    "packageHeight": 1.36,
-    "productUrl": "portable-power-station-8",
+    "warrantyTypeId": 1,
+    "warrantyPeriodId": 16,
+    "warrantyPolicy": "Local Seller Warranty - 5 Years.",
+    "packageWeight": 0.27,
+    "packageLength": 0.46,
+    "packageWidth": 0.2,
+    "packageHeight": 0.47,
+    "productUrl": "sports-watch-8",
     "videoUrl": "",
-    "metaTitle": "Portable Power Station BLN #8",
-    "metaKeywords": "Portable Power Station, BLN",
-    "metaDescription": "Buy Portable Power Station BLN #8 online at Dewan Electronics.",
+    "metaTitle": "Sports Watch Binbond #8",
+    "metaKeywords": "Sports Watch, Binbond",
+    "metaDescription": "Buy Sports Watch Binbond #8 online at Ultima Bangladesh.",
     "ogType": "product",
-    "ogTitle": "Portable Power Station BLN #8",
-    "ogUrl": "portable-power-station-8",
-    "ogDescription": "Buy Portable Power Station BLN #8 online at Dewan Electronics.",
+    "ogTitle": "Sports Watch Binbond #8",
+    "ogUrl": "sports-watch-8",
+    "ogDescription": "Buy Sports Watch Binbond #8 online at Ultima Bangladesh.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
@@ -1607,10 +1319,10 @@ export const products = [
   },
   {
     "productId": 9,
-    "productName": "Helmet Ariston #9",
-    "categoryId": 410,
-    "unit": "set",
-    "shopId": 109,
+    "productName": "Computers & Accessories 1MORE #9",
+    "categoryId": 250,
+    "unit": "psc",
+    "shopId": 59,
     "displayOrder": "9",
     "thumbnailImages": [
       "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
@@ -1619,441 +1331,29 @@ export const products = [
       "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
       "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
     ],
-    "brandId": 495,
+    "brandId": 577,
     "strapMaterial": null,
     "fitType": null,
     "gender": null,
-    "variantDimensions": [
-      {
-        "dimensionId": "attr-0",
-        "name": "Primary Option",
-        "options": [
-          {
-            "variantOptionId": 6267,
-            "variantOptionText": "Grey"
-          },
-          {
-            "variantOptionId": 6107,
-            "variantOptionText": "Black & Blue"
-          }
-        ]
-      },
-      {
-        "dimensionId": "attr-1",
-        "name": "Secondary Option",
-        "options": [
-          {
-            "variantOptionId": 5947,
-            "variantOptionText": "XL"
-          },
-          {
-            "variantOptionId": 5944,
-            "variantOptionText": "S"
-          }
-        ]
-      }
-    ],
-    "variantImages": [
-      {
-        "variantOptionId": 6267,
-        "variantOptionText": "Grey",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      },
-      {
-        "variantOptionId": 6107,
-        "variantOptionText": "Black & Blue",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      }
-    ],
-    "variantCombinations": [
-      {
-        "sku": "sku-6006",
-        "subStyle": "sub-7006",
-        "shopProductSku": "GREYXL9",
-        "stock": 25,
-        "dpPrice": 519,
-        "mrp": 726,
-        "sellingPrice": 689,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 19,
-        "commissionAmount": 52,
-        "options": [
-          {
-            "variantOptionId": 6267,
-            "variantOptionText": "Grey"
-          },
-          {
-            "variantOptionId": 5947,
-            "variantOptionText": "XL"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6006",
-        "subStyle": "sub-7006",
-        "shopProductSku": "GREYS9",
-        "stock": 76,
-        "dpPrice": 519,
-        "mrp": 726,
-        "sellingPrice": 689,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 19,
-        "commissionAmount": 52,
-        "options": [
-          {
-            "variantOptionId": 6267,
-            "variantOptionText": "Grey"
-          },
-          {
-            "variantOptionId": 5944,
-            "variantOptionText": "S"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6006",
-        "subStyle": "sub-7006",
-        "shopProductSku": "BLACXL9",
-        "stock": 44,
-        "dpPrice": 519,
-        "mrp": 726,
-        "sellingPrice": 689,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 19,
-        "commissionAmount": 52,
-        "options": [
-          {
-            "variantOptionId": 6107,
-            "variantOptionText": "Black & Blue"
-          },
-          {
-            "variantOptionId": 5947,
-            "variantOptionText": "XL"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6006",
-        "subStyle": "sub-7006",
-        "shopProductSku": "BLACS9",
-        "stock": 91,
-        "dpPrice": 519,
-        "mrp": 726,
-        "sellingPrice": 689,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 19,
-        "commissionAmount": 52,
-        "options": [
-          {
-            "variantOptionId": 6107,
-            "variantOptionText": "Black & Blue"
-          },
-          {
-            "variantOptionId": 5944,
-            "variantOptionText": "S"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      }
-    ],
-    "description": "Helmet Ariston #9 available at Oraimo G-Store. Category: Helmet.",
-    "specification": "Brand: Ariston. Category: Helmet.",
-    "hasEmi": "Y",
-    "isReturnable": "Y",
-    "returnDuration": 15,
-    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 357,
-    "warrantyTypeId": 2,
-    "warrantyPeriodId": 22,
-    "warrantyPolicy": "Non-local Warranty - 3 years.",
-    "packageWeight": 1.47,
-    "packageLength": 0.34,
-    "packageWidth": 1.05,
-    "packageHeight": 0.55,
-    "productUrl": "helmet-9",
-    "videoUrl": "",
-    "metaTitle": "Helmet Ariston #9",
-    "metaKeywords": "Helmet, Ariston",
-    "metaDescription": "Buy Helmet Ariston #9 online at Oraimo G-Store.",
-    "ogType": "product",
-    "ogTitle": "Helmet Ariston #9",
-    "ogUrl": "helmet-9",
-    "ogDescription": "Buy Helmet Ariston #9 online at Oraimo G-Store.",
-    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-    "createdBy": "A A Momin",
-    "createdAt": "2026-04-04T09:50",
-    "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
-  },
-  {
-    "productId": 10,
-    "productName": "Mens Accessories  #10",
-    "categoryId": 101,
-    "unit": "pair",
-    "shopId": 64,
-    "displayOrder": "10",
-    "thumbnailImages": [
-      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
-      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
-    ],
-    "brandId": null,
-    "strapMaterial": null,
-    "fitType": "Loose",
-    "gender": "female",
     "variantDimensions": [
       {
         "dimensionId": "color",
         "name": "Color",
         "options": [
           {
-            "variantOptionId": 791,
-            "variantOptionText": "Horizon Grey"
-          },
-          {
-            "variantOptionId": 471,
-            "variantOptionText": "Red Jesper"
-          }
-        ]
-      },
-      {
-        "dimensionId": "size",
-        "name": "Size",
-        "options": [
-          {
-            "variantOptionId": 1182,
-            "variantOptionText": "L & Free"
-          },
-          {
-            "variantOptionId": 1145,
-            "variantOptionText": "22 MM"
-          }
-        ]
-      }
-    ],
-    "variantImages": [
-      {
-        "variantOptionId": 791,
-        "variantOptionText": "Horizon Grey",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      },
-      {
-        "variantOptionId": 471,
-        "variantOptionText": "Red Jesper",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      }
-    ],
-    "variantCombinations": [
-      {
-        "sku": "sku-6007",
-        "subStyle": "sub-7007",
-        "shopProductSku": "HORIL-FR10",
-        "stock": 18,
-        "dpPrice": 2915,
-        "mrp": 4058,
-        "sellingPrice": 3604,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 227,
-        "commissionAmount": 292,
-        "options": [
-          {
-            "variantOptionId": 791,
-            "variantOptionText": "Horizon Grey"
-          },
-          {
-            "variantOptionId": 1182,
-            "variantOptionText": "L & Free"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6007",
-        "subStyle": "sub-7007",
-        "shopProductSku": "HORI22-M10",
-        "stock": 18,
-        "dpPrice": 2915,
-        "mrp": 4058,
-        "sellingPrice": 3604,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 227,
-        "commissionAmount": 292,
-        "options": [
-          {
-            "variantOptionId": 791,
-            "variantOptionText": "Horizon Grey"
-          },
-          {
-            "variantOptionId": 1145,
-            "variantOptionText": "22 MM"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6007",
-        "subStyle": "sub-7007",
-        "shopProductSku": "RED-L-FR10",
-        "stock": 98,
-        "dpPrice": 2915,
-        "mrp": 4058,
-        "sellingPrice": 3604,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 227,
-        "commissionAmount": 292,
-        "options": [
-          {
-            "variantOptionId": 471,
-            "variantOptionText": "Red Jesper"
-          },
-          {
-            "variantOptionId": 1182,
-            "variantOptionText": "L & Free"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6007",
-        "subStyle": "sub-7007",
-        "shopProductSku": "RED-22-M10",
-        "stock": 67,
-        "dpPrice": 2915,
-        "mrp": 4058,
-        "sellingPrice": 3604,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 227,
-        "commissionAmount": 292,
-        "options": [
-          {
-            "variantOptionId": 471,
-            "variantOptionText": "Red Jesper"
-          },
-          {
-            "variantOptionId": 1145,
-            "variantOptionText": "22 MM"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      }
-    ],
-    "description": "Mens Accessories  #10 available at TP-Link Bangladesh. Category: Mens Accessories.",
-    "specification": "Brand: Generic. Category: Mens Accessories.",
-    "hasEmi": "N",
-    "isReturnable": "Y",
-    "returnDuration": 15,
-    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 365,
-    "warrantyTypeId": 3,
-    "warrantyPeriodId": 14,
-    "warrantyPolicy": "International Seller Warranty - 24 Months.",
-    "packageWeight": 0.6,
-    "packageLength": 1.41,
-    "packageWidth": 0.75,
-    "packageHeight": 0.39,
-    "productUrl": "mens-accessories-10",
-    "videoUrl": "",
-    "metaTitle": "Mens Accessories  #10",
-    "metaKeywords": "Mens Accessories,",
-    "metaDescription": "Buy Mens Accessories  #10 online at TP-Link Bangladesh.",
-    "ogType": "product",
-    "ogTitle": "Mens Accessories  #10",
-    "ogUrl": "mens-accessories-10",
-    "ogDescription": "Buy Mens Accessories  #10 online at TP-Link Bangladesh.",
-    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-    "createdBy": "A A Momin",
-    "createdAt": "2026-04-04T09:50",
-    "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
-  },
-  {
-    "productId": 11,
-    "productName": "Mouse AUKEY #11",
-    "categoryId": 268,
-    "unit": "set",
-    "shopId": 86,
-    "displayOrder": "11",
-    "thumbnailImages": [
-      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
-      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
-    ],
-    "brandId": 521,
-    "strapMaterial": null,
-    "fitType": null,
-    "gender": null,
-    "variantDimensions": [
-      {
-        "dimensionId": "attr-0",
-        "name": "Primary Option",
-        "options": [
-          {
-            "variantOptionId": 3897,
+            "variantOptionId": 5774,
             "variantOptionText": "White"
           },
           {
-            "variantOptionId": 3945,
-            "variantOptionText": "Grey"
-          }
-        ]
-      },
-      {
-        "dimensionId": "attr-1",
-        "name": "Secondary Option",
-        "options": [
-          {
-            "variantOptionId": 3900,
-            "variantOptionText": "Wired"
-          },
-          {
-            "variantOptionId": 3901,
-            "variantOptionText": "Wireless"
+            "variantOptionId": 7778,
+            "variantOptionText": "Black"
           }
         ]
       }
     ],
     "variantImages": [
       {
-        "variantOptionId": 3897,
+        "variantOptionId": 5774,
         "variantOptionText": "White",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
@@ -2062,8 +1362,8 @@ export const products = [
         ]
       },
       {
-        "variantOptionId": 3945,
-        "variantOptionText": "Grey",
+        "variantOptionId": 7778,
+        "variantOptionText": "Black",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -2073,129 +1373,71 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6008",
-        "subStyle": "sub-7008",
-        "shopProductSku": "WHITWIRE11",
-        "stock": 97,
-        "dpPrice": 2965,
-        "mrp": 4325,
-        "sellingPrice": 3771,
+        "sku": "sku-6006",
+        "subStyle": "sub-7006",
+        "shopProductSku": "WHIT9",
+        "stock": 6,
+        "dpPrice": 1745,
+        "mrp": 2275,
+        "sellingPrice": 2044,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 277,
-        "commissionAmount": 297,
+        "burnAmount": 231,
+        "commissionAmount": 299,
         "options": [
           {
-            "variantOptionId": 3897,
+            "variantOptionId": 5774,
             "variantOptionText": "White"
-          },
-          {
-            "variantOptionId": 3900,
-            "variantOptionText": "Wired"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       },
       {
-        "sku": "sku-6008",
-        "subStyle": "sub-7008",
-        "shopProductSku": "WHITWIRE11X",
-        "stock": 55,
-        "dpPrice": 2965,
-        "mrp": 4325,
-        "sellingPrice": 3771,
+        "sku": "sku-6006",
+        "subStyle": "sub-7006",
+        "shopProductSku": "BLAC9",
+        "stock": 61,
+        "dpPrice": 1745,
+        "mrp": 2275,
+        "sellingPrice": 2044,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 277,
-        "commissionAmount": 297,
+        "burnAmount": 231,
+        "commissionAmount": 299,
         "options": [
           {
-            "variantOptionId": 3897,
-            "variantOptionText": "White"
-          },
-          {
-            "variantOptionId": 3901,
-            "variantOptionText": "Wireless"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6008",
-        "subStyle": "sub-7008",
-        "shopProductSku": "GREYWIRE11",
-        "stock": 100,
-        "dpPrice": 2965,
-        "mrp": 4325,
-        "sellingPrice": 3771,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 277,
-        "commissionAmount": 297,
-        "options": [
-          {
-            "variantOptionId": 3945,
-            "variantOptionText": "Grey"
-          },
-          {
-            "variantOptionId": 3900,
-            "variantOptionText": "Wired"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6008",
-        "subStyle": "sub-7008",
-        "shopProductSku": "GREYWIRE11X",
-        "stock": 21,
-        "dpPrice": 2965,
-        "mrp": 4325,
-        "sellingPrice": 3771,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 277,
-        "commissionAmount": 297,
-        "options": [
-          {
-            "variantOptionId": 3945,
-            "variantOptionText": "Grey"
-          },
-          {
-            "variantOptionId": 3901,
-            "variantOptionText": "Wireless"
+            "variantOptionId": 7778,
+            "variantOptionText": "Black"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       }
     ],
-    "description": "Mouse AUKEY #11 available at Afseen bag. Category: Mouse.",
-    "specification": "Brand: AUKEY. Category: Mouse.",
-    "hasEmi": "N",
+    "description": "Computers & Accessories 1MORE #9 available at JBF Traders. Category: Computers & Accessories.",
+    "specification": "Brand: 1MORE. Category: Computers & Accessories.",
+    "hasEmi": "Y",
     "isReturnable": "Y",
     "returnDuration": 15,
     "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 368,
-    "warrantyTypeId": 1,
-    "warrantyPeriodId": 12,
-    "warrantyPolicy": "Local Seller Warranty - 12 Months.",
-    "packageWeight": 1.06,
-    "packageLength": 1.65,
-    "packageWidth": 1.43,
-    "packageHeight": 0.54,
-    "productUrl": "mouse-11",
+    "sizeChartId": 358,
+    "warrantyTypeId": 2,
+    "warrantyPeriodId": 2,
+    "warrantyPolicy": "Non-local Warranty - 2 Month.",
+    "packageWeight": 1.58,
+    "packageLength": 0.93,
+    "packageWidth": 0.53,
+    "packageHeight": 1.19,
+    "productUrl": "computers-accessories-9",
     "videoUrl": "",
-    "metaTitle": "Mouse AUKEY #11",
-    "metaKeywords": "Mouse, AUKEY",
-    "metaDescription": "Buy Mouse AUKEY #11 online at Afseen bag.",
+    "metaTitle": "Computers & Accessories 1MORE #9",
+    "metaKeywords": "Computers & Accessories, 1MORE",
+    "metaDescription": "Buy Computers & Accessories 1MORE #9 online at JBF Traders.",
     "ogType": "product",
-    "ogTitle": "Mouse AUKEY #11",
-    "ogUrl": "mouse-11",
-    "ogDescription": "Buy Mouse AUKEY #11 online at Afseen bag.",
+    "ogTitle": "Computers & Accessories 1MORE #9",
+    "ogUrl": "computers-accessories-9",
+    "ogDescription": "Buy Computers & Accessories 1MORE #9 online at JBF Traders.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
@@ -2203,12 +1445,211 @@ export const products = [
     "updatedAt": "2026-04-04T09:50"
   },
   {
-    "productId": 12,
-    "productName": "Bike Accessories  #12",
-    "categoryId": 411,
+    "productId": 10,
+    "productName": "Mens Belt Apex #10",
+    "categoryId": 104,
     "unit": "set",
-    "shopId": 68,
-    "displayOrder": "12",
+    "shopId": 69,
+    "displayOrder": "10",
+    "thumbnailImages": [
+      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
+      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
+    ],
+    "brandId": 168,
+    "strapMaterial": "Metal",
+    "fitType": "Regular",
+    "gender": "unisex",
+    "variantDimensions": [
+      {
+        "dimensionId": "color",
+        "name": "Color",
+        "options": [
+          {
+            "variantOptionId": 7770,
+            "variantOptionText": "Dark Chocolate"
+          },
+          {
+            "variantOptionId": 5163,
+            "variantOptionText": "Black & Brown"
+          }
+        ]
+      },
+      {
+        "dimensionId": "size",
+        "name": "Size",
+        "options": [
+          {
+            "variantOptionId": 6354,
+            "variantOptionText": "46"
+          },
+          {
+            "variantOptionId": 6348,
+            "variantOptionText": "34"
+          }
+        ]
+      }
+    ],
+    "variantImages": [
+      {
+        "variantOptionId": 7770,
+        "variantOptionText": "Dark Chocolate",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      },
+      {
+        "variantOptionId": 5163,
+        "variantOptionText": "Black & Brown",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      }
+    ],
+    "variantCombinations": [
+      {
+        "sku": "sku-6007",
+        "subStyle": "sub-7007",
+        "shopProductSku": "DARK4610",
+        "stock": 42,
+        "dpPrice": 425,
+        "mrp": 543,
+        "sellingPrice": 508,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 35,
+        "commissionAmount": 83,
+        "options": [
+          {
+            "variantOptionId": 7770,
+            "variantOptionText": "Dark Chocolate"
+          },
+          {
+            "variantOptionId": 6354,
+            "variantOptionText": "46"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6007",
+        "subStyle": "sub-7007",
+        "shopProductSku": "DARK3410",
+        "stock": 10,
+        "dpPrice": 425,
+        "mrp": 543,
+        "sellingPrice": 508,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 35,
+        "commissionAmount": 83,
+        "options": [
+          {
+            "variantOptionId": 7770,
+            "variantOptionText": "Dark Chocolate"
+          },
+          {
+            "variantOptionId": 6348,
+            "variantOptionText": "34"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6007",
+        "subStyle": "sub-7007",
+        "shopProductSku": "BLAC4610",
+        "stock": 67,
+        "dpPrice": 425,
+        "mrp": 543,
+        "sellingPrice": 508,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 35,
+        "commissionAmount": 83,
+        "options": [
+          {
+            "variantOptionId": 5163,
+            "variantOptionText": "Black & Brown"
+          },
+          {
+            "variantOptionId": 6354,
+            "variantOptionText": "46"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6007",
+        "subStyle": "sub-7007",
+        "shopProductSku": "BLAC3410",
+        "stock": 60,
+        "dpPrice": 425,
+        "mrp": 543,
+        "sellingPrice": 508,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 35,
+        "commissionAmount": 83,
+        "options": [
+          {
+            "variantOptionId": 5163,
+            "variantOptionText": "Black & Brown"
+          },
+          {
+            "variantOptionId": 6348,
+            "variantOptionText": "34"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      }
+    ],
+    "description": "Mens Belt Apex #10 available at SSB Leather. Category: Mens Belt.",
+    "specification": "Brand: Apex. Category: Mens Belt.",
+    "hasEmi": "Y",
+    "isReturnable": "Y",
+    "returnDuration": 15,
+    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
+    "sizeChartId": 347,
+    "warrantyTypeId": 4,
+    "warrantyPeriodId": 17,
+    "warrantyPolicy": "International Manufacturer Warranty - 12 Years.",
+    "packageWeight": 1.17,
+    "packageLength": 0.26,
+    "packageWidth": 0.91,
+    "packageHeight": 1.15,
+    "productUrl": "mens-belt-10",
+    "videoUrl": "",
+    "metaTitle": "Mens Belt Apex #10",
+    "metaKeywords": "Mens Belt, Apex",
+    "metaDescription": "Buy Mens Belt Apex #10 online at SSB Leather.",
+    "ogType": "product",
+    "ogTitle": "Mens Belt Apex #10",
+    "ogUrl": "mens-belt-10",
+    "ogDescription": "Buy Mens Belt Apex #10 online at SSB Leather.",
+    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+    "createdBy": "A A Momin",
+    "createdAt": "2026-04-04T09:50",
+    "updatedBy": "B B Momin",
+    "updatedAt": "2026-04-04T09:50"
+  },
+  {
+    "productId": 11,
+    "productName": "Air Cooler  #11",
+    "categoryId": 326,
+    "unit": "set",
+    "shopId": 103,
+    "displayOrder": "11",
     "thumbnailImages": [
       "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
       "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -2222,38 +1663,24 @@ export const products = [
     "gender": null,
     "variantDimensions": [
       {
-        "dimensionId": "attr-0",
-        "name": "Primary Option",
+        "dimensionId": "color",
+        "name": "Color",
         "options": [
           {
-            "variantOptionId": 7220,
-            "variantOptionText": "Silver"
+            "variantOptionId": 5020,
+            "variantOptionText": "Multi Color"
           },
           {
-            "variantOptionId": 7223,
-            "variantOptionText": "SILVER WHITE"
-          }
-        ]
-      },
-      {
-        "dimensionId": "attr-1",
-        "name": "Secondary Option",
-        "options": [
-          {
-            "variantOptionId": 5992,
-            "variantOptionText": "L"
-          },
-          {
-            "variantOptionId": 5996,
-            "variantOptionText": "M"
+            "variantOptionId": 8210,
+            "variantOptionText": "Black"
           }
         ]
       }
     ],
     "variantImages": [
       {
-        "variantOptionId": 7220,
-        "variantOptionText": "Silver",
+        "variantOptionId": 5020,
+        "variantOptionText": "Multi Color",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -2261,8 +1688,149 @@ export const products = [
         ]
       },
       {
-        "variantOptionId": 7223,
-        "variantOptionText": "SILVER WHITE",
+        "variantOptionId": 8210,
+        "variantOptionText": "Black",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      }
+    ],
+    "variantCombinations": [
+      {
+        "sku": "sku-6008",
+        "subStyle": "sub-7008",
+        "shopProductSku": "MULT11",
+        "stock": 5,
+        "dpPrice": 407,
+        "mrp": 517,
+        "sellingPrice": 457,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 60,
+        "commissionAmount": 50,
+        "options": [
+          {
+            "variantOptionId": 5020,
+            "variantOptionText": "Multi Color"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6008",
+        "subStyle": "sub-7008",
+        "shopProductSku": "BLAC11",
+        "stock": 66,
+        "dpPrice": 407,
+        "mrp": 517,
+        "sellingPrice": 457,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 60,
+        "commissionAmount": 50,
+        "options": [
+          {
+            "variantOptionId": 8210,
+            "variantOptionText": "Black"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      }
+    ],
+    "description": "Air Cooler  #11 available at Deximpo Int.. Category: Air Cooler.",
+    "specification": "Brand: Generic. Category: Air Cooler.",
+    "hasEmi": "N",
+    "isReturnable": "Y",
+    "returnDuration": 15,
+    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
+    "sizeChartId": 369,
+    "warrantyTypeId": 5,
+    "warrantyPeriodId": 19,
+    "warrantyPolicy": "Brand Warranty - 7 Years.",
+    "packageWeight": 1.21,
+    "packageLength": 0.97,
+    "packageWidth": 1.03,
+    "packageHeight": 0.81,
+    "productUrl": "air-cooler-11",
+    "videoUrl": "",
+    "metaTitle": "Air Cooler  #11",
+    "metaKeywords": "Air Cooler,",
+    "metaDescription": "Buy Air Cooler  #11 online at Deximpo Int..",
+    "ogType": "product",
+    "ogTitle": "Air Cooler  #11",
+    "ogUrl": "air-cooler-11",
+    "ogDescription": "Buy Air Cooler  #11 online at Deximpo Int..",
+    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+    "createdBy": "A A Momin",
+    "createdAt": "2026-04-04T09:50",
+    "updatedBy": "B B Momin",
+    "updatedAt": "2026-04-04T09:50"
+  },
+  {
+    "productId": 12,
+    "productName": "Mens Jacket BONTE #12",
+    "categoryId": 531,
+    "unit": "set",
+    "shopId": 76,
+    "displayOrder": "12",
+    "thumbnailImages": [
+      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
+      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
+    ],
+    "brandId": 534,
+    "strapMaterial": null,
+    "fitType": "Slim",
+    "gender": "female",
+    "variantDimensions": [
+      {
+        "dimensionId": "color",
+        "name": "Color",
+        "options": [
+          {
+            "variantOptionId": 8375,
+            "variantOptionText": "Ash"
+          },
+          {
+            "variantOptionId": 8380,
+            "variantOptionText": "Ocean blue"
+          }
+        ]
+      },
+      {
+        "dimensionId": "size",
+        "name": "Size",
+        "options": [
+          {
+            "variantOptionId": 8398,
+            "variantOptionText": "XXXL"
+          },
+          {
+            "variantOptionId": 8397,
+            "variantOptionText": "XXL"
+          }
+        ]
+      }
+    ],
+    "variantImages": [
+      {
+        "variantOptionId": 8375,
+        "variantOptionText": "Ash",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      },
+      {
+        "variantOptionId": 8380,
+        "variantOptionText": "Ocean blue",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -2274,23 +1842,23 @@ export const products = [
       {
         "sku": "sku-6009",
         "subStyle": "sub-7009",
-        "shopProductSku": "SILVL12",
-        "stock": 21,
-        "dpPrice": 2233,
-        "mrp": 3049,
-        "sellingPrice": 2747,
+        "shopProductSku": "ASHXXXL12",
+        "stock": 71,
+        "dpPrice": 2304,
+        "mrp": 3418,
+        "sellingPrice": 3418,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 151,
-        "commissionAmount": 223,
+        "burnAmount": 0,
+        "commissionAmount": 1114,
         "options": [
           {
-            "variantOptionId": 7220,
-            "variantOptionText": "Silver"
+            "variantOptionId": 8375,
+            "variantOptionText": "Ash"
           },
           {
-            "variantOptionId": 5992,
-            "variantOptionText": "L"
+            "variantOptionId": 8398,
+            "variantOptionText": "XXXL"
           }
         ],
         "inventoryTypeId": 1,
@@ -2299,23 +1867,23 @@ export const products = [
       {
         "sku": "sku-6009",
         "subStyle": "sub-7009",
-        "shopProductSku": "SILVM12",
-        "stock": 34,
-        "dpPrice": 2233,
-        "mrp": 3049,
-        "sellingPrice": 2747,
+        "shopProductSku": "ASHXXL12",
+        "stock": 98,
+        "dpPrice": 2304,
+        "mrp": 3418,
+        "sellingPrice": 3418,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 151,
-        "commissionAmount": 223,
+        "burnAmount": 0,
+        "commissionAmount": 1114,
         "options": [
           {
-            "variantOptionId": 7220,
-            "variantOptionText": "Silver"
+            "variantOptionId": 8375,
+            "variantOptionText": "Ash"
           },
           {
-            "variantOptionId": 5996,
-            "variantOptionText": "M"
+            "variantOptionId": 8397,
+            "variantOptionText": "XXL"
           }
         ],
         "inventoryTypeId": 1,
@@ -2324,23 +1892,23 @@ export const products = [
       {
         "sku": "sku-6009",
         "subStyle": "sub-7009",
-        "shopProductSku": "SILVL12X",
-        "stock": 40,
-        "dpPrice": 2233,
-        "mrp": 3049,
-        "sellingPrice": 2747,
+        "shopProductSku": "OCEAXXXL12",
+        "stock": 39,
+        "dpPrice": 2304,
+        "mrp": 3418,
+        "sellingPrice": 3418,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 151,
-        "commissionAmount": 223,
+        "burnAmount": 0,
+        "commissionAmount": 1114,
         "options": [
           {
-            "variantOptionId": 7223,
-            "variantOptionText": "SILVER WHITE"
+            "variantOptionId": 8380,
+            "variantOptionText": "Ocean blue"
           },
           {
-            "variantOptionId": 5992,
-            "variantOptionText": "L"
+            "variantOptionId": 8398,
+            "variantOptionText": "XXXL"
           }
         ],
         "inventoryTypeId": 1,
@@ -2349,52 +1917,52 @@ export const products = [
       {
         "sku": "sku-6009",
         "subStyle": "sub-7009",
-        "shopProductSku": "SILVM12X",
-        "stock": 48,
-        "dpPrice": 2233,
-        "mrp": 3049,
-        "sellingPrice": 2747,
+        "shopProductSku": "OCEAXXL12",
+        "stock": 7,
+        "dpPrice": 2304,
+        "mrp": 3418,
+        "sellingPrice": 3418,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 151,
-        "commissionAmount": 223,
+        "burnAmount": 0,
+        "commissionAmount": 1114,
         "options": [
           {
-            "variantOptionId": 7223,
-            "variantOptionText": "SILVER WHITE"
+            "variantOptionId": 8380,
+            "variantOptionText": "Ocean blue"
           },
           {
-            "variantOptionId": 5996,
-            "variantOptionText": "M"
+            "variantOptionId": 8397,
+            "variantOptionText": "XXL"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       }
     ],
-    "description": "Bike Accessories  #12 available at Ultima Bangladesh. Category: Bike Accessories.",
-    "specification": "Brand: Generic. Category: Bike Accessories.",
+    "description": "Mens Jacket BONTE #12 available at Elevate Lifestyle Ltd. Category: Mens Jacket.",
+    "specification": "Brand: BONTE. Category: Mens Jacket.",
     "hasEmi": "N",
     "isReturnable": "Y",
     "returnDuration": 15,
     "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 357,
-    "warrantyTypeId": 2,
-    "warrantyPeriodId": 14,
-    "warrantyPolicy": "Non-local Warranty - 24 Months.",
-    "packageWeight": 0.88,
-    "packageLength": 0.28,
-    "packageWidth": 0.64,
-    "packageHeight": 0.28,
-    "productUrl": "bike-accessories-12",
+    "sizeChartId": 366,
+    "warrantyTypeId": 5,
+    "warrantyPeriodId": 19,
+    "warrantyPolicy": "Brand Warranty - 7 Years.",
+    "packageWeight": 1.43,
+    "packageLength": 1.64,
+    "packageWidth": 1.51,
+    "packageHeight": 0.4,
+    "productUrl": "mens-jacket-12",
     "videoUrl": "",
-    "metaTitle": "Bike Accessories  #12",
-    "metaKeywords": "Bike Accessories,",
-    "metaDescription": "Buy Bike Accessories  #12 online at Ultima Bangladesh.",
+    "metaTitle": "Mens Jacket BONTE #12",
+    "metaKeywords": "Mens Jacket, BONTE",
+    "metaDescription": "Buy Mens Jacket BONTE #12 online at Elevate Lifestyle Ltd.",
     "ogType": "product",
-    "ogTitle": "Bike Accessories  #12",
-    "ogUrl": "bike-accessories-12",
-    "ogDescription": "Buy Bike Accessories  #12 online at Ultima Bangladesh.",
+    "ogTitle": "Mens Jacket BONTE #12",
+    "ogUrl": "mens-jacket-12",
+    "ogDescription": "Buy Mens Jacket BONTE #12 online at Elevate Lifestyle Ltd.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
@@ -2403,10 +1971,10 @@ export const products = [
   },
   {
     "productId": 13,
-    "productName": "Bags 1MORE #13",
-    "categoryId": 143,
-    "unit": "pair",
-    "shopId": 64,
+    "productName": "Blender & Mixer Grinder BLN #13",
+    "categoryId": 185,
+    "unit": "psc",
+    "shopId": 42,
     "displayOrder": "13",
     "thumbnailImages": [
       "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
@@ -2415,206 +1983,7 @@ export const products = [
       "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
       "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
     ],
-    "brandId": 577,
-    "strapMaterial": "Metal",
-    "fitType": "Regular",
-    "gender": "male",
-    "variantDimensions": [
-      {
-        "dimensionId": "attr-0",
-        "name": "Primary Option",
-        "options": [
-          {
-            "variantOptionId": 4514,
-            "variantOptionText": "Lavender"
-          },
-          {
-            "variantOptionId": 4782,
-            "variantOptionText": "Dark Brown"
-          }
-        ]
-      },
-      {
-        "dimensionId": "attr-1",
-        "name": "Secondary Option",
-        "options": [
-          {
-            "variantOptionId": 4566,
-            "variantOptionText": "Nylon & Polyester"
-          },
-          {
-            "variantOptionId": 3481,
-            "variantOptionText": "Cationic Oxford Fabric"
-          }
-        ]
-      }
-    ],
-    "variantImages": [
-      {
-        "variantOptionId": 4514,
-        "variantOptionText": "Lavender",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      },
-      {
-        "variantOptionId": 4782,
-        "variantOptionText": "Dark Brown",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      }
-    ],
-    "variantCombinations": [
-      {
-        "sku": "sku-6010",
-        "subStyle": "sub-7010",
-        "shopProductSku": "LAVENYLO13",
-        "stock": 11,
-        "dpPrice": 2284,
-        "mrp": 3373,
-        "sellingPrice": 3147,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 113,
-        "commissionAmount": 228,
-        "options": [
-          {
-            "variantOptionId": 4514,
-            "variantOptionText": "Lavender"
-          },
-          {
-            "variantOptionId": 4566,
-            "variantOptionText": "Nylon & Polyester"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6010",
-        "subStyle": "sub-7010",
-        "shopProductSku": "LAVECATI13",
-        "stock": 57,
-        "dpPrice": 2284,
-        "mrp": 3373,
-        "sellingPrice": 3147,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 113,
-        "commissionAmount": 228,
-        "options": [
-          {
-            "variantOptionId": 4514,
-            "variantOptionText": "Lavender"
-          },
-          {
-            "variantOptionId": 3481,
-            "variantOptionText": "Cationic Oxford Fabric"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6010",
-        "subStyle": "sub-7010",
-        "shopProductSku": "DARKNYLO13",
-        "stock": 29,
-        "dpPrice": 2284,
-        "mrp": 3373,
-        "sellingPrice": 3147,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 113,
-        "commissionAmount": 228,
-        "options": [
-          {
-            "variantOptionId": 4782,
-            "variantOptionText": "Dark Brown"
-          },
-          {
-            "variantOptionId": 4566,
-            "variantOptionText": "Nylon & Polyester"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6010",
-        "subStyle": "sub-7010",
-        "shopProductSku": "DARKCATI13",
-        "stock": 7,
-        "dpPrice": 2284,
-        "mrp": 3373,
-        "sellingPrice": 3147,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 113,
-        "commissionAmount": 228,
-        "options": [
-          {
-            "variantOptionId": 4782,
-            "variantOptionText": "Dark Brown"
-          },
-          {
-            "variantOptionId": 3481,
-            "variantOptionText": "Cationic Oxford Fabric"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      }
-    ],
-    "description": "Bags 1MORE #13 available at TP-Link Bangladesh. Category: Bags.",
-    "specification": "Brand: 1MORE. Category: Bags.",
-    "hasEmi": "Y",
-    "isReturnable": "Y",
-    "returnDuration": 15,
-    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 364,
-    "warrantyTypeId": 5,
-    "warrantyPeriodId": 22,
-    "warrantyPolicy": "Brand Warranty - 3 years.",
-    "packageWeight": 1.37,
-    "packageLength": 0.24,
-    "packageWidth": 0.83,
-    "packageHeight": 1.63,
-    "productUrl": "bags-13",
-    "videoUrl": "",
-    "metaTitle": "Bags 1MORE #13",
-    "metaKeywords": "Bags, 1MORE",
-    "metaDescription": "Buy Bags 1MORE #13 online at TP-Link Bangladesh.",
-    "ogType": "product",
-    "ogTitle": "Bags 1MORE #13",
-    "ogUrl": "bags-13",
-    "ogDescription": "Buy Bags 1MORE #13 online at TP-Link Bangladesh.",
-    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-    "createdBy": "A A Momin",
-    "createdAt": "2026-04-04T09:50",
-    "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
-  },
-  {
-    "productId": 14,
-    "productName": "Computers & Accessories Ariston #14",
-    "categoryId": 250,
-    "unit": "psc",
-    "shopId": 56,
-    "displayOrder": "14",
-    "thumbnailImages": [
-      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
-      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
-    ],
-    "brandId": 495,
+    "brandId": 607,
     "strapMaterial": null,
     "fitType": null,
     "gender": null,
@@ -2624,34 +1993,20 @@ export const products = [
         "name": "Color",
         "options": [
           {
-            "variantOptionId": 851,
-            "variantOptionText": "Savory"
+            "variantOptionId": 8982,
+            "variantOptionText": "Bronze Gold"
           },
           {
-            "variantOptionId": 1520,
-            "variantOptionText": "Ash Gray Check"
-          }
-        ]
-      },
-      {
-        "dimensionId": "size",
-        "name": "Size",
-        "options": [
-          {
-            "variantOptionId": 279,
-            "variantOptionText": "L"
-          },
-          {
-            "variantOptionId": 271,
-            "variantOptionText": "40"
+            "variantOptionId": 8815,
+            "variantOptionText": "Cyan"
           }
         ]
       }
     ],
     "variantImages": [
       {
-        "variantOptionId": 851,
-        "variantOptionText": "Savory",
+        "variantOptionId": 8982,
+        "variantOptionText": "Bronze Gold",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -2659,8 +2014,122 @@ export const products = [
         ]
       },
       {
-        "variantOptionId": 1520,
-        "variantOptionText": "Ash Gray Check",
+        "variantOptionId": 8815,
+        "variantOptionText": "Cyan",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      }
+    ],
+    "variantCombinations": [
+      {
+        "sku": "sku-6010",
+        "subStyle": "sub-7010",
+        "shopProductSku": "BRON13",
+        "stock": 48,
+        "dpPrice": 1299,
+        "mrp": 1734,
+        "sellingPrice": 1633,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 101,
+        "commissionAmount": 334,
+        "options": [
+          {
+            "variantOptionId": 8982,
+            "variantOptionText": "Bronze Gold"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6010",
+        "subStyle": "sub-7010",
+        "shopProductSku": "CYAN13",
+        "stock": 10,
+        "dpPrice": 1299,
+        "mrp": 1734,
+        "sellingPrice": 1633,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 101,
+        "commissionAmount": 334,
+        "options": [
+          {
+            "variantOptionId": 8815,
+            "variantOptionText": "Cyan"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      }
+    ],
+    "description": "Blender & Mixer Grinder BLN #13 available at Salextra. Category: Blender & Mixer Grinder.",
+    "specification": "Brand: BLN. Category: Blender & Mixer Grinder.",
+    "hasEmi": "Y",
+    "isReturnable": "Y",
+    "returnDuration": 15,
+    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
+    "sizeChartId": 348,
+    "warrantyTypeId": 3,
+    "warrantyPeriodId": 15,
+    "warrantyPolicy": "International Seller Warranty - 10 Years.",
+    "packageWeight": 0.65,
+    "packageLength": 0.72,
+    "packageWidth": 1.58,
+    "packageHeight": 0.24,
+    "productUrl": "blender-mixer-grinder-13",
+    "videoUrl": "",
+    "metaTitle": "Blender & Mixer Grinder BLN #13",
+    "metaKeywords": "Blender & Mixer Grinder, BLN",
+    "metaDescription": "Buy Blender & Mixer Grinder BLN #13 online at Salextra.",
+    "ogType": "product",
+    "ogTitle": "Blender & Mixer Grinder BLN #13",
+    "ogUrl": "blender-mixer-grinder-13",
+    "ogDescription": "Buy Blender & Mixer Grinder BLN #13 online at Salextra.",
+    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+    "createdBy": "A A Momin",
+    "createdAt": "2026-04-04T09:50",
+    "updatedBy": "B B Momin",
+    "updatedAt": "2026-04-04T09:50"
+  },
+  {
+    "productId": 14,
+    "productName": "XTRA Ashata #14",
+    "categoryId": 491,
+    "unit": "pair",
+    "shopId": 109,
+    "displayOrder": "14",
+    "thumbnailImages": [
+      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
+      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
+    ],
+    "brandId": 522,
+    "strapMaterial": null,
+    "fitType": null,
+    "gender": null,
+    "variantDimensions": [
+      {
+        "dimensionId": "color",
+        "name": "Color",
+        "options": [
+          {
+            "variantOptionId": 7323,
+            "variantOptionText": "Black"
+          }
+        ]
+      }
+    ],
+    "variantImages": [
+      {
+        "variantOptionId": 7323,
+        "variantOptionText": "Black",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -2672,127 +2141,48 @@ export const products = [
       {
         "sku": "sku-6011",
         "subStyle": "sub-7011",
-        "shopProductSku": "SAVOL14",
-        "stock": 13,
-        "dpPrice": 2625,
-        "mrp": 3782,
-        "sellingPrice": 3339,
+        "shopProductSku": "BLAC14",
+        "stock": 11,
+        "dpPrice": 1275,
+        "mrp": 1687,
+        "sellingPrice": 1574,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 222,
-        "commissionAmount": 263,
+        "burnAmount": 113,
+        "commissionAmount": 299,
         "options": [
           {
-            "variantOptionId": 851,
-            "variantOptionText": "Savory"
-          },
-          {
-            "variantOptionId": 279,
-            "variantOptionText": "L"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6011",
-        "subStyle": "sub-7011",
-        "shopProductSku": "SAVO4014",
-        "stock": 75,
-        "dpPrice": 2625,
-        "mrp": 3782,
-        "sellingPrice": 3339,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 222,
-        "commissionAmount": 263,
-        "options": [
-          {
-            "variantOptionId": 851,
-            "variantOptionText": "Savory"
-          },
-          {
-            "variantOptionId": 271,
-            "variantOptionText": "40"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6011",
-        "subStyle": "sub-7011",
-        "shopProductSku": "ASH-L14",
-        "stock": 17,
-        "dpPrice": 2625,
-        "mrp": 3782,
-        "sellingPrice": 3339,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 222,
-        "commissionAmount": 263,
-        "options": [
-          {
-            "variantOptionId": 1520,
-            "variantOptionText": "Ash Gray Check"
-          },
-          {
-            "variantOptionId": 279,
-            "variantOptionText": "L"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6011",
-        "subStyle": "sub-7011",
-        "shopProductSku": "ASH-4014",
-        "stock": 8,
-        "dpPrice": 2625,
-        "mrp": 3782,
-        "sellingPrice": 3339,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 222,
-        "commissionAmount": 263,
-        "options": [
-          {
-            "variantOptionId": 1520,
-            "variantOptionText": "Ash Gray Check"
-          },
-          {
-            "variantOptionId": 271,
-            "variantOptionText": "40"
+            "variantOptionId": 7323,
+            "variantOptionText": "Black"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       }
     ],
-    "description": "Computers & Accessories Ariston #14 available at Shaver Shop Bangladesh. Category: Computers & Accessories.",
-    "specification": "Brand: Ariston. Category: Computers & Accessories.",
+    "description": "XTRA Ashata #14 available at Oraimo G-Store. Category: XTRA.",
+    "specification": "Brand: Ashata. Category: XTRA.",
     "hasEmi": "N",
-    "isReturnable": "Y",
+    "isReturnable": "N",
     "returnDuration": 15,
     "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 346,
-    "warrantyTypeId": 4,
-    "warrantyPeriodId": 19,
-    "warrantyPolicy": "International Manufacturer Warranty - 7 Years.",
-    "packageWeight": 0.25,
-    "packageLength": 1.63,
-    "packageWidth": 0.46,
-    "packageHeight": 1.04,
-    "productUrl": "computers-accessories-14",
+    "sizeChartId": 353,
+    "warrantyTypeId": 5,
+    "warrantyPeriodId": 4,
+    "warrantyPolicy": "Brand Warranty - 4 Month.",
+    "packageWeight": 0.94,
+    "packageLength": 0.69,
+    "packageWidth": 0.42,
+    "packageHeight": 0.39,
+    "productUrl": "xtra-14",
     "videoUrl": "",
-    "metaTitle": "Computers & Accessories Ariston #14",
-    "metaKeywords": "Computers & Accessories, Ariston",
-    "metaDescription": "Buy Computers & Accessories Ariston #14 online at Shaver Shop Bangladesh.",
+    "metaTitle": "XTRA Ashata #14",
+    "metaKeywords": "XTRA, Ashata",
+    "metaDescription": "Buy XTRA Ashata #14 online at Oraimo G-Store.",
     "ogType": "product",
-    "ogTitle": "Computers & Accessories Ariston #14",
-    "ogUrl": "computers-accessories-14",
-    "ogDescription": "Buy Computers & Accessories Ariston #14 online at Shaver Shop Bangladesh.",
+    "ogTitle": "XTRA Ashata #14",
+    "ogUrl": "xtra-14",
+    "ogDescription": "Buy XTRA Ashata #14 online at Oraimo G-Store.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
@@ -2801,10 +2191,10 @@ export const products = [
   },
   {
     "productId": 15,
-    "productName": "LED TV Azeada #15",
-    "categoryId": 204,
-    "unit": "set",
-    "shopId": 44,
+    "productName": "Mens Wallet Airmars #15",
+    "categoryId": 105,
+    "unit": "psc",
+    "shopId": 74,
     "displayOrder": "15",
     "thumbnailImages": [
       "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
@@ -2813,44 +2203,44 @@ export const products = [
       "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
       "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
     ],
-    "brandId": 588,
+    "brandId": 484,
     "strapMaterial": null,
-    "fitType": null,
-    "gender": null,
+    "fitType": "Loose",
+    "gender": "unisex",
     "variantDimensions": [
       {
-        "dimensionId": "attr-0",
-        "name": "Primary Option",
+        "dimensionId": "color",
+        "name": "Color",
         "options": [
           {
-            "variantOptionId": 5265,
-            "variantOptionText": "Silver"
+            "variantOptionId": 1614,
+            "variantOptionText": "Chocolate"
           },
           {
-            "variantOptionId": 3625,
+            "variantOptionId": 1476,
             "variantOptionText": "Black"
           }
         ]
       },
       {
-        "dimensionId": "attr-1",
-        "name": "Secondary Option",
+        "dimensionId": "size",
+        "name": "Size",
         "options": [
           {
-            "variantOptionId": 3693,
-            "variantOptionText": "24 Inches"
+            "variantOptionId": 5625,
+            "variantOptionText": "FREE SIZE"
           },
           {
-            "variantOptionId": 7533,
-            "variantOptionText": "75 Inches"
+            "variantOptionId": 7615,
+            "variantOptionText": "30"
           }
         ]
       }
     ],
     "variantImages": [
       {
-        "variantOptionId": 5265,
-        "variantOptionText": "Silver",
+        "variantOptionId": 1614,
+        "variantOptionText": "Chocolate",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -2858,7 +2248,7 @@ export const products = [
         ]
       },
       {
-        "variantOptionId": 3625,
+        "variantOptionId": 1476,
         "variantOptionText": "Black",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
@@ -2871,23 +2261,23 @@ export const products = [
       {
         "sku": "sku-6012",
         "subStyle": "sub-7012",
-        "shopProductSku": "SILV24-I15",
-        "stock": 69,
-        "dpPrice": 1278,
-        "mrp": 1859,
-        "sellingPrice": 1735,
+        "shopProductSku": "CHOCFREE15",
+        "stock": 96,
+        "dpPrice": 397,
+        "mrp": 497,
+        "sellingPrice": 424,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 62,
-        "commissionAmount": 128,
+        "burnAmount": 73,
+        "commissionAmount": 27,
         "options": [
           {
-            "variantOptionId": 5265,
-            "variantOptionText": "Silver"
+            "variantOptionId": 1614,
+            "variantOptionText": "Chocolate"
           },
           {
-            "variantOptionId": 3693,
-            "variantOptionText": "24 Inches"
+            "variantOptionId": 5625,
+            "variantOptionText": "FREE SIZE"
           }
         ],
         "inventoryTypeId": 1,
@@ -2896,23 +2286,23 @@ export const products = [
       {
         "sku": "sku-6012",
         "subStyle": "sub-7012",
-        "shopProductSku": "SILV75-I15",
-        "stock": 45,
-        "dpPrice": 1278,
-        "mrp": 1859,
-        "sellingPrice": 1735,
+        "shopProductSku": "CHOC3015",
+        "stock": 21,
+        "dpPrice": 397,
+        "mrp": 497,
+        "sellingPrice": 424,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 62,
-        "commissionAmount": 128,
+        "burnAmount": 73,
+        "commissionAmount": 27,
         "options": [
           {
-            "variantOptionId": 5265,
-            "variantOptionText": "Silver"
+            "variantOptionId": 1614,
+            "variantOptionText": "Chocolate"
           },
           {
-            "variantOptionId": 7533,
-            "variantOptionText": "75 Inches"
+            "variantOptionId": 7615,
+            "variantOptionText": "30"
           }
         ],
         "inventoryTypeId": 1,
@@ -2921,23 +2311,23 @@ export const products = [
       {
         "sku": "sku-6012",
         "subStyle": "sub-7012",
-        "shopProductSku": "BLAC24-I15",
-        "stock": 15,
-        "dpPrice": 1278,
-        "mrp": 1859,
-        "sellingPrice": 1735,
+        "shopProductSku": "BLACFREE15",
+        "stock": 58,
+        "dpPrice": 397,
+        "mrp": 497,
+        "sellingPrice": 424,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 62,
-        "commissionAmount": 128,
+        "burnAmount": 73,
+        "commissionAmount": 27,
         "options": [
           {
-            "variantOptionId": 3625,
+            "variantOptionId": 1476,
             "variantOptionText": "Black"
           },
           {
-            "variantOptionId": 3693,
-            "variantOptionText": "24 Inches"
+            "variantOptionId": 5625,
+            "variantOptionText": "FREE SIZE"
           }
         ],
         "inventoryTypeId": 1,
@@ -2946,52 +2336,52 @@ export const products = [
       {
         "sku": "sku-6012",
         "subStyle": "sub-7012",
-        "shopProductSku": "BLAC75-I15",
-        "stock": 85,
-        "dpPrice": 1278,
-        "mrp": 1859,
-        "sellingPrice": 1735,
+        "shopProductSku": "BLAC3015",
+        "stock": 40,
+        "dpPrice": 397,
+        "mrp": 497,
+        "sellingPrice": 424,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 62,
-        "commissionAmount": 128,
+        "burnAmount": 73,
+        "commissionAmount": 27,
         "options": [
           {
-            "variantOptionId": 3625,
+            "variantOptionId": 1476,
             "variantOptionText": "Black"
           },
           {
-            "variantOptionId": 7533,
-            "variantOptionText": "75 Inches"
+            "variantOptionId": 7615,
+            "variantOptionText": "30"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       }
     ],
-    "description": "LED TV Azeada #15 available at RMS Corporation. Category: LED TV.",
-    "specification": "Brand: Azeada. Category: LED TV.",
-    "hasEmi": "N",
+    "description": "Mens Wallet Airmars #15 available at Lunettes Bangladesh. Category: Mens Wallet.",
+    "specification": "Brand: Airmars. Category: Mens Wallet.",
+    "hasEmi": "Y",
     "isReturnable": "Y",
     "returnDuration": 15,
     "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 344,
+    "sizeChartId": 368,
     "warrantyTypeId": 5,
-    "warrantyPeriodId": 18,
-    "warrantyPolicy": "Brand Warranty - 18 months.",
-    "packageWeight": 0.96,
-    "packageLength": 1.69,
-    "packageWidth": 0.6,
-    "packageHeight": 0.81,
-    "productUrl": "led-tv-15",
+    "warrantyPeriodId": 20,
+    "warrantyPolicy": "Brand Warranty - 8 Months.",
+    "packageWeight": 0.93,
+    "packageLength": 1.61,
+    "packageWidth": 1.06,
+    "packageHeight": 0.71,
+    "productUrl": "mens-wallet-15",
     "videoUrl": "",
-    "metaTitle": "LED TV Azeada #15",
-    "metaKeywords": "LED TV, Azeada",
-    "metaDescription": "Buy LED TV Azeada #15 online at RMS Corporation.",
+    "metaTitle": "Mens Wallet Airmars #15",
+    "metaKeywords": "Mens Wallet, Airmars",
+    "metaDescription": "Buy Mens Wallet Airmars #15 online at Lunettes Bangladesh.",
     "ogType": "product",
-    "ogTitle": "LED TV Azeada #15",
-    "ogUrl": "led-tv-15",
-    "ogDescription": "Buy LED TV Azeada #15 online at RMS Corporation.",
+    "ogTitle": "Mens Wallet Airmars #15",
+    "ogUrl": "mens-wallet-15",
+    "ogDescription": "Buy Mens Wallet Airmars #15 online at Lunettes Bangladesh.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
@@ -3000,10 +2390,10 @@ export const products = [
   },
   {
     "productId": 16,
-    "productName": "Hair Oil 1MORE #16",
-    "categoryId": 457,
+    "productName": "Industrial Air Conditioner Coz-Way #16",
+    "categoryId": 202,
     "unit": "pair",
-    "shopId": 67,
+    "shopId": 106,
     "displayOrder": "16",
     "thumbnailImages": [
       "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
@@ -3012,7 +2402,7 @@ export const products = [
       "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
       "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
     ],
-    "brandId": 577,
+    "brandId": 585,
     "strapMaterial": null,
     "fitType": null,
     "gender": null,
@@ -3022,43 +2412,16 @@ export const products = [
         "name": "Color",
         "options": [
           {
-            "variantOptionId": 35,
-            "variantOptionText": "JUNGLE PRINT"
-          },
-          {
-            "variantOptionId": 1637,
-            "variantOptionText": "Navy Camo"
-          }
-        ]
-      },
-      {
-        "dimensionId": "size",
-        "name": "Size",
-        "options": [
-          {
-            "variantOptionId": 318,
-            "variantOptionText": "UNSTITCH"
-          },
-          {
-            "variantOptionId": 774,
-            "variantOptionText": "42"
+            "variantOptionId": 3616,
+            "variantOptionText": "White"
           }
         ]
       }
     ],
     "variantImages": [
       {
-        "variantOptionId": 35,
-        "variantOptionText": "JUNGLE PRINT",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      },
-      {
-        "variantOptionId": 1637,
-        "variantOptionText": "Navy Camo",
+        "variantOptionId": 3616,
+        "variantOptionText": "White",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -3070,127 +2433,48 @@ export const products = [
       {
         "sku": "sku-6013",
         "subStyle": "sub-7013",
-        "shopProductSku": "JUNGUNST16",
-        "stock": 67,
-        "dpPrice": 850,
-        "mrp": 1256,
-        "sellingPrice": 1117,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 70,
-        "commissionAmount": 85,
-        "options": [
-          {
-            "variantOptionId": 35,
-            "variantOptionText": "JUNGLE PRINT"
-          },
-          {
-            "variantOptionId": 318,
-            "variantOptionText": "UNSTITCH"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6013",
-        "subStyle": "sub-7013",
-        "shopProductSku": "JUNG4216",
-        "stock": 69,
-        "dpPrice": 850,
-        "mrp": 1256,
-        "sellingPrice": 1117,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 70,
-        "commissionAmount": 85,
-        "options": [
-          {
-            "variantOptionId": 35,
-            "variantOptionText": "JUNGLE PRINT"
-          },
-          {
-            "variantOptionId": 774,
-            "variantOptionText": "42"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6013",
-        "subStyle": "sub-7013",
-        "shopProductSku": "NAVYUNST16",
+        "shopProductSku": "WHIT16",
         "stock": 41,
-        "dpPrice": 850,
-        "mrp": 1256,
-        "sellingPrice": 1117,
+        "dpPrice": 426,
+        "mrp": 608,
+        "sellingPrice": 570,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 70,
-        "commissionAmount": 85,
+        "burnAmount": 38,
+        "commissionAmount": 144,
         "options": [
           {
-            "variantOptionId": 1637,
-            "variantOptionText": "Navy Camo"
-          },
-          {
-            "variantOptionId": 318,
-            "variantOptionText": "UNSTITCH"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6013",
-        "subStyle": "sub-7013",
-        "shopProductSku": "NAVY4216",
-        "stock": 42,
-        "dpPrice": 850,
-        "mrp": 1256,
-        "sellingPrice": 1117,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 70,
-        "commissionAmount": 85,
-        "options": [
-          {
-            "variantOptionId": 1637,
-            "variantOptionText": "Navy Camo"
-          },
-          {
-            "variantOptionId": 774,
-            "variantOptionText": "42"
+            "variantOptionId": 3616,
+            "variantOptionText": "White"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       }
     ],
-    "description": "Hair Oil 1MORE #16 available at CRAFTSMAN FASHION. Category: Hair Oil.",
-    "specification": "Brand: 1MORE. Category: Hair Oil.",
+    "description": "Industrial Air Conditioner Coz-Way #16 available at BEST ELECTRONICS LIMITED. Category: Industrial Air Conditioner.",
+    "specification": "Brand: Coz-Way. Category: Industrial Air Conditioner.",
     "hasEmi": "Y",
     "isReturnable": "Y",
     "returnDuration": 15,
     "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 356,
-    "warrantyTypeId": 4,
-    "warrantyPeriodId": 21,
-    "warrantyPolicy": "International Manufacturer Warranty - 7 Months.",
-    "packageWeight": 1.62,
-    "packageLength": 1.37,
-    "packageWidth": 0.54,
-    "packageHeight": 0.29,
-    "productUrl": "hair-oil-16",
+    "sizeChartId": 360,
+    "warrantyTypeId": 1,
+    "warrantyPeriodId": 1,
+    "warrantyPolicy": "Local Seller Warranty - 1 Month.",
+    "packageWeight": 0.52,
+    "packageLength": 1.16,
+    "packageWidth": 0.82,
+    "packageHeight": 1.21,
+    "productUrl": "industrial-air-conditioner-16",
     "videoUrl": "",
-    "metaTitle": "Hair Oil 1MORE #16",
-    "metaKeywords": "Hair Oil, 1MORE",
-    "metaDescription": "Buy Hair Oil 1MORE #16 online at CRAFTSMAN FASHION.",
+    "metaTitle": "Industrial Air Conditioner Coz-Way #16",
+    "metaKeywords": "Industrial Air Conditioner, Coz-Way",
+    "metaDescription": "Buy Industrial Air Conditioner Coz-Way #16 online at BEST ELECTRONICS LIMITED.",
     "ogType": "product",
-    "ogTitle": "Hair Oil 1MORE #16",
-    "ogUrl": "hair-oil-16",
-    "ogDescription": "Buy Hair Oil 1MORE #16 online at CRAFTSMAN FASHION.",
+    "ogTitle": "Industrial Air Conditioner Coz-Way #16",
+    "ogUrl": "industrial-air-conditioner-16",
+    "ogDescription": "Buy Industrial Air Conditioner Coz-Way #16 online at BEST ELECTRONICS LIMITED.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
@@ -3199,10 +2483,10 @@ export const products = [
   },
   {
     "productId": 17,
-    "productName": "Home Appliances  #17",
-    "categoryId": 181,
+    "productName": "Blender & Mixer  #17",
+    "categoryId": 305,
     "unit": "set",
-    "shopId": 109,
+    "shopId": 44,
     "displayOrder": "17",
     "thumbnailImages": [
       "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
@@ -3221,34 +2505,20 @@ export const products = [
         "name": "Color",
         "options": [
           {
-            "variantOptionId": 217,
-            "variantOptionText": "MELANGE"
+            "variantOptionId": 8948,
+            "variantOptionText": "Multi Color"
           },
           {
-            "variantOptionId": 20,
-            "variantOptionText": "Blue Stripe"
-          }
-        ]
-      },
-      {
-        "dimensionId": "size",
-        "name": "Size",
-        "options": [
-          {
-            "variantOptionId": 1104,
-            "variantOptionText": "19 Inch"
-          },
-          {
-            "variantOptionId": 358,
-            "variantOptionText": "13 YEARS"
+            "variantOptionId": 8949,
+            "variantOptionText": "RED"
           }
         ]
       }
     ],
     "variantImages": [
       {
-        "variantOptionId": 217,
-        "variantOptionText": "MELANGE",
+        "variantOptionId": 8948,
+        "variantOptionText": "Multi Color",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -3256,8 +2526,8 @@ export const products = [
         ]
       },
       {
-        "variantOptionId": 20,
-        "variantOptionText": "Blue Stripe",
+        "variantOptionId": 8949,
+        "variantOptionText": "RED",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -3269,23 +2539,19 @@ export const products = [
       {
         "sku": "sku-6014",
         "subStyle": "sub-7014",
-        "shopProductSku": "MELA19-I17",
-        "stock": 20,
-        "dpPrice": 1209,
-        "mrp": 1587,
-        "sellingPrice": 1456,
+        "shopProductSku": "MULT17",
+        "stock": 46,
+        "dpPrice": 2763,
+        "mrp": 3920,
+        "sellingPrice": 3715,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 66,
-        "commissionAmount": 121,
+        "burnAmount": 205,
+        "commissionAmount": 952,
         "options": [
           {
-            "variantOptionId": 217,
-            "variantOptionText": "MELANGE"
-          },
-          {
-            "variantOptionId": 1104,
-            "variantOptionText": "19 Inch"
+            "variantOptionId": 8948,
+            "variantOptionText": "Multi Color"
           }
         ],
         "inventoryTypeId": 1,
@@ -3294,102 +2560,48 @@ export const products = [
       {
         "sku": "sku-6014",
         "subStyle": "sub-7014",
-        "shopProductSku": "MELA13-Y17",
-        "stock": 82,
-        "dpPrice": 1209,
-        "mrp": 1587,
-        "sellingPrice": 1456,
+        "shopProductSku": "RED17",
+        "stock": 66,
+        "dpPrice": 2763,
+        "mrp": 3920,
+        "sellingPrice": 3715,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 66,
-        "commissionAmount": 121,
+        "burnAmount": 205,
+        "commissionAmount": 952,
         "options": [
           {
-            "variantOptionId": 217,
-            "variantOptionText": "MELANGE"
-          },
-          {
-            "variantOptionId": 358,
-            "variantOptionText": "13 YEARS"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6014",
-        "subStyle": "sub-7014",
-        "shopProductSku": "BLUE19-I17",
-        "stock": 10,
-        "dpPrice": 1209,
-        "mrp": 1587,
-        "sellingPrice": 1456,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 66,
-        "commissionAmount": 121,
-        "options": [
-          {
-            "variantOptionId": 20,
-            "variantOptionText": "Blue Stripe"
-          },
-          {
-            "variantOptionId": 1104,
-            "variantOptionText": "19 Inch"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6014",
-        "subStyle": "sub-7014",
-        "shopProductSku": "BLUE13-Y17",
-        "stock": 90,
-        "dpPrice": 1209,
-        "mrp": 1587,
-        "sellingPrice": 1456,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 66,
-        "commissionAmount": 121,
-        "options": [
-          {
-            "variantOptionId": 20,
-            "variantOptionText": "Blue Stripe"
-          },
-          {
-            "variantOptionId": 358,
-            "variantOptionText": "13 YEARS"
+            "variantOptionId": 8949,
+            "variantOptionText": "RED"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       }
     ],
-    "description": "Home Appliances  #17 available at Oraimo G-Store. Category: Home Appliances.",
-    "specification": "Brand: Generic. Category: Home Appliances.",
-    "hasEmi": "Y",
+    "description": "Blender & Mixer  #17 available at RMS Corporation. Category: Blender & Mixer.",
+    "specification": "Brand: Generic. Category: Blender & Mixer.",
+    "hasEmi": "N",
     "isReturnable": "Y",
     "returnDuration": 15,
     "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 364,
+    "sizeChartId": 358,
     "warrantyTypeId": 1,
-    "warrantyPeriodId": 1,
-    "warrantyPolicy": "Local Seller Warranty - 1 Month.",
-    "packageWeight": 0.85,
-    "packageLength": 1.44,
-    "packageWidth": 1.62,
-    "packageHeight": 1.34,
-    "productUrl": "home-appliances-17",
+    "warrantyPeriodId": 14,
+    "warrantyPolicy": "Local Seller Warranty - 24 Months.",
+    "packageWeight": 1.49,
+    "packageLength": 1.23,
+    "packageWidth": 1.63,
+    "packageHeight": 0.4,
+    "productUrl": "blender-mixer-17",
     "videoUrl": "",
-    "metaTitle": "Home Appliances  #17",
-    "metaKeywords": "Home Appliances,",
-    "metaDescription": "Buy Home Appliances  #17 online at Oraimo G-Store.",
+    "metaTitle": "Blender & Mixer  #17",
+    "metaKeywords": "Blender & Mixer,",
+    "metaDescription": "Buy Blender & Mixer  #17 online at RMS Corporation.",
     "ogType": "product",
-    "ogTitle": "Home Appliances  #17",
-    "ogUrl": "home-appliances-17",
-    "ogDescription": "Buy Home Appliances  #17 online at Oraimo G-Store.",
+    "ogTitle": "Blender & Mixer  #17",
+    "ogUrl": "blender-mixer-17",
+    "ogDescription": "Buy Blender & Mixer  #17 online at RMS Corporation.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
@@ -3398,10 +2610,10 @@ export const products = [
   },
   {
     "productId": 18,
-    "productName": "Camera Support and Stabilization ACEFAST #18",
-    "categoryId": 228,
-    "unit": "psc",
-    "shopId": 73,
+    "productName": "Laptop & Desktop  #18",
+    "categoryId": 483,
+    "unit": "pair",
+    "shopId": 107,
     "displayOrder": "18",
     "thumbnailImages": [
       "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
@@ -3410,44 +2622,30 @@ export const products = [
       "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
       "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
     ],
-    "brandId": 432,
+    "brandId": null,
     "strapMaterial": null,
-    "fitType": null,
-    "gender": null,
+    "fitType": "Regular",
+    "gender": "unisex",
     "variantDimensions": [
       {
         "dimensionId": "color",
         "name": "Color",
         "options": [
           {
-            "variantOptionId": 2122,
-            "variantOptionText": "Check Blue"
+            "variantOptionId": 7135,
+            "variantOptionText": "Blue"
           },
           {
-            "variantOptionId": 1759,
-            "variantOptionText": "Black and off white"
-          }
-        ]
-      },
-      {
-        "dimensionId": "size",
-        "name": "Size",
-        "options": [
-          {
-            "variantOptionId": 1705,
-            "variantOptionText": "33"
-          },
-          {
-            "variantOptionId": 2042,
-            "variantOptionText": "King"
+            "variantOptionId": 7134,
+            "variantOptionText": "White"
           }
         ]
       }
     ],
     "variantImages": [
       {
-        "variantOptionId": 2122,
-        "variantOptionText": "Check Blue",
+        "variantOptionId": 7135,
+        "variantOptionText": "Blue",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -3455,8 +2653,8 @@ export const products = [
         ]
       },
       {
-        "variantOptionId": 1759,
-        "variantOptionText": "Black and off white",
+        "variantOptionId": 7134,
+        "variantOptionText": "White",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -3468,23 +2666,19 @@ export const products = [
       {
         "sku": "sku-6015",
         "subStyle": "sub-7015",
-        "shopProductSku": "CHEC3318",
-        "stock": 77,
-        "dpPrice": 1460,
-        "mrp": 2031,
-        "sellingPrice": 1801,
+        "shopProductSku": "BLUE18",
+        "stock": 23,
+        "dpPrice": 1160,
+        "mrp": 1578,
+        "sellingPrice": 1578,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 115,
-        "commissionAmount": 146,
+        "burnAmount": 0,
+        "commissionAmount": 418,
         "options": [
           {
-            "variantOptionId": 2122,
-            "variantOptionText": "Check Blue"
-          },
-          {
-            "variantOptionId": 1705,
-            "variantOptionText": "33"
+            "variantOptionId": 7135,
+            "variantOptionText": "Blue"
           }
         ],
         "inventoryTypeId": 1,
@@ -3493,102 +2687,48 @@ export const products = [
       {
         "sku": "sku-6015",
         "subStyle": "sub-7015",
-        "shopProductSku": "CHECKING18",
-        "stock": 87,
-        "dpPrice": 1460,
-        "mrp": 2031,
-        "sellingPrice": 1801,
+        "shopProductSku": "WHIT18",
+        "stock": 49,
+        "dpPrice": 1160,
+        "mrp": 1578,
+        "sellingPrice": 1578,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 115,
-        "commissionAmount": 146,
+        "burnAmount": 0,
+        "commissionAmount": 418,
         "options": [
           {
-            "variantOptionId": 2122,
-            "variantOptionText": "Check Blue"
-          },
-          {
-            "variantOptionId": 2042,
-            "variantOptionText": "King"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6015",
-        "subStyle": "sub-7015",
-        "shopProductSku": "BLAC3318",
-        "stock": 70,
-        "dpPrice": 1460,
-        "mrp": 2031,
-        "sellingPrice": 1801,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 115,
-        "commissionAmount": 146,
-        "options": [
-          {
-            "variantOptionId": 1759,
-            "variantOptionText": "Black and off white"
-          },
-          {
-            "variantOptionId": 1705,
-            "variantOptionText": "33"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6015",
-        "subStyle": "sub-7015",
-        "shopProductSku": "BLACKING18",
-        "stock": 96,
-        "dpPrice": 1460,
-        "mrp": 2031,
-        "sellingPrice": 1801,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 115,
-        "commissionAmount": 146,
-        "options": [
-          {
-            "variantOptionId": 1759,
-            "variantOptionText": "Black and off white"
-          },
-          {
-            "variantOptionId": 2042,
-            "variantOptionText": "King"
+            "variantOptionId": 7134,
+            "variantOptionText": "White"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       }
     ],
-    "description": "Camera Support and Stabilization ACEFAST #18 available at Raj Lungi. Category: Camera Support and Stabilization.",
-    "specification": "Brand: ACEFAST. Category: Camera Support and Stabilization.",
+    "description": "Laptop & Desktop  #18 available at Panna Electronics. Category: Laptop & Desktop.",
+    "specification": "Brand: Generic. Category: Laptop & Desktop.",
     "hasEmi": "N",
-    "isReturnable": "Y",
+    "isReturnable": "N",
     "returnDuration": 15,
     "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 355,
-    "warrantyTypeId": 4,
-    "warrantyPeriodId": 21,
-    "warrantyPolicy": "International Manufacturer Warranty - 7 Months.",
-    "packageWeight": 1.67,
-    "packageLength": 0.69,
-    "packageWidth": 0.4,
-    "packageHeight": 0.83,
-    "productUrl": "camera-support-and-stabilization-18",
+    "sizeChartId": 362,
+    "warrantyTypeId": 1,
+    "warrantyPeriodId": 22,
+    "warrantyPolicy": "Local Seller Warranty - 3 years.",
+    "packageWeight": 1.45,
+    "packageLength": 1.11,
+    "packageWidth": 1.21,
+    "packageHeight": 0.96,
+    "productUrl": "laptop-desktop-18",
     "videoUrl": "",
-    "metaTitle": "Camera Support and Stabilization ACEFAST #18",
-    "metaKeywords": "Camera Support and Stabilization, ACEFAST",
-    "metaDescription": "Buy Camera Support and Stabilization ACEFAST #18 online at Raj Lungi.",
+    "metaTitle": "Laptop & Desktop  #18",
+    "metaKeywords": "Laptop & Desktop,",
+    "metaDescription": "Buy Laptop & Desktop  #18 online at Panna Electronics.",
     "ogType": "product",
-    "ogTitle": "Camera Support and Stabilization ACEFAST #18",
-    "ogUrl": "camera-support-and-stabilization-18",
-    "ogDescription": "Buy Camera Support and Stabilization ACEFAST #18 online at Raj Lungi.",
+    "ogTitle": "Laptop & Desktop  #18",
+    "ogUrl": "laptop-desktop-18",
+    "ogDescription": "Buy Laptop & Desktop  #18 online at Panna Electronics.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
@@ -3597,210 +2737,11 @@ export const products = [
   },
   {
     "productId": 19,
-    "productName": "Womens 1MORE #19",
-    "categoryId": 92,
-    "unit": "psc",
-    "shopId": 98,
+    "productName": "Mens Overcoat Airmars #19",
+    "categoryId": 522,
+    "unit": "set",
+    "shopId": 50,
     "displayOrder": "19",
-    "thumbnailImages": [
-      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
-      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
-    ],
-    "brandId": 577,
-    "strapMaterial": null,
-    "fitType": "Loose",
-    "gender": "female",
-    "variantDimensions": [
-      {
-        "dimensionId": "color",
-        "name": "Color",
-        "options": [
-          {
-            "variantOptionId": 1742,
-            "variantOptionText": "Christmas Blue"
-          },
-          {
-            "variantOptionId": 1284,
-            "variantOptionText": "Brick Red Printed"
-          }
-        ]
-      },
-      {
-        "dimensionId": "size",
-        "name": "Size",
-        "options": [
-          {
-            "variantOptionId": 354,
-            "variantOptionText": "10 YEARS"
-          },
-          {
-            "variantOptionId": 1918,
-            "variantOptionText": "5M/16ft x 25mm"
-          }
-        ]
-      }
-    ],
-    "variantImages": [
-      {
-        "variantOptionId": 1742,
-        "variantOptionText": "Christmas Blue",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      },
-      {
-        "variantOptionId": 1284,
-        "variantOptionText": "Brick Red Printed",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      }
-    ],
-    "variantCombinations": [
-      {
-        "sku": "sku-6016",
-        "subStyle": "sub-7016",
-        "shopProductSku": "CHRI10-Y19",
-        "stock": 56,
-        "dpPrice": 2842,
-        "mrp": 3601,
-        "sellingPrice": 3084,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 259,
-        "commissionAmount": 284,
-        "options": [
-          {
-            "variantOptionId": 1742,
-            "variantOptionText": "Christmas Blue"
-          },
-          {
-            "variantOptionId": 354,
-            "variantOptionText": "10 YEARS"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6016",
-        "subStyle": "sub-7016",
-        "shopProductSku": "CHRI5M-119",
-        "stock": 93,
-        "dpPrice": 2842,
-        "mrp": 3601,
-        "sellingPrice": 3084,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 259,
-        "commissionAmount": 284,
-        "options": [
-          {
-            "variantOptionId": 1742,
-            "variantOptionText": "Christmas Blue"
-          },
-          {
-            "variantOptionId": 1918,
-            "variantOptionText": "5M/16ft x 25mm"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6016",
-        "subStyle": "sub-7016",
-        "shopProductSku": "BRIC10-Y19",
-        "stock": 87,
-        "dpPrice": 2842,
-        "mrp": 3601,
-        "sellingPrice": 3084,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 259,
-        "commissionAmount": 284,
-        "options": [
-          {
-            "variantOptionId": 1284,
-            "variantOptionText": "Brick Red Printed"
-          },
-          {
-            "variantOptionId": 354,
-            "variantOptionText": "10 YEARS"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6016",
-        "subStyle": "sub-7016",
-        "shopProductSku": "BRIC5M-119",
-        "stock": 64,
-        "dpPrice": 2842,
-        "mrp": 3601,
-        "sellingPrice": 3084,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 259,
-        "commissionAmount": 284,
-        "options": [
-          {
-            "variantOptionId": 1284,
-            "variantOptionText": "Brick Red Printed"
-          },
-          {
-            "variantOptionId": 1918,
-            "variantOptionText": "5M/16ft x 25mm"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      }
-    ],
-    "description": "Womens 1MORE #19 available at Zarif Trading. Category: Womens.",
-    "specification": "Brand: 1MORE. Category: Womens.",
-    "hasEmi": "N",
-    "isReturnable": "Y",
-    "returnDuration": 15,
-    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 357,
-    "warrantyTypeId": 4,
-    "warrantyPeriodId": 1,
-    "warrantyPolicy": "International Manufacturer Warranty - 1 Month.",
-    "packageWeight": 0.44,
-    "packageLength": 0.39,
-    "packageWidth": 0.87,
-    "packageHeight": 0.81,
-    "productUrl": "womens-19",
-    "videoUrl": "",
-    "metaTitle": "Womens 1MORE #19",
-    "metaKeywords": "Womens, 1MORE",
-    "metaDescription": "Buy Womens 1MORE #19 online at Zarif Trading.",
-    "ogType": "product",
-    "ogTitle": "Womens 1MORE #19",
-    "ogUrl": "womens-19",
-    "ogDescription": "Buy Womens 1MORE #19 online at Zarif Trading.",
-    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-    "createdBy": "A A Momin",
-    "createdAt": "2026-04-04T09:50",
-    "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
-  },
-  {
-    "productId": 20,
-    "productName": "Footwear Airmars #20",
-    "categoryId": 147,
-    "unit": "psc",
-    "shopId": 88,
-    "displayOrder": "20",
     "thumbnailImages": [
       "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
       "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -3810,42 +2751,42 @@ export const products = [
     ],
     "brandId": 484,
     "strapMaterial": null,
-    "fitType": "Loose",
+    "fitType": "Regular",
     "gender": "unisex",
     "variantDimensions": [
       {
-        "dimensionId": "attr-0",
-        "name": "Primary Option",
+        "dimensionId": "color",
+        "name": "Color",
         "options": [
           {
-            "variantOptionId": 5321,
-            "variantOptionText": "Beige"
+            "variantOptionId": 8112,
+            "variantOptionText": "Ash"
           },
           {
-            "variantOptionId": 5928,
-            "variantOptionText": "Green"
+            "variantOptionId": 8111,
+            "variantOptionText": "Black & White Check"
           }
         ]
       },
       {
-        "dimensionId": "attr-1",
-        "name": "Secondary Option",
+        "dimensionId": "size",
+        "name": "Size",
         "options": [
           {
-            "variantOptionId": 5936,
-            "variantOptionText": "46"
+            "variantOptionId": 8119,
+            "variantOptionText": "38"
           },
           {
-            "variantOptionId": 5933,
-            "variantOptionText": "43"
+            "variantOptionId": 8115,
+            "variantOptionText": "30"
           }
         ]
       }
     ],
     "variantImages": [
       {
-        "variantOptionId": 5321,
-        "variantOptionText": "Beige",
+        "variantOptionId": 8112,
+        "variantOptionText": "Ash",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -3853,8 +2794,193 @@ export const products = [
         ]
       },
       {
-        "variantOptionId": 5928,
-        "variantOptionText": "Green",
+        "variantOptionId": 8111,
+        "variantOptionText": "Black & White Check",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      }
+    ],
+    "variantCombinations": [
+      {
+        "sku": "sku-6016",
+        "subStyle": "sub-7016",
+        "shopProductSku": "ASH3819",
+        "stock": 25,
+        "dpPrice": 2999,
+        "mrp": 3810,
+        "sellingPrice": 3482,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 328,
+        "commissionAmount": 483,
+        "options": [
+          {
+            "variantOptionId": 8112,
+            "variantOptionText": "Ash"
+          },
+          {
+            "variantOptionId": 8119,
+            "variantOptionText": "38"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6016",
+        "subStyle": "sub-7016",
+        "shopProductSku": "ASH3019",
+        "stock": 88,
+        "dpPrice": 2999,
+        "mrp": 3810,
+        "sellingPrice": 3482,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 328,
+        "commissionAmount": 483,
+        "options": [
+          {
+            "variantOptionId": 8112,
+            "variantOptionText": "Ash"
+          },
+          {
+            "variantOptionId": 8115,
+            "variantOptionText": "30"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6016",
+        "subStyle": "sub-7016",
+        "shopProductSku": "BLAC3819",
+        "stock": 24,
+        "dpPrice": 2999,
+        "mrp": 3810,
+        "sellingPrice": 3482,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 328,
+        "commissionAmount": 483,
+        "options": [
+          {
+            "variantOptionId": 8111,
+            "variantOptionText": "Black & White Check"
+          },
+          {
+            "variantOptionId": 8119,
+            "variantOptionText": "38"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6016",
+        "subStyle": "sub-7016",
+        "shopProductSku": "BLAC3019",
+        "stock": 28,
+        "dpPrice": 2999,
+        "mrp": 3810,
+        "sellingPrice": 3482,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 328,
+        "commissionAmount": 483,
+        "options": [
+          {
+            "variantOptionId": 8111,
+            "variantOptionText": "Black & White Check"
+          },
+          {
+            "variantOptionId": 8115,
+            "variantOptionText": "30"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      }
+    ],
+    "description": "Mens Overcoat Airmars #19 available at Crafts Maker Ltd.. Category: Mens Overcoat.",
+    "specification": "Brand: Airmars. Category: Mens Overcoat.",
+    "hasEmi": "N",
+    "isReturnable": "N",
+    "returnDuration": 15,
+    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
+    "sizeChartId": 362,
+    "warrantyTypeId": 5,
+    "warrantyPeriodId": 13,
+    "warrantyPolicy": "Brand Warranty - 36 Months.",
+    "packageWeight": 0.63,
+    "packageLength": 0.74,
+    "packageWidth": 0.68,
+    "packageHeight": 0.98,
+    "productUrl": "mens-overcoat-19",
+    "videoUrl": "",
+    "metaTitle": "Mens Overcoat Airmars #19",
+    "metaKeywords": "Mens Overcoat, Airmars",
+    "metaDescription": "Buy Mens Overcoat Airmars #19 online at Crafts Maker Ltd..",
+    "ogType": "product",
+    "ogTitle": "Mens Overcoat Airmars #19",
+    "ogUrl": "mens-overcoat-19",
+    "ogDescription": "Buy Mens Overcoat Airmars #19 online at Crafts Maker Ltd..",
+    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+    "createdBy": "A A Momin",
+    "createdAt": "2026-04-04T09:50",
+    "updatedBy": "B B Momin",
+    "updatedAt": "2026-04-04T09:50"
+  },
+  {
+    "productId": 20,
+    "productName": "Router Azeada #20",
+    "categoryId": 252,
+    "unit": "pair",
+    "shopId": 97,
+    "displayOrder": "20",
+    "thumbnailImages": [
+      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
+      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
+    ],
+    "brandId": 588,
+    "strapMaterial": null,
+    "fitType": null,
+    "gender": null,
+    "variantDimensions": [
+      {
+        "dimensionId": "color",
+        "name": "Color",
+        "options": [
+          {
+            "variantOptionId": 3814,
+            "variantOptionText": "White"
+          },
+          {
+            "variantOptionId": 3815,
+            "variantOptionText": "Black"
+          }
+        ]
+      }
+    ],
+    "variantImages": [
+      {
+        "variantOptionId": 3814,
+        "variantOptionText": "White",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      },
+      {
+        "variantOptionId": 3815,
+        "variantOptionText": "Black",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -3866,23 +2992,19 @@ export const products = [
       {
         "sku": "sku-6017",
         "subStyle": "sub-7017",
-        "shopProductSku": "BEIG4620",
-        "stock": 81,
-        "dpPrice": 1838,
-        "mrp": 2365,
-        "sellingPrice": 2216,
+        "shopProductSku": "WHIT20",
+        "stock": 48,
+        "dpPrice": 2489,
+        "mrp": 3380,
+        "sellingPrice": 3132,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 75,
-        "commissionAmount": 184,
+        "burnAmount": 248,
+        "commissionAmount": 643,
         "options": [
           {
-            "variantOptionId": 5321,
-            "variantOptionText": "Beige"
-          },
-          {
-            "variantOptionId": 5936,
-            "variantOptionText": "46"
+            "variantOptionId": 3814,
+            "variantOptionText": "White"
           }
         ],
         "inventoryTypeId": 1,
@@ -3891,102 +3013,48 @@ export const products = [
       {
         "sku": "sku-6017",
         "subStyle": "sub-7017",
-        "shopProductSku": "BEIG4320",
-        "stock": 90,
-        "dpPrice": 1838,
-        "mrp": 2365,
-        "sellingPrice": 2216,
+        "shopProductSku": "BLAC20",
+        "stock": 42,
+        "dpPrice": 2489,
+        "mrp": 3380,
+        "sellingPrice": 3132,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 75,
-        "commissionAmount": 184,
+        "burnAmount": 248,
+        "commissionAmount": 643,
         "options": [
           {
-            "variantOptionId": 5321,
-            "variantOptionText": "Beige"
-          },
-          {
-            "variantOptionId": 5933,
-            "variantOptionText": "43"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6017",
-        "subStyle": "sub-7017",
-        "shopProductSku": "GREE4620",
-        "stock": 51,
-        "dpPrice": 1838,
-        "mrp": 2365,
-        "sellingPrice": 2216,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 75,
-        "commissionAmount": 184,
-        "options": [
-          {
-            "variantOptionId": 5928,
-            "variantOptionText": "Green"
-          },
-          {
-            "variantOptionId": 5936,
-            "variantOptionText": "46"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6017",
-        "subStyle": "sub-7017",
-        "shopProductSku": "GREE4320",
-        "stock": 30,
-        "dpPrice": 1838,
-        "mrp": 2365,
-        "sellingPrice": 2216,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 75,
-        "commissionAmount": 184,
-        "options": [
-          {
-            "variantOptionId": 5928,
-            "variantOptionText": "Green"
-          },
-          {
-            "variantOptionId": 5933,
-            "variantOptionText": "43"
+            "variantOptionId": 3815,
+            "variantOptionText": "Black"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       }
     ],
-    "description": "Footwear Airmars #20 available at Lioo. Category: Footwear.",
-    "specification": "Brand: Airmars. Category: Footwear.",
+    "description": "Router Azeada #20 available at LivPure. Category: Router.",
+    "specification": "Brand: Azeada. Category: Router.",
     "hasEmi": "N",
     "isReturnable": "Y",
     "returnDuration": 15,
     "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 353,
-    "warrantyTypeId": 2,
-    "warrantyPeriodId": 12,
-    "warrantyPolicy": "Non-local Warranty - 12 Months.",
-    "packageWeight": 0.36,
-    "packageLength": 0.39,
-    "packageWidth": 0.42,
-    "packageHeight": 1.5,
-    "productUrl": "footwear-20",
+    "sizeChartId": 369,
+    "warrantyTypeId": 4,
+    "warrantyPeriodId": 17,
+    "warrantyPolicy": "International Manufacturer Warranty - 12 Years.",
+    "packageWeight": 1.53,
+    "packageLength": 1.55,
+    "packageWidth": 0.89,
+    "packageHeight": 1.13,
+    "productUrl": "router-20",
     "videoUrl": "",
-    "metaTitle": "Footwear Airmars #20",
-    "metaKeywords": "Footwear, Airmars",
-    "metaDescription": "Buy Footwear Airmars #20 online at Lioo.",
+    "metaTitle": "Router Azeada #20",
+    "metaKeywords": "Router, Azeada",
+    "metaDescription": "Buy Router Azeada #20 online at LivPure.",
     "ogType": "product",
-    "ogTitle": "Footwear Airmars #20",
-    "ogUrl": "footwear-20",
-    "ogDescription": "Buy Footwear Airmars #20 online at Lioo.",
+    "ogTitle": "Router Azeada #20",
+    "ogUrl": "router-20",
+    "ogDescription": "Buy Router Azeada #20 online at LivPure.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
@@ -3995,10 +3063,10 @@ export const products = [
   },
   {
     "productId": 21,
-    "productName": "Womens Joggers  #21",
-    "categoryId": 47,
+    "productName": "Comforter Chrisbella #21",
+    "categoryId": 141,
     "unit": "set",
-    "shopId": 41,
+    "shopId": 74,
     "displayOrder": "21",
     "thumbnailImages": [
       "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
@@ -4007,44 +3075,30 @@ export const products = [
       "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
       "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
     ],
-    "brandId": null,
+    "brandId": 591,
     "strapMaterial": null,
-    "fitType": "Slim",
-    "gender": "male",
+    "fitType": null,
+    "gender": null,
     "variantDimensions": [
       {
-        "dimensionId": "attr-0",
-        "name": "Primary Option",
+        "dimensionId": "color",
+        "name": "Color",
         "options": [
           {
-            "variantOptionId": 5634,
-            "variantOptionText": "Off White"
+            "variantOptionId": 5360,
+            "variantOptionText": "Olive Green Printed"
           },
           {
-            "variantOptionId": 3352,
-            "variantOptionText": "Olive"
-          }
-        ]
-      },
-      {
-        "dimensionId": "attr-1",
-        "name": "Secondary Option",
-        "options": [
-          {
-            "variantOptionId": 4389,
-            "variantOptionText": "Twill"
-          },
-          {
-            "variantOptionId": 3358,
-            "variantOptionText": "Synthetic "
+            "variantOptionId": 8824,
+            "variantOptionText": "White & Blue Print"
           }
         ]
       }
     ],
     "variantImages": [
       {
-        "variantOptionId": 5634,
-        "variantOptionText": "Off White",
+        "variantOptionId": 5360,
+        "variantOptionText": "Olive Green Printed",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -4052,8 +3106,8 @@ export const products = [
         ]
       },
       {
-        "variantOptionId": 3352,
-        "variantOptionText": "Olive",
+        "variantOptionId": 8824,
+        "variantOptionText": "White & Blue Print",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -4065,23 +3119,19 @@ export const products = [
       {
         "sku": "sku-6018",
         "subStyle": "sub-7018",
-        "shopProductSku": "OFF-TWIL21",
-        "stock": 58,
-        "dpPrice": 1642,
-        "mrp": 2037,
-        "sellingPrice": 1773,
+        "shopProductSku": "OLIV21",
+        "stock": 81,
+        "dpPrice": 2801,
+        "mrp": 3933,
+        "sellingPrice": 3514,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 132,
-        "commissionAmount": 164,
+        "burnAmount": 419,
+        "commissionAmount": 713,
         "options": [
           {
-            "variantOptionId": 5634,
-            "variantOptionText": "Off White"
-          },
-          {
-            "variantOptionId": 4389,
-            "variantOptionText": "Twill"
+            "variantOptionId": 5360,
+            "variantOptionText": "Olive Green Printed"
           }
         ],
         "inventoryTypeId": 1,
@@ -4090,102 +3140,48 @@ export const products = [
       {
         "sku": "sku-6018",
         "subStyle": "sub-7018",
-        "shopProductSku": "OFF-SYNT21",
-        "stock": 73,
-        "dpPrice": 1642,
-        "mrp": 2037,
-        "sellingPrice": 1773,
+        "shopProductSku": "WHIT21",
+        "stock": 77,
+        "dpPrice": 2801,
+        "mrp": 3933,
+        "sellingPrice": 3514,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 132,
-        "commissionAmount": 164,
+        "burnAmount": 419,
+        "commissionAmount": 713,
         "options": [
           {
-            "variantOptionId": 5634,
-            "variantOptionText": "Off White"
-          },
-          {
-            "variantOptionId": 3358,
-            "variantOptionText": "Synthetic "
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6018",
-        "subStyle": "sub-7018",
-        "shopProductSku": "OLIVTWIL21",
-        "stock": 27,
-        "dpPrice": 1642,
-        "mrp": 2037,
-        "sellingPrice": 1773,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 132,
-        "commissionAmount": 164,
-        "options": [
-          {
-            "variantOptionId": 3352,
-            "variantOptionText": "Olive"
-          },
-          {
-            "variantOptionId": 4389,
-            "variantOptionText": "Twill"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6018",
-        "subStyle": "sub-7018",
-        "shopProductSku": "OLIVSYNT21",
-        "stock": 71,
-        "dpPrice": 1642,
-        "mrp": 2037,
-        "sellingPrice": 1773,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 132,
-        "commissionAmount": 164,
-        "options": [
-          {
-            "variantOptionId": 3352,
-            "variantOptionText": "Olive"
-          },
-          {
-            "variantOptionId": 3358,
-            "variantOptionText": "Synthetic "
+            "variantOptionId": 8824,
+            "variantOptionText": "White & Blue Print"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       }
     ],
-    "description": "Womens Joggers  #21 available at Lotto. Category: Womens Joggers.",
-    "specification": "Brand: Generic. Category: Womens Joggers.",
+    "description": "Comforter Chrisbella #21 available at Lunettes Bangladesh. Category: Comforter.",
+    "specification": "Brand: Chrisbella. Category: Comforter.",
     "hasEmi": "N",
     "isReturnable": "Y",
     "returnDuration": 15,
     "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 345,
+    "sizeChartId": 343,
     "warrantyTypeId": 5,
-    "warrantyPeriodId": 6,
-    "warrantyPolicy": "Brand Warranty - 6 Months.",
-    "packageWeight": 0.71,
-    "packageLength": 1.36,
-    "packageWidth": 1.68,
-    "packageHeight": 1.6,
-    "productUrl": "womens-joggers-21",
+    "warrantyPeriodId": 15,
+    "warrantyPolicy": "Brand Warranty - 10 Years.",
+    "packageWeight": 1.01,
+    "packageLength": 1.09,
+    "packageWidth": 1.64,
+    "packageHeight": 0.95,
+    "productUrl": "comforter-21",
     "videoUrl": "",
-    "metaTitle": "Womens Joggers  #21",
-    "metaKeywords": "Womens Joggers,",
-    "metaDescription": "Buy Womens Joggers  #21 online at Lotto.",
+    "metaTitle": "Comforter Chrisbella #21",
+    "metaKeywords": "Comforter, Chrisbella",
+    "metaDescription": "Buy Comforter Chrisbella #21 online at Lunettes Bangladesh.",
     "ogType": "product",
-    "ogTitle": "Womens Joggers  #21",
-    "ogUrl": "womens-joggers-21",
-    "ogDescription": "Buy Womens Joggers  #21 online at Lotto.",
+    "ogTitle": "Comforter Chrisbella #21",
+    "ogUrl": "comforter-21",
+    "ogDescription": "Buy Comforter Chrisbella #21 online at Lunettes Bangladesh.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
@@ -4194,10 +3190,10 @@ export const products = [
   },
   {
     "productId": 22,
-    "productName": "Mens Formal Shirt Bagbdstore #22",
-    "categoryId": 7,
+    "productName": "Mens Bag Ariston #22",
+    "categoryId": 102,
     "unit": "pair",
-    "shopId": 88,
+    "shopId": 100,
     "displayOrder": "22",
     "thumbnailImages": [
       "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
@@ -4206,44 +3202,44 @@ export const products = [
       "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
       "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
     ],
-    "brandId": 538,
-    "strapMaterial": null,
+    "brandId": 495,
+    "strapMaterial": "Metal",
     "fitType": "Regular",
-    "gender": "unisex",
+    "gender": "female",
     "variantDimensions": [
       {
-        "dimensionId": "attr-0",
-        "name": "Primary Option",
+        "dimensionId": "color",
+        "name": "Color",
         "options": [
           {
-            "variantOptionId": 4735,
-            "variantOptionText": "White Ash Check"
+            "variantOptionId": 7968,
+            "variantOptionText": "Brown"
           },
           {
-            "variantOptionId": 4696,
-            "variantOptionText": "Blue check"
+            "variantOptionId": 1537,
+            "variantOptionText": "Dark Green"
           }
         ]
       },
       {
-        "dimensionId": "attr-1",
-        "name": "Secondary Option",
+        "dimensionId": "size",
+        "name": "Size",
         "options": [
           {
-            "variantOptionId": 3373,
-            "variantOptionText": "Eid ul Adha 2023"
+            "variantOptionId": 2515,
+            "variantOptionText": "M"
           },
           {
-            "variantOptionId": 4765,
-            "variantOptionText": "Boishak 2024"
+            "variantOptionId": 2508,
+            "variantOptionText": "FREE SIZE"
           }
         ]
       }
     ],
     "variantImages": [
       {
-        "variantOptionId": 4735,
-        "variantOptionText": "White Ash Check",
+        "variantOptionId": 7968,
+        "variantOptionText": "Brown",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -4251,8 +3247,8 @@ export const products = [
         ]
       },
       {
-        "variantOptionId": 4696,
-        "variantOptionText": "Blue check",
+        "variantOptionId": 1537,
+        "variantOptionText": "Dark Green",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -4264,23 +3260,23 @@ export const products = [
       {
         "sku": "sku-6019",
         "subStyle": "sub-7019",
-        "shopProductSku": "WHITEID-22",
-        "stock": 60,
-        "dpPrice": 2835,
-        "mrp": 3477,
-        "sellingPrice": 3197,
+        "shopProductSku": "BROWM22",
+        "stock": 44,
+        "dpPrice": 1386,
+        "mrp": 1891,
+        "sellingPrice": 1608,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 140,
-        "commissionAmount": 284,
+        "burnAmount": 283,
+        "commissionAmount": 222,
         "options": [
           {
-            "variantOptionId": 4735,
-            "variantOptionText": "White Ash Check"
+            "variantOptionId": 7968,
+            "variantOptionText": "Brown"
           },
           {
-            "variantOptionId": 3373,
-            "variantOptionText": "Eid ul Adha 2023"
+            "variantOptionId": 2515,
+            "variantOptionText": "M"
           }
         ],
         "inventoryTypeId": 1,
@@ -4289,23 +3285,48 @@ export const products = [
       {
         "sku": "sku-6019",
         "subStyle": "sub-7019",
-        "shopProductSku": "WHITBOIS22",
+        "shopProductSku": "BROWFREE22",
+        "stock": 86,
+        "dpPrice": 1386,
+        "mrp": 1891,
+        "sellingPrice": 1608,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 283,
+        "commissionAmount": 222,
+        "options": [
+          {
+            "variantOptionId": 7968,
+            "variantOptionText": "Brown"
+          },
+          {
+            "variantOptionId": 2508,
+            "variantOptionText": "FREE SIZE"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6019",
+        "subStyle": "sub-7019",
+        "shopProductSku": "DARKM22",
         "stock": 67,
-        "dpPrice": 2835,
-        "mrp": 3477,
-        "sellingPrice": 3197,
+        "dpPrice": 1386,
+        "mrp": 1891,
+        "sellingPrice": 1608,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 140,
-        "commissionAmount": 284,
+        "burnAmount": 283,
+        "commissionAmount": 222,
         "options": [
           {
-            "variantOptionId": 4735,
-            "variantOptionText": "White Ash Check"
+            "variantOptionId": 1537,
+            "variantOptionText": "Dark Green"
           },
           {
-            "variantOptionId": 4765,
-            "variantOptionText": "Boishak 2024"
+            "variantOptionId": 2515,
+            "variantOptionText": "M"
           }
         ],
         "inventoryTypeId": 1,
@@ -4314,77 +3335,52 @@ export const products = [
       {
         "sku": "sku-6019",
         "subStyle": "sub-7019",
-        "shopProductSku": "BLUEEID-22",
-        "stock": 72,
-        "dpPrice": 2835,
-        "mrp": 3477,
-        "sellingPrice": 3197,
+        "shopProductSku": "DARKFREE22",
+        "stock": 20,
+        "dpPrice": 1386,
+        "mrp": 1891,
+        "sellingPrice": 1608,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 140,
-        "commissionAmount": 284,
+        "burnAmount": 283,
+        "commissionAmount": 222,
         "options": [
           {
-            "variantOptionId": 4696,
-            "variantOptionText": "Blue check"
+            "variantOptionId": 1537,
+            "variantOptionText": "Dark Green"
           },
           {
-            "variantOptionId": 3373,
-            "variantOptionText": "Eid ul Adha 2023"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6019",
-        "subStyle": "sub-7019",
-        "shopProductSku": "BLUEBOIS22",
-        "stock": 50,
-        "dpPrice": 2835,
-        "mrp": 3477,
-        "sellingPrice": 3197,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 140,
-        "commissionAmount": 284,
-        "options": [
-          {
-            "variantOptionId": 4696,
-            "variantOptionText": "Blue check"
-          },
-          {
-            "variantOptionId": 4765,
-            "variantOptionText": "Boishak 2024"
+            "variantOptionId": 2508,
+            "variantOptionText": "FREE SIZE"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       }
     ],
-    "description": "Mens Formal Shirt Bagbdstore #22 available at Lioo. Category: Mens Formal Shirt.",
-    "specification": "Brand: Bagbdstore. Category: Mens Formal Shirt.",
-    "hasEmi": "Y",
+    "description": "Mens Bag Ariston #22 available at Havells. Category: Mens Bag.",
+    "specification": "Brand: Ariston. Category: Mens Bag.",
+    "hasEmi": "N",
     "isReturnable": "Y",
     "returnDuration": 15,
     "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 355,
+    "sizeChartId": 340,
     "warrantyTypeId": 2,
-    "warrantyPeriodId": 13,
-    "warrantyPolicy": "Non-local Warranty - 36 Months.",
-    "packageWeight": 0.74,
-    "packageLength": 0.35,
-    "packageWidth": 1.4,
-    "packageHeight": 0.2,
-    "productUrl": "mens-formal-shirt-22",
+    "warrantyPeriodId": 21,
+    "warrantyPolicy": "Non-local Warranty - 7 Months.",
+    "packageWeight": 0.56,
+    "packageLength": 1.37,
+    "packageWidth": 0.51,
+    "packageHeight": 0.42,
+    "productUrl": "mens-bag-22",
     "videoUrl": "",
-    "metaTitle": "Mens Formal Shirt Bagbdstore #22",
-    "metaKeywords": "Mens Formal Shirt, Bagbdstore",
-    "metaDescription": "Buy Mens Formal Shirt Bagbdstore #22 online at Lioo.",
+    "metaTitle": "Mens Bag Ariston #22",
+    "metaKeywords": "Mens Bag, Ariston",
+    "metaDescription": "Buy Mens Bag Ariston #22 online at Havells.",
     "ogType": "product",
-    "ogTitle": "Mens Formal Shirt Bagbdstore #22",
-    "ogUrl": "mens-formal-shirt-22",
-    "ogDescription": "Buy Mens Formal Shirt Bagbdstore #22 online at Lioo.",
+    "ogTitle": "Mens Bag Ariston #22",
+    "ogUrl": "mens-bag-22",
+    "ogDescription": "Buy Mens Bag Ariston #22 online at Havells.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
@@ -4393,10 +3389,10 @@ export const products = [
   },
   {
     "productId": 23,
-    "productName": "Home Accessories  #23",
-    "categoryId": 212,
-    "unit": "psc",
-    "shopId": 61,
+    "productName": "Kitchen Appliances Airmars #23",
+    "categoryId": 184,
+    "unit": "pair",
+    "shopId": 97,
     "displayOrder": "23",
     "thumbnailImages": [
       "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
@@ -4405,7 +3401,7 @@ export const products = [
       "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
       "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
     ],
-    "brandId": null,
+    "brandId": 484,
     "strapMaterial": null,
     "fitType": null,
     "gender": null,
@@ -4415,34 +3411,20 @@ export const products = [
         "name": "Color",
         "options": [
           {
-            "variantOptionId": 1762,
-            "variantOptionText": "Blue & White Check"
+            "variantOptionId": 7776,
+            "variantOptionText": "Silver"
           },
           {
-            "variantOptionId": 432,
-            "variantOptionText": "Carbon"
-          }
-        ]
-      },
-      {
-        "dimensionId": "size",
-        "name": "Size",
-        "options": [
-          {
-            "variantOptionId": 1705,
-            "variantOptionText": "33"
-          },
-          {
-            "variantOptionId": 339,
-            "variantOptionText": "3 YEARS"
+            "variantOptionId": 3502,
+            "variantOptionText": "White"
           }
         ]
       }
     ],
     "variantImages": [
       {
-        "variantOptionId": 1762,
-        "variantOptionText": "Blue & White Check",
+        "variantOptionId": 7776,
+        "variantOptionText": "Silver",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -4450,8 +3432,8 @@ export const products = [
         ]
       },
       {
-        "variantOptionId": 432,
-        "variantOptionText": "Carbon",
+        "variantOptionId": 3502,
+        "variantOptionText": "White",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -4463,23 +3445,19 @@ export const products = [
       {
         "sku": "sku-6020",
         "subStyle": "sub-7020",
-        "shopProductSku": "BLUE3323",
-        "stock": 77,
-        "dpPrice": 694,
-        "mrp": 850,
-        "sellingPrice": 793,
+        "shopProductSku": "SILV23",
+        "stock": 63,
+        "dpPrice": 1811,
+        "mrp": 2680,
+        "sellingPrice": 2680,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 29,
-        "commissionAmount": 69,
+        "burnAmount": 0,
+        "commissionAmount": 869,
         "options": [
           {
-            "variantOptionId": 1762,
-            "variantOptionText": "Blue & White Check"
-          },
-          {
-            "variantOptionId": 1705,
-            "variantOptionText": "33"
+            "variantOptionId": 7776,
+            "variantOptionText": "Silver"
           }
         ],
         "inventoryTypeId": 1,
@@ -4488,102 +3466,48 @@ export const products = [
       {
         "sku": "sku-6020",
         "subStyle": "sub-7020",
-        "shopProductSku": "BLUE3-YE23",
-        "stock": 65,
-        "dpPrice": 694,
-        "mrp": 850,
-        "sellingPrice": 793,
+        "shopProductSku": "WHIT23",
+        "stock": 75,
+        "dpPrice": 1811,
+        "mrp": 2680,
+        "sellingPrice": 2680,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 29,
-        "commissionAmount": 69,
+        "burnAmount": 0,
+        "commissionAmount": 869,
         "options": [
           {
-            "variantOptionId": 1762,
-            "variantOptionText": "Blue & White Check"
-          },
-          {
-            "variantOptionId": 339,
-            "variantOptionText": "3 YEARS"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6020",
-        "subStyle": "sub-7020",
-        "shopProductSku": "CARB3323",
-        "stock": 74,
-        "dpPrice": 694,
-        "mrp": 850,
-        "sellingPrice": 793,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 29,
-        "commissionAmount": 69,
-        "options": [
-          {
-            "variantOptionId": 432,
-            "variantOptionText": "Carbon"
-          },
-          {
-            "variantOptionId": 1705,
-            "variantOptionText": "33"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6020",
-        "subStyle": "sub-7020",
-        "shopProductSku": "CARB3-YE23",
-        "stock": 45,
-        "dpPrice": 694,
-        "mrp": 850,
-        "sellingPrice": 793,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 29,
-        "commissionAmount": 69,
-        "options": [
-          {
-            "variantOptionId": 432,
-            "variantOptionText": "Carbon"
-          },
-          {
-            "variantOptionId": 339,
-            "variantOptionText": "3 YEARS"
+            "variantOptionId": 3502,
+            "variantOptionText": "White"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       }
     ],
-    "description": "Home Accessories  #23 available at Electro Mart Ltd.. Category: Home Accessories.",
-    "specification": "Brand: Generic. Category: Home Accessories.",
+    "description": "Kitchen Appliances Airmars #23 available at LivPure. Category: Kitchen Appliances.",
+    "specification": "Brand: Airmars. Category: Kitchen Appliances.",
     "hasEmi": "Y",
     "isReturnable": "Y",
     "returnDuration": 15,
     "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 350,
+    "sizeChartId": 347,
     "warrantyTypeId": 1,
-    "warrantyPeriodId": 18,
-    "warrantyPolicy": "Local Seller Warranty - 18 months.",
-    "packageWeight": 0.23,
-    "packageLength": 1.24,
-    "packageWidth": 1.34,
-    "packageHeight": 0.75,
-    "productUrl": "home-accessories-23",
+    "warrantyPeriodId": 3,
+    "warrantyPolicy": "Local Seller Warranty - 3 Month.",
+    "packageWeight": 1.07,
+    "packageLength": 1.4,
+    "packageWidth": 1.7,
+    "packageHeight": 0.44,
+    "productUrl": "kitchen-appliances-23",
     "videoUrl": "",
-    "metaTitle": "Home Accessories  #23",
-    "metaKeywords": "Home Accessories,",
-    "metaDescription": "Buy Home Accessories  #23 online at Electro Mart Ltd..",
+    "metaTitle": "Kitchen Appliances Airmars #23",
+    "metaKeywords": "Kitchen Appliances, Airmars",
+    "metaDescription": "Buy Kitchen Appliances Airmars #23 online at LivPure.",
     "ogType": "product",
-    "ogTitle": "Home Accessories  #23",
-    "ogUrl": "home-accessories-23",
-    "ogDescription": "Buy Home Accessories  #23 online at Electro Mart Ltd..",
+    "ogTitle": "Kitchen Appliances Airmars #23",
+    "ogUrl": "kitchen-appliances-23",
+    "ogDescription": "Buy Kitchen Appliances Airmars #23 online at LivPure.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
@@ -4592,11 +3516,138 @@ export const products = [
   },
   {
     "productId": 24,
-    "productName": "Washing Machine  #24",
-    "categoryId": 302,
+    "productName": "Toaster BONTE #24",
+    "categoryId": 479,
     "unit": "pair",
-    "shopId": 87,
+    "shopId": 71,
     "displayOrder": "24",
+    "thumbnailImages": [
+      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
+      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
+    ],
+    "brandId": 534,
+    "strapMaterial": null,
+    "fitType": null,
+    "gender": null,
+    "variantDimensions": [
+      {
+        "dimensionId": "color",
+        "name": "Color",
+        "options": [
+          {
+            "variantOptionId": 6982,
+            "variantOptionText": "Golden"
+          },
+          {
+            "variantOptionId": 7997,
+            "variantOptionText": "Black"
+          }
+        ]
+      }
+    ],
+    "variantImages": [
+      {
+        "variantOptionId": 6982,
+        "variantOptionText": "Golden",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      },
+      {
+        "variantOptionId": 7997,
+        "variantOptionText": "Black",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      }
+    ],
+    "variantCombinations": [
+      {
+        "sku": "sku-6021",
+        "subStyle": "sub-7021",
+        "shopProductSku": "GOLD24",
+        "stock": 70,
+        "dpPrice": 609,
+        "mrp": 860,
+        "sellingPrice": 860,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 0,
+        "commissionAmount": 251,
+        "options": [
+          {
+            "variantOptionId": 6982,
+            "variantOptionText": "Golden"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6021",
+        "subStyle": "sub-7021",
+        "shopProductSku": "BLAC24",
+        "stock": 46,
+        "dpPrice": 609,
+        "mrp": 860,
+        "sellingPrice": 860,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 0,
+        "commissionAmount": 251,
+        "options": [
+          {
+            "variantOptionId": 7997,
+            "variantOptionText": "Black"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      }
+    ],
+    "description": "Toaster BONTE #24 available at Urbaland. Category: Toaster.",
+    "specification": "Brand: BONTE. Category: Toaster.",
+    "hasEmi": "Y",
+    "isReturnable": "Y",
+    "returnDuration": 15,
+    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
+    "sizeChartId": 350,
+    "warrantyTypeId": 2,
+    "warrantyPeriodId": 4,
+    "warrantyPolicy": "Non-local Warranty - 4 Month.",
+    "packageWeight": 0.2,
+    "packageLength": 0.97,
+    "packageWidth": 0.82,
+    "packageHeight": 1.39,
+    "productUrl": "toaster-24",
+    "videoUrl": "",
+    "metaTitle": "Toaster BONTE #24",
+    "metaKeywords": "Toaster, BONTE",
+    "metaDescription": "Buy Toaster BONTE #24 online at Urbaland.",
+    "ogType": "product",
+    "ogTitle": "Toaster BONTE #24",
+    "ogUrl": "toaster-24",
+    "ogDescription": "Buy Toaster BONTE #24 online at Urbaland.",
+    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+    "createdBy": "A A Momin",
+    "createdAt": "2026-04-04T09:50",
+    "updatedBy": "B B Momin",
+    "updatedAt": "2026-04-04T09:50"
+  },
+  {
+    "productId": 25,
+    "productName": "Mens Hoodie  #25",
+    "categoryId": 21,
+    "unit": "pair",
+    "shopId": 55,
+    "displayOrder": "25",
     "thumbnailImages": [
       "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
       "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -4606,20 +3657,20 @@ export const products = [
     ],
     "brandId": null,
     "strapMaterial": null,
-    "fitType": null,
-    "gender": null,
+    "fitType": "Loose",
+    "gender": "male",
     "variantDimensions": [
       {
         "dimensionId": "color",
         "name": "Color",
         "options": [
           {
-            "variantOptionId": 1761,
-            "variantOptionText": "Olive & White Check"
+            "variantOptionId": 1892,
+            "variantOptionText": "Purple"
           },
           {
-            "variantOptionId": 2191,
-            "variantOptionText": "Glossy Black Orange"
+            "variantOptionId": 1924,
+            "variantOptionText": "Orange"
           }
         ]
       },
@@ -4628,20 +3679,20 @@ export const products = [
         "name": "Size",
         "options": [
           {
-            "variantOptionId": 1154,
-            "variantOptionText": "50"
+            "variantOptionId": 6108,
+            "variantOptionText": "XXXL"
           },
           {
-            "variantOptionId": 1931,
-            "variantOptionText": "8 UK"
+            "variantOptionId": 1869,
+            "variantOptionText": "XS"
           }
         ]
       }
     ],
     "variantImages": [
       {
-        "variantOptionId": 1761,
-        "variantOptionText": "Olive & White Check",
+        "variantOptionId": 1892,
+        "variantOptionText": "Purple",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -4649,207 +3700,8 @@ export const products = [
         ]
       },
       {
-        "variantOptionId": 2191,
-        "variantOptionText": "Glossy Black Orange",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      }
-    ],
-    "variantCombinations": [
-      {
-        "sku": "sku-6021",
-        "subStyle": "sub-7021",
-        "shopProductSku": "OLIV5024",
-        "stock": 100,
-        "dpPrice": 2973,
-        "mrp": 4134,
-        "sellingPrice": 3714,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 210,
-        "commissionAmount": 297,
-        "options": [
-          {
-            "variantOptionId": 1761,
-            "variantOptionText": "Olive & White Check"
-          },
-          {
-            "variantOptionId": 1154,
-            "variantOptionText": "50"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6021",
-        "subStyle": "sub-7021",
-        "shopProductSku": "OLIV8-UK24",
-        "stock": 61,
-        "dpPrice": 2973,
-        "mrp": 4134,
-        "sellingPrice": 3714,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 210,
-        "commissionAmount": 297,
-        "options": [
-          {
-            "variantOptionId": 1761,
-            "variantOptionText": "Olive & White Check"
-          },
-          {
-            "variantOptionId": 1931,
-            "variantOptionText": "8 UK"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6021",
-        "subStyle": "sub-7021",
-        "shopProductSku": "GLOS5024",
-        "stock": 75,
-        "dpPrice": 2973,
-        "mrp": 4134,
-        "sellingPrice": 3714,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 210,
-        "commissionAmount": 297,
-        "options": [
-          {
-            "variantOptionId": 2191,
-            "variantOptionText": "Glossy Black Orange"
-          },
-          {
-            "variantOptionId": 1154,
-            "variantOptionText": "50"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6021",
-        "subStyle": "sub-7021",
-        "shopProductSku": "GLOS8-UK24",
-        "stock": 8,
-        "dpPrice": 2973,
-        "mrp": 4134,
-        "sellingPrice": 3714,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 210,
-        "commissionAmount": 297,
-        "options": [
-          {
-            "variantOptionId": 2191,
-            "variantOptionText": "Glossy Black Orange"
-          },
-          {
-            "variantOptionId": 1931,
-            "variantOptionText": "8 UK"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      }
-    ],
-    "description": "Washing Machine  #24 available at Style Merchandise. Category: Washing Machine.",
-    "specification": "Brand: Generic. Category: Washing Machine.",
-    "hasEmi": "N",
-    "isReturnable": "Y",
-    "returnDuration": 15,
-    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 349,
-    "warrantyTypeId": 5,
-    "warrantyPeriodId": 20,
-    "warrantyPolicy": "Brand Warranty - 8 Months.",
-    "packageWeight": 1.18,
-    "packageLength": 1.33,
-    "packageWidth": 0.6,
-    "packageHeight": 0.3,
-    "productUrl": "washing-machine-24",
-    "videoUrl": "",
-    "metaTitle": "Washing Machine  #24",
-    "metaKeywords": "Washing Machine,",
-    "metaDescription": "Buy Washing Machine  #24 online at Style Merchandise.",
-    "ogType": "product",
-    "ogTitle": "Washing Machine  #24",
-    "ogUrl": "washing-machine-24",
-    "ogDescription": "Buy Washing Machine  #24 online at Style Merchandise.",
-    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-    "createdBy": "A A Momin",
-    "createdAt": "2026-04-04T09:50",
-    "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
-  },
-  {
-    "productId": 25,
-    "productName": "Home security Click Bajar #25",
-    "categoryId": 245,
-    "unit": "set",
-    "shopId": 46,
-    "displayOrder": "25",
-    "thumbnailImages": [
-      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
-      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
-    ],
-    "brandId": 553,
-    "strapMaterial": null,
-    "fitType": null,
-    "gender": null,
-    "variantDimensions": [
-      {
-        "dimensionId": "color",
-        "name": "Color",
-        "options": [
-          {
-            "variantOptionId": 1591,
-            "variantOptionText": "Frost Blue"
-          },
-          {
-            "variantOptionId": 1436,
-            "variantOptionText": "01"
-          }
-        ]
-      },
-      {
-        "dimensionId": "size",
-        "name": "Size",
-        "options": [
-          {
-            "variantOptionId": 1701,
-            "variantOptionText": "26 Inch"
-          },
-          {
-            "variantOptionId": 1908,
-            "variantOptionText": "160MM, 6â€³"
-          }
-        ]
-      }
-    ],
-    "variantImages": [
-      {
-        "variantOptionId": 1591,
-        "variantOptionText": "Frost Blue",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      },
-      {
-        "variantOptionId": 1436,
-        "variantOptionText": "01",
+        "variantOptionId": 1924,
+        "variantOptionText": "Orange",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -4861,23 +3713,23 @@ export const products = [
       {
         "sku": "sku-6022",
         "subStyle": "sub-7022",
-        "shopProductSku": "FROS26-I25",
-        "stock": 70,
-        "dpPrice": 1043,
-        "mrp": 1326,
-        "sellingPrice": 1175,
+        "shopProductSku": "PURPXXXL25",
+        "stock": 67,
+        "dpPrice": 1271,
+        "mrp": 1653,
+        "sellingPrice": 1433,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 76,
-        "commissionAmount": 104,
+        "burnAmount": 220,
+        "commissionAmount": 162,
         "options": [
           {
-            "variantOptionId": 1591,
-            "variantOptionText": "Frost Blue"
+            "variantOptionId": 1892,
+            "variantOptionText": "Purple"
           },
           {
-            "variantOptionId": 1701,
-            "variantOptionText": "26 Inch"
+            "variantOptionId": 6108,
+            "variantOptionText": "XXXL"
           }
         ],
         "inventoryTypeId": 1,
@@ -4886,23 +3738,23 @@ export const products = [
       {
         "sku": "sku-6022",
         "subStyle": "sub-7022",
-        "shopProductSku": "FROS160M25",
-        "stock": 37,
-        "dpPrice": 1043,
-        "mrp": 1326,
-        "sellingPrice": 1175,
+        "shopProductSku": "PURPXS25",
+        "stock": 24,
+        "dpPrice": 1271,
+        "mrp": 1653,
+        "sellingPrice": 1433,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 76,
-        "commissionAmount": 104,
+        "burnAmount": 220,
+        "commissionAmount": 162,
         "options": [
           {
-            "variantOptionId": 1591,
-            "variantOptionText": "Frost Blue"
+            "variantOptionId": 1892,
+            "variantOptionText": "Purple"
           },
           {
-            "variantOptionId": 1908,
-            "variantOptionText": "160MM, 6â€³"
+            "variantOptionId": 1869,
+            "variantOptionText": "XS"
           }
         ],
         "inventoryTypeId": 1,
@@ -4911,23 +3763,23 @@ export const products = [
       {
         "sku": "sku-6022",
         "subStyle": "sub-7022",
-        "shopProductSku": "0126-I25",
-        "stock": 57,
-        "dpPrice": 1043,
-        "mrp": 1326,
-        "sellingPrice": 1175,
+        "shopProductSku": "ORANXXXL25",
+        "stock": 67,
+        "dpPrice": 1271,
+        "mrp": 1653,
+        "sellingPrice": 1433,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 76,
-        "commissionAmount": 104,
+        "burnAmount": 220,
+        "commissionAmount": 162,
         "options": [
           {
-            "variantOptionId": 1436,
-            "variantOptionText": "01"
+            "variantOptionId": 1924,
+            "variantOptionText": "Orange"
           },
           {
-            "variantOptionId": 1701,
-            "variantOptionText": "26 Inch"
+            "variantOptionId": 6108,
+            "variantOptionText": "XXXL"
           }
         ],
         "inventoryTypeId": 1,
@@ -4936,52 +3788,52 @@ export const products = [
       {
         "sku": "sku-6022",
         "subStyle": "sub-7022",
-        "shopProductSku": "01160M25",
-        "stock": 44,
-        "dpPrice": 1043,
-        "mrp": 1326,
-        "sellingPrice": 1175,
+        "shopProductSku": "ORANXS25",
+        "stock": 59,
+        "dpPrice": 1271,
+        "mrp": 1653,
+        "sellingPrice": 1433,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 76,
-        "commissionAmount": 104,
+        "burnAmount": 220,
+        "commissionAmount": 162,
         "options": [
           {
-            "variantOptionId": 1436,
-            "variantOptionText": "01"
+            "variantOptionId": 1924,
+            "variantOptionText": "Orange"
           },
           {
-            "variantOptionId": 1908,
-            "variantOptionText": "160MM, 6â€³"
+            "variantOptionId": 1869,
+            "variantOptionText": "XS"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       }
     ],
-    "description": "Home security Click Bajar #25 available at Motion View. Category: Home security.",
-    "specification": "Brand: Click Bajar. Category: Home security.",
+    "description": "Mens Hoodie  #25 available at International Homeware. Category: Mens Hoodie.",
+    "specification": "Brand: Generic. Category: Mens Hoodie.",
     "hasEmi": "Y",
     "isReturnable": "Y",
     "returnDuration": 15,
     "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 364,
-    "warrantyTypeId": 4,
-    "warrantyPeriodId": 4,
-    "warrantyPolicy": "International Manufacturer Warranty - 4 Month.",
-    "packageWeight": 1.12,
-    "packageLength": 1.14,
-    "packageWidth": 0.63,
-    "packageHeight": 0.84,
-    "productUrl": "home-security-25",
+    "sizeChartId": 340,
+    "warrantyTypeId": 5,
+    "warrantyPeriodId": 17,
+    "warrantyPolicy": "Brand Warranty - 12 Years.",
+    "packageWeight": 0.74,
+    "packageLength": 1.22,
+    "packageWidth": 0.71,
+    "packageHeight": 1.02,
+    "productUrl": "mens-hoodie-25",
     "videoUrl": "",
-    "metaTitle": "Home security Click Bajar #25",
-    "metaKeywords": "Home security, Click Bajar",
-    "metaDescription": "Buy Home security Click Bajar #25 online at Motion View.",
+    "metaTitle": "Mens Hoodie  #25",
+    "metaKeywords": "Mens Hoodie,",
+    "metaDescription": "Buy Mens Hoodie  #25 online at International Homeware.",
     "ogType": "product",
-    "ogTitle": "Home security Click Bajar #25",
-    "ogUrl": "home-security-25",
-    "ogDescription": "Buy Home security Click Bajar #25 online at Motion View.",
+    "ogTitle": "Mens Hoodie  #25",
+    "ogUrl": "mens-hoodie-25",
+    "ogDescription": "Buy Mens Hoodie  #25 online at International Homeware.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
@@ -4990,10 +3842,10 @@ export const products = [
   },
   {
     "productId": 26,
-    "productName": "Bluetooth Speaker  #26",
-    "categoryId": 198,
-    "unit": "set",
-    "shopId": 107,
+    "productName": "Speaker  #26",
+    "categoryId": 256,
+    "unit": "psc",
+    "shopId": 74,
     "displayOrder": "26",
     "thumbnailImages": [
       "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
@@ -5012,630 +3864,19 @@ export const products = [
         "name": "Color",
         "options": [
           {
-            "variantOptionId": 677,
-            "variantOptionText": "White & Light Green Check"
-          },
-          {
-            "variantOptionId": 96,
-            "variantOptionText": "Smoky"
-          }
-        ]
-      },
-      {
-        "dimensionId": "size",
-        "name": "Size",
-        "options": [
-          {
-            "variantOptionId": 905,
-            "variantOptionText": "43"
-          },
-          {
-            "variantOptionId": 326,
-            "variantOptionText": "2 YEARS"
-          }
-        ]
-      }
-    ],
-    "variantImages": [
-      {
-        "variantOptionId": 677,
-        "variantOptionText": "White & Light Green Check",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      },
-      {
-        "variantOptionId": 96,
-        "variantOptionText": "Smoky",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      }
-    ],
-    "variantCombinations": [
-      {
-        "sku": "sku-6023",
-        "subStyle": "sub-7023",
-        "shopProductSku": "WHIT4326",
-        "stock": 13,
-        "dpPrice": 1592,
-        "mrp": 2035,
-        "sellingPrice": 1825,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 105,
-        "commissionAmount": 159,
-        "options": [
-          {
-            "variantOptionId": 677,
-            "variantOptionText": "White & Light Green Check"
-          },
-          {
-            "variantOptionId": 905,
-            "variantOptionText": "43"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6023",
-        "subStyle": "sub-7023",
-        "shopProductSku": "WHIT2-YE26",
-        "stock": 75,
-        "dpPrice": 1592,
-        "mrp": 2035,
-        "sellingPrice": 1825,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 105,
-        "commissionAmount": 159,
-        "options": [
-          {
-            "variantOptionId": 677,
-            "variantOptionText": "White & Light Green Check"
-          },
-          {
-            "variantOptionId": 326,
-            "variantOptionText": "2 YEARS"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6023",
-        "subStyle": "sub-7023",
-        "shopProductSku": "SMOK4326",
-        "stock": 73,
-        "dpPrice": 1592,
-        "mrp": 2035,
-        "sellingPrice": 1825,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 105,
-        "commissionAmount": 159,
-        "options": [
-          {
-            "variantOptionId": 96,
-            "variantOptionText": "Smoky"
-          },
-          {
-            "variantOptionId": 905,
-            "variantOptionText": "43"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6023",
-        "subStyle": "sub-7023",
-        "shopProductSku": "SMOK2-YE26",
-        "stock": 18,
-        "dpPrice": 1592,
-        "mrp": 2035,
-        "sellingPrice": 1825,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 105,
-        "commissionAmount": 159,
-        "options": [
-          {
-            "variantOptionId": 96,
-            "variantOptionText": "Smoky"
-          },
-          {
-            "variantOptionId": 326,
-            "variantOptionText": "2 YEARS"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      }
-    ],
-    "description": "Bluetooth Speaker  #26 available at Panna Electronics. Category: Bluetooth Speaker.",
-    "specification": "Brand: Generic. Category: Bluetooth Speaker.",
-    "hasEmi": "Y",
-    "isReturnable": "Y",
-    "returnDuration": 15,
-    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 353,
-    "warrantyTypeId": 4,
-    "warrantyPeriodId": 1,
-    "warrantyPolicy": "International Manufacturer Warranty - 1 Month.",
-    "packageWeight": 0.44,
-    "packageLength": 1.57,
-    "packageWidth": 0.8,
-    "packageHeight": 0.69,
-    "productUrl": "bluetooth-speaker-26",
-    "videoUrl": "",
-    "metaTitle": "Bluetooth Speaker  #26",
-    "metaKeywords": "Bluetooth Speaker,",
-    "metaDescription": "Buy Bluetooth Speaker  #26 online at Panna Electronics.",
-    "ogType": "product",
-    "ogTitle": "Bluetooth Speaker  #26",
-    "ogUrl": "bluetooth-speaker-26",
-    "ogDescription": "Buy Bluetooth Speaker  #26 online at Panna Electronics.",
-    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-    "createdBy": "A A Momin",
-    "createdAt": "2026-04-04T09:50",
-    "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
-  },
-  {
-    "productId": 27,
-    "productName": "Sandwich Maker  #27",
-    "categoryId": 529,
-    "unit": "pair",
-    "shopId": 99,
-    "displayOrder": "27",
-    "thumbnailImages": [
-      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
-      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
-    ],
-    "brandId": null,
-    "strapMaterial": null,
-    "fitType": null,
-    "gender": null,
-    "variantDimensions": [
-      {
-        "dimensionId": "color",
-        "name": "Color",
-        "options": [
-          {
-            "variantOptionId": 1132,
-            "variantOptionText": "Nutria"
-          },
-          {
-            "variantOptionId": 1872,
-            "variantOptionText": "Velvet Grey"
-          }
-        ]
-      },
-      {
-        "dimensionId": "size",
-        "name": "Size",
-        "options": [
-          {
-            "variantOptionId": 1155,
-            "variantOptionText": "48"
-          },
-          {
-            "variantOptionId": 313,
-            "variantOptionText": "12M"
-          }
-        ]
-      }
-    ],
-    "variantImages": [
-      {
-        "variantOptionId": 1132,
-        "variantOptionText": "Nutria",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      },
-      {
-        "variantOptionId": 1872,
-        "variantOptionText": "Velvet Grey",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      }
-    ],
-    "variantCombinations": [
-      {
-        "sku": "sku-6024",
-        "subStyle": "sub-7024",
-        "shopProductSku": "NUTR4827",
-        "stock": 37,
-        "dpPrice": 2813,
-        "mrp": 3762,
-        "sellingPrice": 3355,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 204,
-        "commissionAmount": 281,
-        "options": [
-          {
-            "variantOptionId": 1132,
-            "variantOptionText": "Nutria"
-          },
-          {
-            "variantOptionId": 1155,
-            "variantOptionText": "48"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6024",
-        "subStyle": "sub-7024",
-        "shopProductSku": "NUTR12M27",
-        "stock": 44,
-        "dpPrice": 2813,
-        "mrp": 3762,
-        "sellingPrice": 3355,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 204,
-        "commissionAmount": 281,
-        "options": [
-          {
-            "variantOptionId": 1132,
-            "variantOptionText": "Nutria"
-          },
-          {
-            "variantOptionId": 313,
-            "variantOptionText": "12M"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6024",
-        "subStyle": "sub-7024",
-        "shopProductSku": "VELV4827",
-        "stock": 71,
-        "dpPrice": 2813,
-        "mrp": 3762,
-        "sellingPrice": 3355,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 204,
-        "commissionAmount": 281,
-        "options": [
-          {
-            "variantOptionId": 1872,
-            "variantOptionText": "Velvet Grey"
-          },
-          {
-            "variantOptionId": 1155,
-            "variantOptionText": "48"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6024",
-        "subStyle": "sub-7024",
-        "shopProductSku": "VELV12M27",
-        "stock": 18,
-        "dpPrice": 2813,
-        "mrp": 3762,
-        "sellingPrice": 3355,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 204,
-        "commissionAmount": 281,
-        "options": [
-          {
-            "variantOptionId": 1872,
-            "variantOptionText": "Velvet Grey"
-          },
-          {
-            "variantOptionId": 313,
-            "variantOptionText": "12M"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      }
-    ],
-    "description": "Sandwich Maker  #27 available at Arctic hunter Bd. Category: Sandwich Maker.",
-    "specification": "Brand: Generic. Category: Sandwich Maker.",
-    "hasEmi": "Y",
-    "isReturnable": "N",
-    "returnDuration": 15,
-    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 353,
-    "warrantyTypeId": 5,
-    "warrantyPeriodId": 5,
-    "warrantyPolicy": "Brand Warranty - 5 Month.",
-    "packageWeight": 0.29,
-    "packageLength": 0.4,
-    "packageWidth": 0.53,
-    "packageHeight": 0.27,
-    "productUrl": "sandwich-maker-27",
-    "videoUrl": "",
-    "metaTitle": "Sandwich Maker  #27",
-    "metaKeywords": "Sandwich Maker,",
-    "metaDescription": "Buy Sandwich Maker  #27 online at Arctic hunter Bd.",
-    "ogType": "product",
-    "ogTitle": "Sandwich Maker  #27",
-    "ogUrl": "sandwich-maker-27",
-    "ogDescription": "Buy Sandwich Maker  #27 online at Arctic hunter Bd.",
-    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-    "createdBy": "A A Momin",
-    "createdAt": "2026-04-04T09:50",
-    "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
-  },
-  {
-    "productId": 28,
-    "productName": "Kettle & Flask Chrisbella #28",
-    "categoryId": 193,
-    "unit": "pair",
-    "shopId": 63,
-    "displayOrder": "28",
-    "thumbnailImages": [
-      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
-      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
-    ],
-    "brandId": 591,
-    "strapMaterial": null,
-    "fitType": null,
-    "gender": null,
-    "variantDimensions": [
-      {
-        "dimensionId": "color",
-        "name": "Color",
-        "options": [
-          {
-            "variantOptionId": 1719,
-            "variantOptionText": "Papyras"
-          },
-          {
-            "variantOptionId": 1764,
-            "variantOptionText": "L. Pink Check"
-          }
-        ]
-      },
-      {
-        "dimensionId": "size",
-        "name": "Size",
-        "options": [
-          {
-            "variantOptionId": 291,
-            "variantOptionText": "11/12 Y"
-          },
-          {
-            "variantOptionId": 277,
-            "variantOptionText": "M"
-          }
-        ]
-      }
-    ],
-    "variantImages": [
-      {
-        "variantOptionId": 1719,
-        "variantOptionText": "Papyras",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      },
-      {
-        "variantOptionId": 1764,
-        "variantOptionText": "L. Pink Check",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      }
-    ],
-    "variantCombinations": [
-      {
-        "sku": "sku-6025",
-        "subStyle": "sub-7025",
-        "shopProductSku": "PAPY11-128",
-        "stock": 24,
-        "dpPrice": 2038,
-        "mrp": 2726,
-        "sellingPrice": 2355,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 186,
-        "commissionAmount": 204,
-        "options": [
-          {
-            "variantOptionId": 1719,
-            "variantOptionText": "Papyras"
-          },
-          {
-            "variantOptionId": 291,
-            "variantOptionText": "11/12 Y"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6025",
-        "subStyle": "sub-7025",
-        "shopProductSku": "PAPYM28",
-        "stock": 32,
-        "dpPrice": 2038,
-        "mrp": 2726,
-        "sellingPrice": 2355,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 186,
-        "commissionAmount": 204,
-        "options": [
-          {
-            "variantOptionId": 1719,
-            "variantOptionText": "Papyras"
-          },
-          {
-            "variantOptionId": 277,
-            "variantOptionText": "M"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6025",
-        "subStyle": "sub-7025",
-        "shopProductSku": "L-PI11-128",
-        "stock": 44,
-        "dpPrice": 2038,
-        "mrp": 2726,
-        "sellingPrice": 2355,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 186,
-        "commissionAmount": 204,
-        "options": [
-          {
-            "variantOptionId": 1764,
-            "variantOptionText": "L. Pink Check"
-          },
-          {
-            "variantOptionId": 291,
-            "variantOptionText": "11/12 Y"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6025",
-        "subStyle": "sub-7025",
-        "shopProductSku": "L-PIM28",
-        "stock": 79,
-        "dpPrice": 2038,
-        "mrp": 2726,
-        "sellingPrice": 2355,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 186,
-        "commissionAmount": 204,
-        "options": [
-          {
-            "variantOptionId": 1764,
-            "variantOptionText": "L. Pink Check"
-          },
-          {
-            "variantOptionId": 277,
-            "variantOptionText": "M"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      }
-    ],
-    "description": "Kettle & Flask Chrisbella #28 available at DX D. Category: Kettle & Flask.",
-    "specification": "Brand: Chrisbella. Category: Kettle & Flask.",
-    "hasEmi": "N",
-    "isReturnable": "Y",
-    "returnDuration": 15,
-    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 367,
-    "warrantyTypeId": 5,
-    "warrantyPeriodId": 2,
-    "warrantyPolicy": "Brand Warranty - 2 Month.",
-    "packageWeight": 1.24,
-    "packageLength": 0.2,
-    "packageWidth": 0.43,
-    "packageHeight": 0.43,
-    "productUrl": "kettle-flask-28",
-    "videoUrl": "",
-    "metaTitle": "Kettle & Flask Chrisbella #28",
-    "metaKeywords": "Kettle & Flask, Chrisbella",
-    "metaDescription": "Buy Kettle & Flask Chrisbella #28 online at DX D.",
-    "ogType": "product",
-    "ogTitle": "Kettle & Flask Chrisbella #28",
-    "ogUrl": "kettle-flask-28",
-    "ogDescription": "Buy Kettle & Flask Chrisbella #28 online at DX D.",
-    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-    "createdBy": "A A Momin",
-    "createdAt": "2026-04-04T09:50",
-    "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
-  },
-  {
-    "productId": 29,
-    "productName": "Mens Overcoat 1MORE #29",
-    "categoryId": 533,
-    "unit": "psc",
-    "shopId": 106,
-    "displayOrder": "29",
-    "thumbnailImages": [
-      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
-      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
-    ],
-    "brandId": 577,
-    "strapMaterial": null,
-    "fitType": "Slim",
-    "gender": "unisex",
-    "variantDimensions": [
-      {
-        "dimensionId": "attr-0",
-        "name": "Primary Option",
-        "options": [
-          {
-            "variantOptionId": 8464,
+            "variantOptionId": 8461,
             "variantOptionText": "Black"
           },
           {
-            "variantOptionId": 8465,
-            "variantOptionText": "White & Brown Check"
-          }
-        ]
-      },
-      {
-        "dimensionId": "attr-1",
-        "name": "Secondary Option",
-        "options": [
-          {
-            "variantOptionId": 8479,
-            "variantOptionText": "Over-sized"
-          },
-          {
-            "variantOptionId": 8477,
-            "variantOptionText": "Slim Fit"
+            "variantOptionId": 8985,
+            "variantOptionText": "Blue"
           }
         ]
       }
     ],
     "variantImages": [
       {
-        "variantOptionId": 8464,
+        "variantOptionId": 8461,
         "variantOptionText": "Black",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
@@ -5644,8 +3885,461 @@ export const products = [
         ]
       },
       {
-        "variantOptionId": 8465,
-        "variantOptionText": "White & Brown Check",
+        "variantOptionId": 8985,
+        "variantOptionText": "Blue",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      }
+    ],
+    "variantCombinations": [
+      {
+        "sku": "sku-6023",
+        "subStyle": "sub-7023",
+        "shopProductSku": "BLAC26",
+        "stock": 8,
+        "dpPrice": 2629,
+        "mrp": 3279,
+        "sellingPrice": 3018,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 261,
+        "commissionAmount": 389,
+        "options": [
+          {
+            "variantOptionId": 8461,
+            "variantOptionText": "Black"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6023",
+        "subStyle": "sub-7023",
+        "shopProductSku": "BLUE26",
+        "stock": 46,
+        "dpPrice": 2629,
+        "mrp": 3279,
+        "sellingPrice": 3018,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 261,
+        "commissionAmount": 389,
+        "options": [
+          {
+            "variantOptionId": 8985,
+            "variantOptionText": "Blue"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      }
+    ],
+    "description": "Speaker  #26 available at Lunettes Bangladesh. Category: Speaker.",
+    "specification": "Brand: Generic. Category: Speaker.",
+    "hasEmi": "Y",
+    "isReturnable": "Y",
+    "returnDuration": 15,
+    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
+    "sizeChartId": 357,
+    "warrantyTypeId": 4,
+    "warrantyPeriodId": 23,
+    "warrantyPolicy": "International Manufacturer Warranty - 4 Years.",
+    "packageWeight": 0.29,
+    "packageLength": 0.8,
+    "packageWidth": 0.5,
+    "packageHeight": 0.92,
+    "productUrl": "speaker-26",
+    "videoUrl": "",
+    "metaTitle": "Speaker  #26",
+    "metaKeywords": "Speaker,",
+    "metaDescription": "Buy Speaker  #26 online at Lunettes Bangladesh.",
+    "ogType": "product",
+    "ogTitle": "Speaker  #26",
+    "ogUrl": "speaker-26",
+    "ogDescription": "Buy Speaker  #26 online at Lunettes Bangladesh.",
+    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+    "createdBy": "A A Momin",
+    "createdAt": "2026-04-04T09:50",
+    "updatedBy": "B B Momin",
+    "updatedAt": "2026-04-04T09:50"
+  },
+  {
+    "productId": 27,
+    "productName": "Womens Charmin #27",
+    "categoryId": 92,
+    "unit": "psc",
+    "shopId": 72,
+    "displayOrder": "27",
+    "thumbnailImages": [
+      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
+      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
+    ],
+    "brandId": 519,
+    "strapMaterial": null,
+    "fitType": "Regular",
+    "gender": "unisex",
+    "variantDimensions": [
+      {
+        "dimensionId": "color",
+        "name": "Color",
+        "options": [
+          {
+            "variantOptionId": 765,
+            "variantOptionText": "Eve & White Berry"
+          },
+          {
+            "variantOptionId": 1138,
+            "variantOptionText": "Olive Print"
+          }
+        ]
+      }
+    ],
+    "variantImages": [
+      {
+        "variantOptionId": 765,
+        "variantOptionText": "Eve & White Berry",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      },
+      {
+        "variantOptionId": 1138,
+        "variantOptionText": "Olive Print",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      }
+    ],
+    "variantCombinations": [
+      {
+        "sku": "sku-6024",
+        "subStyle": "sub-7024",
+        "shopProductSku": "EVE-27",
+        "stock": 19,
+        "dpPrice": 2989,
+        "mrp": 4293,
+        "sellingPrice": 3824,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 469,
+        "commissionAmount": 835,
+        "options": [
+          {
+            "variantOptionId": 765,
+            "variantOptionText": "Eve & White Berry"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6024",
+        "subStyle": "sub-7024",
+        "shopProductSku": "OLIV27",
+        "stock": 74,
+        "dpPrice": 2989,
+        "mrp": 4293,
+        "sellingPrice": 3824,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 469,
+        "commissionAmount": 835,
+        "options": [
+          {
+            "variantOptionId": 1138,
+            "variantOptionText": "Olive Print"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      }
+    ],
+    "description": "Womens Charmin #27 available at Complete Kitchen. Category: Womens.",
+    "specification": "Brand: Charmin. Category: Womens.",
+    "hasEmi": "N",
+    "isReturnable": "Y",
+    "returnDuration": 15,
+    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
+    "sizeChartId": 343,
+    "warrantyTypeId": 4,
+    "warrantyPeriodId": 17,
+    "warrantyPolicy": "International Manufacturer Warranty - 12 Years.",
+    "packageWeight": 0.79,
+    "packageLength": 0.91,
+    "packageWidth": 0.39,
+    "packageHeight": 1.31,
+    "productUrl": "womens-27",
+    "videoUrl": "",
+    "metaTitle": "Womens Charmin #27",
+    "metaKeywords": "Womens, Charmin",
+    "metaDescription": "Buy Womens Charmin #27 online at Complete Kitchen.",
+    "ogType": "product",
+    "ogTitle": "Womens Charmin #27",
+    "ogUrl": "womens-27",
+    "ogDescription": "Buy Womens Charmin #27 online at Complete Kitchen.",
+    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+    "createdBy": "A A Momin",
+    "createdAt": "2026-04-04T09:50",
+    "updatedBy": "B B Momin",
+    "updatedAt": "2026-04-04T09:50"
+  },
+  {
+    "productId": 28,
+    "productName": "Tote Bag Apex #28",
+    "categoryId": 381,
+    "unit": "pair",
+    "shopId": 68,
+    "displayOrder": "28",
+    "thumbnailImages": [
+      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
+      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
+    ],
+    "brandId": 168,
+    "strapMaterial": "Metal",
+    "fitType": "Regular",
+    "gender": "female",
+    "variantDimensions": [
+      {
+        "dimensionId": "color",
+        "name": "Color",
+        "options": [
+          {
+            "variantOptionId": 7966,
+            "variantOptionText": "Red-Chocolate"
+          },
+          {
+            "variantOptionId": 5466,
+            "variantOptionText": " Golden Apricot "
+          }
+        ]
+      },
+      {
+        "dimensionId": "size",
+        "name": "Size",
+        "options": [
+          {
+            "variantOptionId": 5478,
+            "variantOptionText": "13X14 inch"
+          },
+          {
+            "variantOptionId": 5479,
+            "variantOptionText": "13X14 inch"
+          }
+        ]
+      }
+    ],
+    "variantImages": [
+      {
+        "variantOptionId": 7966,
+        "variantOptionText": "Red-Chocolate",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      },
+      {
+        "variantOptionId": 5466,
+        "variantOptionText": " Golden Apricot ",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      }
+    ],
+    "variantCombinations": [
+      {
+        "sku": "sku-6025",
+        "subStyle": "sub-7025",
+        "shopProductSku": "RED-13X128",
+        "stock": 40,
+        "dpPrice": 429,
+        "mrp": 561,
+        "sellingPrice": 480,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 81,
+        "commissionAmount": 51,
+        "options": [
+          {
+            "variantOptionId": 7966,
+            "variantOptionText": "Red-Chocolate"
+          },
+          {
+            "variantOptionId": 5478,
+            "variantOptionText": "13X14 inch"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6025",
+        "subStyle": "sub-7025",
+        "shopProductSku": "RED-13X128X",
+        "stock": 86,
+        "dpPrice": 429,
+        "mrp": 561,
+        "sellingPrice": 480,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 81,
+        "commissionAmount": 51,
+        "options": [
+          {
+            "variantOptionId": 7966,
+            "variantOptionText": "Red-Chocolate"
+          },
+          {
+            "variantOptionId": 5479,
+            "variantOptionText": "13X14 inch"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6025",
+        "subStyle": "sub-7025",
+        "shopProductSku": "GOLD13X128",
+        "stock": 38,
+        "dpPrice": 429,
+        "mrp": 561,
+        "sellingPrice": 480,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 81,
+        "commissionAmount": 51,
+        "options": [
+          {
+            "variantOptionId": 5466,
+            "variantOptionText": " Golden Apricot "
+          },
+          {
+            "variantOptionId": 5478,
+            "variantOptionText": "13X14 inch"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6025",
+        "subStyle": "sub-7025",
+        "shopProductSku": "GOLD13X128X",
+        "stock": 85,
+        "dpPrice": 429,
+        "mrp": 561,
+        "sellingPrice": 480,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 81,
+        "commissionAmount": 51,
+        "options": [
+          {
+            "variantOptionId": 5466,
+            "variantOptionText": " Golden Apricot "
+          },
+          {
+            "variantOptionId": 5479,
+            "variantOptionText": "13X14 inch"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      }
+    ],
+    "description": "Tote Bag Apex #28 available at Ultima Bangladesh. Category: Tote Bag.",
+    "specification": "Brand: Apex. Category: Tote Bag.",
+    "hasEmi": "N",
+    "isReturnable": "Y",
+    "returnDuration": 15,
+    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
+    "sizeChartId": 357,
+    "warrantyTypeId": 4,
+    "warrantyPeriodId": 3,
+    "warrantyPolicy": "International Manufacturer Warranty - 3 Month.",
+    "packageWeight": 0.74,
+    "packageLength": 0.47,
+    "packageWidth": 0.83,
+    "packageHeight": 1.03,
+    "productUrl": "tote-bag-28",
+    "videoUrl": "",
+    "metaTitle": "Tote Bag Apex #28",
+    "metaKeywords": "Tote Bag, Apex",
+    "metaDescription": "Buy Tote Bag Apex #28 online at Ultima Bangladesh.",
+    "ogType": "product",
+    "ogTitle": "Tote Bag Apex #28",
+    "ogUrl": "tote-bag-28",
+    "ogDescription": "Buy Tote Bag Apex #28 online at Ultima Bangladesh.",
+    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+    "createdBy": "A A Momin",
+    "createdAt": "2026-04-04T09:50",
+    "updatedBy": "B B Momin",
+    "updatedAt": "2026-04-04T09:50"
+  },
+  {
+    "productId": 29,
+    "productName": "Redmi CRRJU #29",
+    "categoryId": 461,
+    "unit": "pair",
+    "shopId": 69,
+    "displayOrder": "29",
+    "thumbnailImages": [
+      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
+      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
+    ],
+    "brandId": 555,
+    "strapMaterial": null,
+    "fitType": null,
+    "gender": null,
+    "variantDimensions": [
+      {
+        "dimensionId": "color",
+        "name": "Color",
+        "options": [
+          {
+            "variantOptionId": 6738,
+            "variantOptionText": "White"
+          },
+          {
+            "variantOptionId": 7763,
+            "variantOptionText": "Blue"
+          }
+        ]
+      }
+    ],
+    "variantImages": [
+      {
+        "variantOptionId": 6738,
+        "variantOptionText": "White",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      },
+      {
+        "variantOptionId": 7763,
+        "variantOptionText": "Blue",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -5657,23 +4351,19 @@ export const products = [
       {
         "sku": "sku-6026",
         "subStyle": "sub-7026",
-        "shopProductSku": "BLACOVER29",
-        "stock": 23,
-        "dpPrice": 805,
-        "mrp": 1204,
-        "sellingPrice": 1037,
+        "shopProductSku": "WHIT29",
+        "stock": 36,
+        "dpPrice": 833,
+        "mrp": 1159,
+        "sellingPrice": 991,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 84,
-        "commissionAmount": 81,
+        "burnAmount": 168,
+        "commissionAmount": 158,
         "options": [
           {
-            "variantOptionId": 8464,
-            "variantOptionText": "Black"
-          },
-          {
-            "variantOptionId": 8479,
-            "variantOptionText": "Over-sized"
+            "variantOptionId": 6738,
+            "variantOptionText": "White"
           }
         ],
         "inventoryTypeId": 1,
@@ -5682,102 +4372,48 @@ export const products = [
       {
         "sku": "sku-6026",
         "subStyle": "sub-7026",
-        "shopProductSku": "BLACSLIM29",
-        "stock": 66,
-        "dpPrice": 805,
-        "mrp": 1204,
-        "sellingPrice": 1037,
+        "shopProductSku": "BLUE29",
+        "stock": 24,
+        "dpPrice": 833,
+        "mrp": 1159,
+        "sellingPrice": 991,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 84,
-        "commissionAmount": 81,
+        "burnAmount": 168,
+        "commissionAmount": 158,
         "options": [
           {
-            "variantOptionId": 8464,
-            "variantOptionText": "Black"
-          },
-          {
-            "variantOptionId": 8477,
-            "variantOptionText": "Slim Fit"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6026",
-        "subStyle": "sub-7026",
-        "shopProductSku": "WHITOVER29",
-        "stock": 96,
-        "dpPrice": 805,
-        "mrp": 1204,
-        "sellingPrice": 1037,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 84,
-        "commissionAmount": 81,
-        "options": [
-          {
-            "variantOptionId": 8465,
-            "variantOptionText": "White & Brown Check"
-          },
-          {
-            "variantOptionId": 8479,
-            "variantOptionText": "Over-sized"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6026",
-        "subStyle": "sub-7026",
-        "shopProductSku": "WHITSLIM29",
-        "stock": 10,
-        "dpPrice": 805,
-        "mrp": 1204,
-        "sellingPrice": 1037,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 84,
-        "commissionAmount": 81,
-        "options": [
-          {
-            "variantOptionId": 8465,
-            "variantOptionText": "White & Brown Check"
-          },
-          {
-            "variantOptionId": 8477,
-            "variantOptionText": "Slim Fit"
+            "variantOptionId": 7763,
+            "variantOptionText": "Blue"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       }
     ],
-    "description": "Mens Overcoat 1MORE #29 available at BEST ELECTRONICS LIMITED. Category: Mens Overcoat.",
-    "specification": "Brand: 1MORE. Category: Mens Overcoat.",
+    "description": "Redmi CRRJU #29 available at SSB Leather. Category: Redmi.",
+    "specification": "Brand: CRRJU. Category: Redmi.",
     "hasEmi": "Y",
     "isReturnable": "Y",
     "returnDuration": 15,
     "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 355,
-    "warrantyTypeId": 5,
-    "warrantyPeriodId": 2,
-    "warrantyPolicy": "Brand Warranty - 2 Month.",
+    "sizeChartId": 362,
+    "warrantyTypeId": 4,
+    "warrantyPeriodId": 4,
+    "warrantyPolicy": "International Manufacturer Warranty - 4 Month.",
     "packageWeight": 0.47,
     "packageLength": 1.12,
     "packageWidth": 0.91,
     "packageHeight": 0.39,
-    "productUrl": "mens-overcoat-29",
+    "productUrl": "redmi-29",
     "videoUrl": "",
-    "metaTitle": "Mens Overcoat 1MORE #29",
-    "metaKeywords": "Mens Overcoat, 1MORE",
-    "metaDescription": "Buy Mens Overcoat 1MORE #29 online at BEST ELECTRONICS LIMITED.",
+    "metaTitle": "Redmi CRRJU #29",
+    "metaKeywords": "Redmi, CRRJU",
+    "metaDescription": "Buy Redmi CRRJU #29 online at SSB Leather.",
     "ogType": "product",
-    "ogTitle": "Mens Overcoat 1MORE #29",
-    "ogUrl": "mens-overcoat-29",
-    "ogDescription": "Buy Mens Overcoat 1MORE #29 online at BEST ELECTRONICS LIMITED.",
+    "ogTitle": "Redmi CRRJU #29",
+    "ogUrl": "redmi-29",
+    "ogDescription": "Buy Redmi CRRJU #29 online at SSB Leather.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
@@ -5788,7 +4424,7 @@ export const products = [
     "productId": 30,
     "productName": "iPhone Charmin #30",
     "categoryId": 495,
-    "unit": "set",
+    "unit": "psc",
     "shopId": 81,
     "displayOrder": "30",
     "thumbnailImages": [
@@ -5808,34 +4444,20 @@ export const products = [
         "name": "Color",
         "options": [
           {
-            "variantOptionId": 2244,
-            "variantOptionText": "Avocado"
+            "variantOptionId": 9149,
+            "variantOptionText": "Deep Blue"
           },
           {
-            "variantOptionId": 1303,
-            "variantOptionText": "Dusty Pink"
-          }
-        ]
-      },
-      {
-        "dimensionId": "size",
-        "name": "Size",
-        "options": [
-          {
-            "variantOptionId": 288,
-            "variantOptionText": "13/14 Y"
-          },
-          {
-            "variantOptionId": 1697,
-            "variantOptionText": "21"
+            "variantOptionId": 9145,
+            "variantOptionText": "Space Black"
           }
         ]
       }
     ],
     "variantImages": [
       {
-        "variantOptionId": 2244,
-        "variantOptionText": "Avocado",
+        "variantOptionId": 9149,
+        "variantOptionText": "Deep Blue",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -5843,8 +4465,8 @@ export const products = [
         ]
       },
       {
-        "variantOptionId": 1303,
-        "variantOptionText": "Dusty Pink",
+        "variantOptionId": 9145,
+        "variantOptionText": "Space Black",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -5856,23 +4478,19 @@ export const products = [
       {
         "sku": "sku-6027",
         "subStyle": "sub-7027",
-        "shopProductSku": "AVOC13-130",
-        "stock": 68,
-        "dpPrice": 1151,
-        "mrp": 1458,
-        "sellingPrice": 1369,
+        "shopProductSku": "DEEP30",
+        "stock": 75,
+        "dpPrice": 2942,
+        "mrp": 3984,
+        "sellingPrice": 3984,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 45,
-        "commissionAmount": 115,
+        "burnAmount": 0,
+        "commissionAmount": 1042,
         "options": [
           {
-            "variantOptionId": 2244,
-            "variantOptionText": "Avocado"
-          },
-          {
-            "variantOptionId": 288,
-            "variantOptionText": "13/14 Y"
+            "variantOptionId": 9149,
+            "variantOptionText": "Deep Blue"
           }
         ],
         "inventoryTypeId": 1,
@@ -5881,73 +4499,19 @@ export const products = [
       {
         "sku": "sku-6027",
         "subStyle": "sub-7027",
-        "shopProductSku": "AVOC2130",
-        "stock": 61,
-        "dpPrice": 1151,
-        "mrp": 1458,
-        "sellingPrice": 1369,
+        "shopProductSku": "SPAC30",
+        "stock": 35,
+        "dpPrice": 2942,
+        "mrp": 3984,
+        "sellingPrice": 3984,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 45,
-        "commissionAmount": 115,
+        "burnAmount": 0,
+        "commissionAmount": 1042,
         "options": [
           {
-            "variantOptionId": 2244,
-            "variantOptionText": "Avocado"
-          },
-          {
-            "variantOptionId": 1697,
-            "variantOptionText": "21"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6027",
-        "subStyle": "sub-7027",
-        "shopProductSku": "DUST13-130",
-        "stock": 13,
-        "dpPrice": 1151,
-        "mrp": 1458,
-        "sellingPrice": 1369,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 45,
-        "commissionAmount": 115,
-        "options": [
-          {
-            "variantOptionId": 1303,
-            "variantOptionText": "Dusty Pink"
-          },
-          {
-            "variantOptionId": 288,
-            "variantOptionText": "13/14 Y"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6027",
-        "subStyle": "sub-7027",
-        "shopProductSku": "DUST2130",
-        "stock": 46,
-        "dpPrice": 1151,
-        "mrp": 1458,
-        "sellingPrice": 1369,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 45,
-        "commissionAmount": 115,
-        "options": [
-          {
-            "variantOptionId": 1303,
-            "variantOptionText": "Dusty Pink"
-          },
-          {
-            "variantOptionId": 1697,
-            "variantOptionText": "21"
+            "variantOptionId": 9145,
+            "variantOptionText": "Space Black"
           }
         ],
         "inventoryTypeId": 1,
@@ -5956,7 +4520,7 @@ export const products = [
     ],
     "description": "iPhone Charmin #30 available at Apurbo Business Center. Category: iPhone.",
     "specification": "Brand: Charmin. Category: iPhone.",
-    "hasEmi": "Y",
+    "hasEmi": "N",
     "isReturnable": "N",
     "returnDuration": 15,
     "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
@@ -5964,10 +4528,10 @@ export const products = [
     "warrantyTypeId": 2,
     "warrantyPeriodId": 1,
     "warrantyPolicy": "Non-local Warranty - 1 Month.",
-    "packageWeight": 0.4,
-    "packageLength": 1.65,
-    "packageWidth": 0.48,
-    "packageHeight": 1.33,
+    "packageWeight": 1.19,
+    "packageLength": 1.08,
+    "packageWidth": 0.33,
+    "packageHeight": 0.84,
     "productUrl": "iphone-30",
     "videoUrl": "",
     "metaTitle": "iPhone Charmin #30",
@@ -5985,10 +4549,10 @@ export const products = [
   },
   {
     "productId": 31,
-    "productName": "Girls Charmin #31",
-    "categoryId": 452,
-    "unit": "set",
-    "shopId": 56,
+    "productName": "Decorative Pillows BONTE #31",
+    "categoryId": 213,
+    "unit": "pair",
+    "shopId": 54,
     "displayOrder": "31",
     "thumbnailImages": [
       "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
@@ -5997,22 +4561,22 @@ export const products = [
       "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
       "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
     ],
-    "brandId": 519,
+    "brandId": 534,
     "strapMaterial": null,
-    "fitType": "Slim",
-    "gender": "female",
+    "fitType": null,
+    "gender": null,
     "variantDimensions": [
       {
         "dimensionId": "color",
         "name": "Color",
         "options": [
           {
-            "variantOptionId": 203,
-            "variantOptionText": "Dark Grey"
+            "variantOptionId": 5100,
+            "variantOptionText": "SPARROW"
           },
           {
-            "variantOptionId": 92,
-            "variantOptionText": "LT. Peach print"
+            "variantOptionId": 3663,
+            "variantOptionText": "Brown"
           }
         ]
       },
@@ -6021,20 +4585,16 @@ export const products = [
         "name": "Size",
         "options": [
           {
-            "variantOptionId": 1916,
-            "variantOptionText": "900MM, 36â€³"
-          },
-          {
-            "variantOptionId": 339,
-            "variantOptionText": "3 YEARS"
+            "variantOptionId": 5098,
+            "variantOptionText": "FREE SIZE"
           }
         ]
       }
     ],
     "variantImages": [
       {
-        "variantOptionId": 203,
-        "variantOptionText": "Dark Grey",
+        "variantOptionId": 5100,
+        "variantOptionText": "SPARROW",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -6042,8 +4602,8 @@ export const products = [
         ]
       },
       {
-        "variantOptionId": 92,
-        "variantOptionText": "LT. Peach print",
+        "variantOptionId": 3663,
+        "variantOptionText": "Brown",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -6055,23 +4615,23 @@ export const products = [
       {
         "sku": "sku-6028",
         "subStyle": "sub-7028",
-        "shopProductSku": "DARK900M31",
-        "stock": 59,
-        "dpPrice": 1412,
-        "mrp": 2073,
-        "sellingPrice": 1918,
+        "shopProductSku": "SPARFREE31",
+        "stock": 98,
+        "dpPrice": 1964,
+        "mrp": 2821,
+        "sellingPrice": 2557,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 78,
-        "commissionAmount": 141,
+        "burnAmount": 264,
+        "commissionAmount": 593,
         "options": [
           {
-            "variantOptionId": 203,
-            "variantOptionText": "Dark Grey"
+            "variantOptionId": 5100,
+            "variantOptionText": "SPARROW"
           },
           {
-            "variantOptionId": 1916,
-            "variantOptionText": "900MM, 36â€³"
+            "variantOptionId": 5098,
+            "variantOptionText": "FREE SIZE"
           }
         ],
         "inventoryTypeId": 1,
@@ -6080,102 +4640,52 @@ export const products = [
       {
         "sku": "sku-6028",
         "subStyle": "sub-7028",
-        "shopProductSku": "DARK3-YE31",
-        "stock": 71,
-        "dpPrice": 1412,
-        "mrp": 2073,
-        "sellingPrice": 1918,
+        "shopProductSku": "BROWFREE31",
+        "stock": 85,
+        "dpPrice": 1964,
+        "mrp": 2821,
+        "sellingPrice": 2557,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 78,
-        "commissionAmount": 141,
+        "burnAmount": 264,
+        "commissionAmount": 593,
         "options": [
           {
-            "variantOptionId": 203,
-            "variantOptionText": "Dark Grey"
+            "variantOptionId": 3663,
+            "variantOptionText": "Brown"
           },
           {
-            "variantOptionId": 339,
-            "variantOptionText": "3 YEARS"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6028",
-        "subStyle": "sub-7028",
-        "shopProductSku": "LT-P900M31",
-        "stock": 100,
-        "dpPrice": 1412,
-        "mrp": 2073,
-        "sellingPrice": 1918,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 78,
-        "commissionAmount": 141,
-        "options": [
-          {
-            "variantOptionId": 92,
-            "variantOptionText": "LT. Peach print"
-          },
-          {
-            "variantOptionId": 1916,
-            "variantOptionText": "900MM, 36â€³"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6028",
-        "subStyle": "sub-7028",
-        "shopProductSku": "LT-P3-YE31",
-        "stock": 67,
-        "dpPrice": 1412,
-        "mrp": 2073,
-        "sellingPrice": 1918,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 78,
-        "commissionAmount": 141,
-        "options": [
-          {
-            "variantOptionId": 92,
-            "variantOptionText": "LT. Peach print"
-          },
-          {
-            "variantOptionId": 339,
-            "variantOptionText": "3 YEARS"
+            "variantOptionId": 5098,
+            "variantOptionText": "FREE SIZE"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       }
     ],
-    "description": "Girls Charmin #31 available at Shaver Shop Bangladesh. Category: Girls.",
-    "specification": "Brand: Charmin. Category: Girls.",
-    "hasEmi": "Y",
+    "description": "Decorative Pillows BONTE #31 available at Regal Furniture. Category: Decorative Pillows.",
+    "specification": "Brand: BONTE. Category: Decorative Pillows.",
+    "hasEmi": "N",
     "isReturnable": "Y",
     "returnDuration": 15,
     "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 353,
-    "warrantyTypeId": 4,
-    "warrantyPeriodId": 21,
-    "warrantyPolicy": "International Manufacturer Warranty - 7 Months.",
-    "packageWeight": 1.36,
-    "packageLength": 1.64,
-    "packageWidth": 1.1,
-    "packageHeight": 0.68,
-    "productUrl": "girls-31",
+    "sizeChartId": 366,
+    "warrantyTypeId": 2,
+    "warrantyPeriodId": 17,
+    "warrantyPolicy": "Non-local Warranty - 12 Years.",
+    "packageWeight": 1.05,
+    "packageLength": 0.51,
+    "packageWidth": 0.97,
+    "packageHeight": 0.92,
+    "productUrl": "decorative-pillows-31",
     "videoUrl": "",
-    "metaTitle": "Girls Charmin #31",
-    "metaKeywords": "Girls, Charmin",
-    "metaDescription": "Buy Girls Charmin #31 online at Shaver Shop Bangladesh.",
+    "metaTitle": "Decorative Pillows BONTE #31",
+    "metaKeywords": "Decorative Pillows, BONTE",
+    "metaDescription": "Buy Decorative Pillows BONTE #31 online at Regal Furniture.",
     "ogType": "product",
-    "ogTitle": "Girls Charmin #31",
-    "ogUrl": "girls-31",
-    "ogDescription": "Buy Girls Charmin #31 online at Shaver Shop Bangladesh.",
+    "ogTitle": "Decorative Pillows BONTE #31",
+    "ogUrl": "decorative-pillows-31",
+    "ogDescription": "Buy Decorative Pillows BONTE #31 online at Regal Furniture.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
@@ -6184,10 +4694,10 @@ export const products = [
   },
   {
     "productId": 32,
-    "productName": "Sandal Ariston #32",
-    "categoryId": 155,
+    "productName": "Watch & Accessories  #32",
+    "categoryId": 171,
     "unit": "set",
-    "shopId": 100,
+    "shopId": 45,
     "displayOrder": "32",
     "thumbnailImages": [
       "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
@@ -6196,44 +4706,30 @@ export const products = [
       "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
       "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
     ],
-    "brandId": 495,
-    "strapMaterial": null,
-    "fitType": "Slim",
-    "gender": "male",
+    "brandId": null,
+    "strapMaterial": "Metal",
+    "fitType": null,
+    "gender": null,
     "variantDimensions": [
       {
-        "dimensionId": "attr-0",
-        "name": "Primary Option",
+        "dimensionId": "color",
+        "name": "Color",
         "options": [
           {
-            "variantOptionId": 2956,
-            "variantOptionText": "Black"
+            "variantOptionId": 5954,
+            "variantOptionText": "Gold"
           },
           {
-            "variantOptionId": 4819,
-            "variantOptionText": "Black & Red "
-          }
-        ]
-      },
-      {
-        "dimensionId": "attr-1",
-        "name": "Secondary Option",
-        "options": [
-          {
-            "variantOptionId": 2975,
-            "variantOptionText": "Micro Fiber"
-          },
-          {
-            "variantOptionId": 2971,
-            "variantOptionText": "PU"
+            "variantOptionId": 9106,
+            "variantOptionText": "Army green"
           }
         ]
       }
     ],
     "variantImages": [
       {
-        "variantOptionId": 2956,
-        "variantOptionText": "Black",
+        "variantOptionId": 5954,
+        "variantOptionText": "Gold",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -6241,8 +4737,8 @@ export const products = [
         ]
       },
       {
-        "variantOptionId": 4819,
-        "variantOptionText": "Black & Red ",
+        "variantOptionId": 9106,
+        "variantOptionText": "Army green",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -6254,23 +4750,19 @@ export const products = [
       {
         "sku": "sku-6029",
         "subStyle": "sub-7029",
-        "shopProductSku": "BLACMICR32",
-        "stock": 100,
-        "dpPrice": 342,
-        "mrp": 479,
-        "sellingPrice": 436,
+        "shopProductSku": "GOLD32",
+        "stock": 73,
+        "dpPrice": 2656,
+        "mrp": 3976,
+        "sellingPrice": 3573,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 22,
-        "commissionAmount": 34,
+        "burnAmount": 403,
+        "commissionAmount": 917,
         "options": [
           {
-            "variantOptionId": 2956,
-            "variantOptionText": "Black"
-          },
-          {
-            "variantOptionId": 2975,
-            "variantOptionText": "Micro Fiber"
+            "variantOptionId": 5954,
+            "variantOptionText": "Gold"
           }
         ],
         "inventoryTypeId": 1,
@@ -6279,102 +4771,48 @@ export const products = [
       {
         "sku": "sku-6029",
         "subStyle": "sub-7029",
-        "shopProductSku": "BLACPU32",
-        "stock": 60,
-        "dpPrice": 342,
-        "mrp": 479,
-        "sellingPrice": 436,
+        "shopProductSku": "ARMY32",
+        "stock": 15,
+        "dpPrice": 2656,
+        "mrp": 3976,
+        "sellingPrice": 3573,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 22,
-        "commissionAmount": 34,
+        "burnAmount": 403,
+        "commissionAmount": 917,
         "options": [
           {
-            "variantOptionId": 2956,
-            "variantOptionText": "Black"
-          },
-          {
-            "variantOptionId": 2971,
-            "variantOptionText": "PU"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6029",
-        "subStyle": "sub-7029",
-        "shopProductSku": "BLACMICR32X",
-        "stock": 82,
-        "dpPrice": 342,
-        "mrp": 479,
-        "sellingPrice": 436,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 22,
-        "commissionAmount": 34,
-        "options": [
-          {
-            "variantOptionId": 4819,
-            "variantOptionText": "Black & Red "
-          },
-          {
-            "variantOptionId": 2975,
-            "variantOptionText": "Micro Fiber"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6029",
-        "subStyle": "sub-7029",
-        "shopProductSku": "BLACPU32X",
-        "stock": 58,
-        "dpPrice": 342,
-        "mrp": 479,
-        "sellingPrice": 436,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 22,
-        "commissionAmount": 34,
-        "options": [
-          {
-            "variantOptionId": 4819,
-            "variantOptionText": "Black & Red "
-          },
-          {
-            "variantOptionId": 2971,
-            "variantOptionText": "PU"
+            "variantOptionId": 9106,
+            "variantOptionText": "Army green"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       }
     ],
-    "description": "Sandal Ariston #32 available at Havells. Category: Sandal.",
-    "specification": "Brand: Ariston. Category: Sandal.",
+    "description": "Watch & Accessories  #32 available at Walton. Category: Watch & Accessories.",
+    "specification": "Brand: Generic. Category: Watch & Accessories.",
     "hasEmi": "Y",
     "isReturnable": "Y",
     "returnDuration": 15,
     "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 340,
-    "warrantyTypeId": 3,
-    "warrantyPeriodId": 17,
-    "warrantyPolicy": "International Seller Warranty - 12 Years.",
-    "packageWeight": 1.17,
-    "packageLength": 1.24,
-    "packageWidth": 0.83,
-    "packageHeight": 1.06,
-    "productUrl": "sandal-32",
+    "sizeChartId": 356,
+    "warrantyTypeId": 1,
+    "warrantyPeriodId": 18,
+    "warrantyPolicy": "Local Seller Warranty - 18 months.",
+    "packageWeight": 0.97,
+    "packageLength": 1.55,
+    "packageWidth": 0.65,
+    "packageHeight": 0.24,
+    "productUrl": "watch-accessories-32",
     "videoUrl": "",
-    "metaTitle": "Sandal Ariston #32",
-    "metaKeywords": "Sandal, Ariston",
-    "metaDescription": "Buy Sandal Ariston #32 online at Havells.",
+    "metaTitle": "Watch & Accessories  #32",
+    "metaKeywords": "Watch & Accessories,",
+    "metaDescription": "Buy Watch & Accessories  #32 online at Walton.",
     "ogType": "product",
-    "ogTitle": "Sandal Ariston #32",
-    "ogUrl": "sandal-32",
-    "ogDescription": "Buy Sandal Ariston #32 online at Havells.",
+    "ogTitle": "Watch & Accessories  #32",
+    "ogUrl": "watch-accessories-32",
+    "ogDescription": "Buy Watch & Accessories  #32 online at Walton.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
@@ -6383,11 +4821,138 @@ export const products = [
   },
   {
     "productId": 33,
-    "productName": "Accessories  #33",
-    "categoryId": 267,
-    "unit": "set",
-    "shopId": 62,
+    "productName": "iPhone Ashata #33",
+    "categoryId": 495,
+    "unit": "psc",
+    "shopId": 90,
     "displayOrder": "33",
+    "thumbnailImages": [
+      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
+      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
+    ],
+    "brandId": 522,
+    "strapMaterial": null,
+    "fitType": null,
+    "gender": null,
+    "variantDimensions": [
+      {
+        "dimensionId": "color",
+        "name": "Color",
+        "options": [
+          {
+            "variantOptionId": 9145,
+            "variantOptionText": "Space Black"
+          },
+          {
+            "variantOptionId": 9146,
+            "variantOptionText": "Light Gold"
+          }
+        ]
+      }
+    ],
+    "variantImages": [
+      {
+        "variantOptionId": 9145,
+        "variantOptionText": "Space Black",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      },
+      {
+        "variantOptionId": 9146,
+        "variantOptionText": "Light Gold",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      }
+    ],
+    "variantCombinations": [
+      {
+        "sku": "sku-6030",
+        "subStyle": "sub-7030",
+        "shopProductSku": "SPAC33",
+        "stock": 43,
+        "dpPrice": 2720,
+        "mrp": 3519,
+        "sellingPrice": 3199,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 320,
+        "commissionAmount": 479,
+        "options": [
+          {
+            "variantOptionId": 9145,
+            "variantOptionText": "Space Black"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6030",
+        "subStyle": "sub-7030",
+        "shopProductSku": "LIGH33",
+        "stock": 84,
+        "dpPrice": 2720,
+        "mrp": 3519,
+        "sellingPrice": 3199,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 320,
+        "commissionAmount": 479,
+        "options": [
+          {
+            "variantOptionId": 9146,
+            "variantOptionText": "Light Gold"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      }
+    ],
+    "description": "iPhone Ashata #33 available at Dewan Electronics. Category: iPhone.",
+    "specification": "Brand: Ashata. Category: iPhone.",
+    "hasEmi": "N",
+    "isReturnable": "N",
+    "returnDuration": 15,
+    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
+    "sizeChartId": 364,
+    "warrantyTypeId": 5,
+    "warrantyPeriodId": 5,
+    "warrantyPolicy": "Brand Warranty - 5 Month.",
+    "packageWeight": 0.6,
+    "packageLength": 0.53,
+    "packageWidth": 0.71,
+    "packageHeight": 0.9,
+    "productUrl": "iphone-33",
+    "videoUrl": "",
+    "metaTitle": "iPhone Ashata #33",
+    "metaKeywords": "iPhone, Ashata",
+    "metaDescription": "Buy iPhone Ashata #33 online at Dewan Electronics.",
+    "ogType": "product",
+    "ogTitle": "iPhone Ashata #33",
+    "ogUrl": "iphone-33",
+    "ogDescription": "Buy iPhone Ashata #33 online at Dewan Electronics.",
+    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+    "createdBy": "A A Momin",
+    "createdAt": "2026-04-04T09:50",
+    "updatedBy": "B B Momin",
+    "updatedAt": "2026-04-04T09:50"
+  },
+  {
+    "productId": 34,
+    "productName": "Networking Devices  #34",
+    "categoryId": 251,
+    "unit": "set",
+    "shopId": 64,
+    "displayOrder": "34",
     "thumbnailImages": [
       "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
       "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -6405,34 +4970,20 @@ export const products = [
         "name": "Color",
         "options": [
           {
-            "variantOptionId": 397,
-            "variantOptionText": "Ink"
+            "variantOptionId": 424,
+            "variantOptionText": "Black & Spark pink"
           },
           {
-            "variantOptionId": 453,
-            "variantOptionText": "Printed"
-          }
-        ]
-      },
-      {
-        "dimensionId": "size",
-        "name": "Size",
-        "options": [
-          {
-            "variantOptionId": 1067,
-            "variantOptionText": "36 CM"
-          },
-          {
-            "variantOptionId": 342,
-            "variantOptionText": "4 YEARS"
+            "variantOptionId": 2045,
+            "variantOptionText": "Beige & Cream"
           }
         ]
       }
     ],
     "variantImages": [
       {
-        "variantOptionId": 397,
-        "variantOptionText": "Ink",
+        "variantOptionId": 424,
+        "variantOptionText": "Black & Spark pink",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -6440,207 +4991,8 @@ export const products = [
         ]
       },
       {
-        "variantOptionId": 453,
-        "variantOptionText": "Printed",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      }
-    ],
-    "variantCombinations": [
-      {
-        "sku": "sku-6030",
-        "subStyle": "sub-7030",
-        "shopProductSku": "INK36-C33",
-        "stock": 88,
-        "dpPrice": 2835,
-        "mrp": 3823,
-        "sellingPrice": 3331,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 246,
-        "commissionAmount": 284,
-        "options": [
-          {
-            "variantOptionId": 397,
-            "variantOptionText": "Ink"
-          },
-          {
-            "variantOptionId": 1067,
-            "variantOptionText": "36 CM"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6030",
-        "subStyle": "sub-7030",
-        "shopProductSku": "INK4-YE33",
-        "stock": 20,
-        "dpPrice": 2835,
-        "mrp": 3823,
-        "sellingPrice": 3331,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 246,
-        "commissionAmount": 284,
-        "options": [
-          {
-            "variantOptionId": 397,
-            "variantOptionText": "Ink"
-          },
-          {
-            "variantOptionId": 342,
-            "variantOptionText": "4 YEARS"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6030",
-        "subStyle": "sub-7030",
-        "shopProductSku": "PRIN36-C33",
-        "stock": 48,
-        "dpPrice": 2835,
-        "mrp": 3823,
-        "sellingPrice": 3331,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 246,
-        "commissionAmount": 284,
-        "options": [
-          {
-            "variantOptionId": 453,
-            "variantOptionText": "Printed"
-          },
-          {
-            "variantOptionId": 1067,
-            "variantOptionText": "36 CM"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6030",
-        "subStyle": "sub-7030",
-        "shopProductSku": "PRIN4-YE33",
-        "stock": 33,
-        "dpPrice": 2835,
-        "mrp": 3823,
-        "sellingPrice": 3331,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 246,
-        "commissionAmount": 284,
-        "options": [
-          {
-            "variantOptionId": 453,
-            "variantOptionText": "Printed"
-          },
-          {
-            "variantOptionId": 342,
-            "variantOptionText": "4 YEARS"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      }
-    ],
-    "description": "Accessories  #33 available at Sheba TM. Category: Accessories.",
-    "specification": "Brand: Generic. Category: Accessories.",
-    "hasEmi": "Y",
-    "isReturnable": "Y",
-    "returnDuration": 15,
-    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 351,
-    "warrantyTypeId": 3,
-    "warrantyPeriodId": 23,
-    "warrantyPolicy": "International Seller Warranty - 4 Years.",
-    "packageWeight": 1.41,
-    "packageLength": 1.17,
-    "packageWidth": 0.65,
-    "packageHeight": 0.91,
-    "productUrl": "accessories-33",
-    "videoUrl": "",
-    "metaTitle": "Accessories  #33",
-    "metaKeywords": "Accessories,",
-    "metaDescription": "Buy Accessories  #33 online at Sheba TM.",
-    "ogType": "product",
-    "ogTitle": "Accessories  #33",
-    "ogUrl": "accessories-33",
-    "ogDescription": "Buy Accessories  #33 online at Sheba TM.",
-    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-    "createdBy": "A A Momin",
-    "createdAt": "2026-04-04T09:50",
-    "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
-  },
-  {
-    "productId": 34,
-    "productName": "Mens Overcoat 1MORE #34",
-    "categoryId": 533,
-    "unit": "psc",
-    "shopId": 77,
-    "displayOrder": "34",
-    "thumbnailImages": [
-      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
-      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
-    ],
-    "brandId": 577,
-    "strapMaterial": null,
-    "fitType": "Loose",
-    "gender": "female",
-    "variantDimensions": [
-      {
-        "dimensionId": "attr-0",
-        "name": "Primary Option",
-        "options": [
-          {
-            "variantOptionId": 8466,
-            "variantOptionText": "White"
-          },
-          {
-            "variantOptionId": 8465,
-            "variantOptionText": "White & Brown Check"
-          }
-        ]
-      },
-      {
-        "dimensionId": "attr-1",
-        "name": "Secondary Option",
-        "options": [
-          {
-            "variantOptionId": 8478,
-            "variantOptionText": "Regular Fit"
-          },
-          {
-            "variantOptionId": 8479,
-            "variantOptionText": "Over-sized"
-          }
-        ]
-      }
-    ],
-    "variantImages": [
-      {
-        "variantOptionId": 8466,
-        "variantOptionText": "White",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      },
-      {
-        "variantOptionId": 8465,
-        "variantOptionText": "White & Brown Check",
+        "variantOptionId": 2045,
+        "variantOptionText": "Beige & Cream",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -6652,23 +5004,19 @@ export const products = [
       {
         "sku": "sku-6031",
         "subStyle": "sub-7031",
-        "shopProductSku": "WHITREGU34",
-        "stock": 97,
-        "dpPrice": 1416,
-        "mrp": 1950,
-        "sellingPrice": 1813,
+        "shopProductSku": "BLAC34",
+        "stock": 86,
+        "dpPrice": 2650,
+        "mrp": 3512,
+        "sellingPrice": 3044,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 69,
-        "commissionAmount": 142,
+        "burnAmount": 468,
+        "commissionAmount": 394,
         "options": [
           {
-            "variantOptionId": 8466,
-            "variantOptionText": "White"
-          },
-          {
-            "variantOptionId": 8478,
-            "variantOptionText": "Regular Fit"
+            "variantOptionId": 424,
+            "variantOptionText": "Black & Spark pink"
           }
         ],
         "inventoryTypeId": 1,
@@ -6677,102 +5025,48 @@ export const products = [
       {
         "sku": "sku-6031",
         "subStyle": "sub-7031",
-        "shopProductSku": "WHITOVER34",
-        "stock": 46,
-        "dpPrice": 1416,
-        "mrp": 1950,
-        "sellingPrice": 1813,
+        "shopProductSku": "BEIG34",
+        "stock": 41,
+        "dpPrice": 2650,
+        "mrp": 3512,
+        "sellingPrice": 3044,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 69,
-        "commissionAmount": 142,
+        "burnAmount": 468,
+        "commissionAmount": 394,
         "options": [
           {
-            "variantOptionId": 8466,
-            "variantOptionText": "White"
-          },
-          {
-            "variantOptionId": 8479,
-            "variantOptionText": "Over-sized"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6031",
-        "subStyle": "sub-7031",
-        "shopProductSku": "WHITREGU34X",
-        "stock": 49,
-        "dpPrice": 1416,
-        "mrp": 1950,
-        "sellingPrice": 1813,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 69,
-        "commissionAmount": 142,
-        "options": [
-          {
-            "variantOptionId": 8465,
-            "variantOptionText": "White & Brown Check"
-          },
-          {
-            "variantOptionId": 8478,
-            "variantOptionText": "Regular Fit"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6031",
-        "subStyle": "sub-7031",
-        "shopProductSku": "WHITOVER34X",
-        "stock": 75,
-        "dpPrice": 1416,
-        "mrp": 1950,
-        "sellingPrice": 1813,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 69,
-        "commissionAmount": 142,
-        "options": [
-          {
-            "variantOptionId": 8465,
-            "variantOptionText": "White & Brown Check"
-          },
-          {
-            "variantOptionId": 8479,
-            "variantOptionText": "Over-sized"
+            "variantOptionId": 2045,
+            "variantOptionText": "Beige & Cream"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       }
     ],
-    "description": "Mens Overcoat 1MORE #34 available at S.S International. Category: Mens Overcoat.",
-    "specification": "Brand: 1MORE. Category: Mens Overcoat.",
-    "hasEmi": "Y",
+    "description": "Networking Devices  #34 available at TP-Link Bangladesh. Category: Networking Devices.",
+    "specification": "Brand: Generic. Category: Networking Devices.",
+    "hasEmi": "N",
     "isReturnable": "Y",
     "returnDuration": 15,
     "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 360,
-    "warrantyTypeId": 5,
-    "warrantyPeriodId": 22,
-    "warrantyPolicy": "Brand Warranty - 3 years.",
-    "packageWeight": 0.26,
-    "packageLength": 0.78,
-    "packageWidth": 1.63,
-    "packageHeight": 1.25,
-    "productUrl": "mens-overcoat-34",
+    "sizeChartId": 365,
+    "warrantyTypeId": 1,
+    "warrantyPeriodId": 14,
+    "warrantyPolicy": "Local Seller Warranty - 24 Months.",
+    "packageWeight": 1.06,
+    "packageLength": 1.29,
+    "packageWidth": 1.48,
+    "packageHeight": 1.27,
+    "productUrl": "networking-devices-34",
     "videoUrl": "",
-    "metaTitle": "Mens Overcoat 1MORE #34",
-    "metaKeywords": "Mens Overcoat, 1MORE",
-    "metaDescription": "Buy Mens Overcoat 1MORE #34 online at S.S International.",
+    "metaTitle": "Networking Devices  #34",
+    "metaKeywords": "Networking Devices,",
+    "metaDescription": "Buy Networking Devices  #34 online at TP-Link Bangladesh.",
     "ogType": "product",
-    "ogTitle": "Mens Overcoat 1MORE #34",
-    "ogUrl": "mens-overcoat-34",
-    "ogDescription": "Buy Mens Overcoat 1MORE #34 online at S.S International.",
+    "ogTitle": "Networking Devices  #34",
+    "ogUrl": "networking-devices-34",
+    "ogDescription": "Buy Networking Devices  #34 online at TP-Link Bangladesh.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
@@ -6781,409 +5075,11 @@ export const products = [
   },
   {
     "productId": 35,
-    "productName": "Shirt & Katua Charmin #35",
-    "categoryId": 81,
+    "productName": "Geyser  #35",
+    "categoryId": 296,
     "unit": "psc",
-    "shopId": 105,
+    "shopId": 49,
     "displayOrder": "35",
-    "thumbnailImages": [
-      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
-      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
-    ],
-    "brandId": 519,
-    "strapMaterial": null,
-    "fitType": "Loose",
-    "gender": "male",
-    "variantDimensions": [
-      {
-        "dimensionId": "attr-0",
-        "name": "Primary Option",
-        "options": [
-          {
-            "variantOptionId": 2381,
-            "variantOptionText": "Block"
-          },
-          {
-            "variantOptionId": 2380,
-            "variantOptionText": "Print"
-          }
-        ]
-      },
-      {
-        "dimensionId": "attr-1",
-        "name": "Secondary Option",
-        "options": [
-          {
-            "variantOptionId": 2407,
-            "variantOptionText": "White"
-          },
-          {
-            "variantOptionId": 4006,
-            "variantOptionText": "Brown"
-          }
-        ]
-      }
-    ],
-    "variantImages": [
-      {
-        "variantOptionId": 2381,
-        "variantOptionText": "Block",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      },
-      {
-        "variantOptionId": 2380,
-        "variantOptionText": "Print",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      }
-    ],
-    "variantCombinations": [
-      {
-        "sku": "sku-6032",
-        "subStyle": "sub-7032",
-        "shopProductSku": "BLOCWHIT35",
-        "stock": 23,
-        "dpPrice": 2563,
-        "mrp": 3835,
-        "sellingPrice": 3520,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 158,
-        "commissionAmount": 256,
-        "options": [
-          {
-            "variantOptionId": 2381,
-            "variantOptionText": "Block"
-          },
-          {
-            "variantOptionId": 2407,
-            "variantOptionText": "White"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6032",
-        "subStyle": "sub-7032",
-        "shopProductSku": "BLOCBROW35",
-        "stock": 23,
-        "dpPrice": 2563,
-        "mrp": 3835,
-        "sellingPrice": 3520,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 158,
-        "commissionAmount": 256,
-        "options": [
-          {
-            "variantOptionId": 2381,
-            "variantOptionText": "Block"
-          },
-          {
-            "variantOptionId": 4006,
-            "variantOptionText": "Brown"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6032",
-        "subStyle": "sub-7032",
-        "shopProductSku": "PRINWHIT35",
-        "stock": 56,
-        "dpPrice": 2563,
-        "mrp": 3835,
-        "sellingPrice": 3520,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 158,
-        "commissionAmount": 256,
-        "options": [
-          {
-            "variantOptionId": 2380,
-            "variantOptionText": "Print"
-          },
-          {
-            "variantOptionId": 2407,
-            "variantOptionText": "White"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6032",
-        "subStyle": "sub-7032",
-        "shopProductSku": "PRINBROW35",
-        "stock": 39,
-        "dpPrice": 2563,
-        "mrp": 3835,
-        "sellingPrice": 3520,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 158,
-        "commissionAmount": 256,
-        "options": [
-          {
-            "variantOptionId": 2380,
-            "variantOptionText": "Print"
-          },
-          {
-            "variantOptionId": 4006,
-            "variantOptionText": "Brown"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      }
-    ],
-    "description": "Shirt & Katua Charmin #35 available at ATLAS UMBRELLA. Category: Shirt & Katua.",
-    "specification": "Brand: Charmin. Category: Shirt & Katua.",
-    "hasEmi": "Y",
-    "isReturnable": "Y",
-    "returnDuration": 15,
-    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 348,
-    "warrantyTypeId": 2,
-    "warrantyPeriodId": 14,
-    "warrantyPolicy": "Non-local Warranty - 24 Months.",
-    "packageWeight": 0.59,
-    "packageLength": 0.33,
-    "packageWidth": 1.59,
-    "packageHeight": 1.53,
-    "productUrl": "shirt-katua-35",
-    "videoUrl": "",
-    "metaTitle": "Shirt & Katua Charmin #35",
-    "metaKeywords": "Shirt & Katua, Charmin",
-    "metaDescription": "Buy Shirt & Katua Charmin #35 online at ATLAS UMBRELLA.",
-    "ogType": "product",
-    "ogTitle": "Shirt & Katua Charmin #35",
-    "ogUrl": "shirt-katua-35",
-    "ogDescription": "Buy Shirt & Katua Charmin #35 online at ATLAS UMBRELLA.",
-    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-    "createdBy": "A A Momin",
-    "createdAt": "2026-04-04T09:50",
-    "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
-  },
-  {
-    "productId": 36,
-    "productName": "Mens Wallet Ajnur #36",
-    "categoryId": 105,
-    "unit": "pair",
-    "shopId": 93,
-    "displayOrder": "36",
-    "thumbnailImages": [
-      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
-      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
-    ],
-    "brandId": 549,
-    "strapMaterial": null,
-    "fitType": "Regular",
-    "gender": "male",
-    "variantDimensions": [
-      {
-        "dimensionId": "attr-0",
-        "name": "Primary Option",
-        "options": [
-          {
-            "variantOptionId": 6791,
-            "variantOptionText": "Green"
-          },
-          {
-            "variantOptionId": 1476,
-            "variantOptionText": "Black"
-          }
-        ]
-      },
-      {
-        "dimensionId": "attr-1",
-        "name": "Secondary Option",
-        "options": [
-          {
-            "variantOptionId": 1479,
-            "variantOptionText": "Long"
-          },
-          {
-            "variantOptionId": 1480,
-            "variantOptionText": "Short"
-          }
-        ]
-      }
-    ],
-    "variantImages": [
-      {
-        "variantOptionId": 6791,
-        "variantOptionText": "Green",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      },
-      {
-        "variantOptionId": 1476,
-        "variantOptionText": "Black",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      }
-    ],
-    "variantCombinations": [
-      {
-        "sku": "sku-6033",
-        "subStyle": "sub-7033",
-        "shopProductSku": "GREELONG36",
-        "stock": 21,
-        "dpPrice": 2758,
-        "mrp": 3594,
-        "sellingPrice": 3205,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 195,
-        "commissionAmount": 276,
-        "options": [
-          {
-            "variantOptionId": 6791,
-            "variantOptionText": "Green"
-          },
-          {
-            "variantOptionId": 1479,
-            "variantOptionText": "Long"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6033",
-        "subStyle": "sub-7033",
-        "shopProductSku": "GREESHOR36",
-        "stock": 22,
-        "dpPrice": 2758,
-        "mrp": 3594,
-        "sellingPrice": 3205,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 195,
-        "commissionAmount": 276,
-        "options": [
-          {
-            "variantOptionId": 6791,
-            "variantOptionText": "Green"
-          },
-          {
-            "variantOptionId": 1480,
-            "variantOptionText": "Short"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6033",
-        "subStyle": "sub-7033",
-        "shopProductSku": "BLACLONG36",
-        "stock": 71,
-        "dpPrice": 2758,
-        "mrp": 3594,
-        "sellingPrice": 3205,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 195,
-        "commissionAmount": 276,
-        "options": [
-          {
-            "variantOptionId": 1476,
-            "variantOptionText": "Black"
-          },
-          {
-            "variantOptionId": 1479,
-            "variantOptionText": "Long"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6033",
-        "subStyle": "sub-7033",
-        "shopProductSku": "BLACSHOR36",
-        "stock": 45,
-        "dpPrice": 2758,
-        "mrp": 3594,
-        "sellingPrice": 3205,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 195,
-        "commissionAmount": 276,
-        "options": [
-          {
-            "variantOptionId": 1476,
-            "variantOptionText": "Black"
-          },
-          {
-            "variantOptionId": 1480,
-            "variantOptionText": "Short"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      }
-    ],
-    "description": "Mens Wallet Ajnur #36 available at CYME PLUS. Category: Mens Wallet.",
-    "specification": "Brand: Ajnur. Category: Mens Wallet.",
-    "hasEmi": "N",
-    "isReturnable": "Y",
-    "returnDuration": 15,
-    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 354,
-    "warrantyTypeId": 2,
-    "warrantyPeriodId": 4,
-    "warrantyPolicy": "Non-local Warranty - 4 Month.",
-    "packageWeight": 1.57,
-    "packageLength": 1.62,
-    "packageWidth": 0.81,
-    "packageHeight": 1.65,
-    "productUrl": "mens-wallet-36",
-    "videoUrl": "",
-    "metaTitle": "Mens Wallet Ajnur #36",
-    "metaKeywords": "Mens Wallet, Ajnur",
-    "metaDescription": "Buy Mens Wallet Ajnur #36 online at CYME PLUS.",
-    "ogType": "product",
-    "ogTitle": "Mens Wallet Ajnur #36",
-    "ogUrl": "mens-wallet-36",
-    "ogDescription": "Buy Mens Wallet Ajnur #36 online at CYME PLUS.",
-    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-    "createdBy": "A A Momin",
-    "createdAt": "2026-04-04T09:50",
-    "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
-  },
-  {
-    "productId": 37,
-    "productName": "In-Ear/Earbuds  #37",
-    "categoryId": 175,
-    "unit": "psc",
-    "shopId": 101,
-    "displayOrder": "37",
     "thumbnailImages": [
       "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
       "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -7197,38 +5093,24 @@ export const products = [
     "gender": null,
     "variantDimensions": [
       {
-        "dimensionId": "attr-0",
-        "name": "Primary Option",
+        "dimensionId": "color",
+        "name": "Color",
         "options": [
           {
-            "variantOptionId": 3779,
-            "variantOptionText": "Pink"
+            "variantOptionId": 5490,
+            "variantOptionText": "Silver"
           },
           {
-            "variantOptionId": 3268,
-            "variantOptionText": "Rose Gold"
-          }
-        ]
-      },
-      {
-        "dimensionId": "attr-1",
-        "name": "Secondary Option",
-        "options": [
-          {
-            "variantOptionId": 3446,
-            "variantOptionText": "Wireless"
-          },
-          {
-            "variantOptionId": 3445,
-            "variantOptionText": "Wired"
+            "variantOptionId": 4295,
+            "variantOptionText": "White"
           }
         ]
       }
     ],
     "variantImages": [
       {
-        "variantOptionId": 3779,
-        "variantOptionText": "Pink",
+        "variantOptionId": 5490,
+        "variantOptionText": "Silver",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -7236,8 +5118,348 @@ export const products = [
         ]
       },
       {
-        "variantOptionId": 3268,
-        "variantOptionText": "Rose Gold",
+        "variantOptionId": 4295,
+        "variantOptionText": "White",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      }
+    ],
+    "variantCombinations": [
+      {
+        "sku": "sku-6032",
+        "subStyle": "sub-7032",
+        "shopProductSku": "SILV35",
+        "stock": 46,
+        "dpPrice": 1773,
+        "mrp": 2397,
+        "sellingPrice": 2397,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 0,
+        "commissionAmount": 624,
+        "options": [
+          {
+            "variantOptionId": 5490,
+            "variantOptionText": "Silver"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6032",
+        "subStyle": "sub-7032",
+        "shopProductSku": "WHIT35",
+        "stock": 85,
+        "dpPrice": 1773,
+        "mrp": 2397,
+        "sellingPrice": 2397,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 0,
+        "commissionAmount": 624,
+        "options": [
+          {
+            "variantOptionId": 4295,
+            "variantOptionText": "White"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      }
+    ],
+    "description": "Geyser  #35 available at Cheetah. Category: Geyser.",
+    "specification": "Brand: Generic. Category: Geyser.",
+    "hasEmi": "N",
+    "isReturnable": "Y",
+    "returnDuration": 15,
+    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
+    "sizeChartId": 353,
+    "warrantyTypeId": 4,
+    "warrantyPeriodId": 12,
+    "warrantyPolicy": "International Manufacturer Warranty - 12 Months.",
+    "packageWeight": 0.41,
+    "packageLength": 1,
+    "packageWidth": 0.7,
+    "packageHeight": 0.87,
+    "productUrl": "geyser-35",
+    "videoUrl": "",
+    "metaTitle": "Geyser  #35",
+    "metaKeywords": "Geyser,",
+    "metaDescription": "Buy Geyser  #35 online at Cheetah.",
+    "ogType": "product",
+    "ogTitle": "Geyser  #35",
+    "ogUrl": "geyser-35",
+    "ogDescription": "Buy Geyser  #35 online at Cheetah.",
+    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+    "createdBy": "A A Momin",
+    "createdAt": "2026-04-04T09:50",
+    "updatedBy": "B B Momin",
+    "updatedAt": "2026-04-04T09:50"
+  },
+  {
+    "productId": 36,
+    "productName": "Mens Katua & Fatua  #36",
+    "categoryId": 9,
+    "unit": "psc",
+    "shopId": 81,
+    "displayOrder": "36",
+    "thumbnailImages": [
+      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
+      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
+    ],
+    "brandId": null,
+    "strapMaterial": null,
+    "fitType": "Regular",
+    "gender": "unisex",
+    "variantDimensions": [
+      {
+        "dimensionId": "color",
+        "name": "Color",
+        "options": [
+          {
+            "variantOptionId": 6875,
+            "variantOptionText": "Cream"
+          },
+          {
+            "variantOptionId": 665,
+            "variantOptionText": "White"
+          }
+        ]
+      },
+      {
+        "dimensionId": "size",
+        "name": "Size",
+        "options": [
+          {
+            "variantOptionId": 670,
+            "variantOptionText": "XL"
+          },
+          {
+            "variantOptionId": 666,
+            "variantOptionText": "XS"
+          }
+        ]
+      }
+    ],
+    "variantImages": [
+      {
+        "variantOptionId": 6875,
+        "variantOptionText": "Cream",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      },
+      {
+        "variantOptionId": 665,
+        "variantOptionText": "White",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      }
+    ],
+    "variantCombinations": [
+      {
+        "sku": "sku-6033",
+        "subStyle": "sub-7033",
+        "shopProductSku": "CREAXL36",
+        "stock": 73,
+        "dpPrice": 912,
+        "mrp": 1201,
+        "sellingPrice": 1026,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 175,
+        "commissionAmount": 114,
+        "options": [
+          {
+            "variantOptionId": 6875,
+            "variantOptionText": "Cream"
+          },
+          {
+            "variantOptionId": 670,
+            "variantOptionText": "XL"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6033",
+        "subStyle": "sub-7033",
+        "shopProductSku": "CREAXS36",
+        "stock": 56,
+        "dpPrice": 912,
+        "mrp": 1201,
+        "sellingPrice": 1026,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 175,
+        "commissionAmount": 114,
+        "options": [
+          {
+            "variantOptionId": 6875,
+            "variantOptionText": "Cream"
+          },
+          {
+            "variantOptionId": 666,
+            "variantOptionText": "XS"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6033",
+        "subStyle": "sub-7033",
+        "shopProductSku": "WHITXL36",
+        "stock": 25,
+        "dpPrice": 912,
+        "mrp": 1201,
+        "sellingPrice": 1026,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 175,
+        "commissionAmount": 114,
+        "options": [
+          {
+            "variantOptionId": 665,
+            "variantOptionText": "White"
+          },
+          {
+            "variantOptionId": 670,
+            "variantOptionText": "XL"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6033",
+        "subStyle": "sub-7033",
+        "shopProductSku": "WHITXS36",
+        "stock": 71,
+        "dpPrice": 912,
+        "mrp": 1201,
+        "sellingPrice": 1026,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 175,
+        "commissionAmount": 114,
+        "options": [
+          {
+            "variantOptionId": 665,
+            "variantOptionText": "White"
+          },
+          {
+            "variantOptionId": 666,
+            "variantOptionText": "XS"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      }
+    ],
+    "description": "Mens Katua & Fatua  #36 available at Apurbo Business Center. Category: Mens Katua & Fatua.",
+    "specification": "Brand: Generic. Category: Mens Katua & Fatua.",
+    "hasEmi": "Y",
+    "isReturnable": "Y",
+    "returnDuration": 15,
+    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
+    "sizeChartId": 352,
+    "warrantyTypeId": 1,
+    "warrantyPeriodId": 14,
+    "warrantyPolicy": "Local Seller Warranty - 24 Months.",
+    "packageWeight": 1.22,
+    "packageLength": 0.71,
+    "packageWidth": 1.46,
+    "packageHeight": 1.28,
+    "productUrl": "mens-katua-fatua-36",
+    "videoUrl": "",
+    "metaTitle": "Mens Katua & Fatua  #36",
+    "metaKeywords": "Mens Katua & Fatua,",
+    "metaDescription": "Buy Mens Katua & Fatua  #36 online at Apurbo Business Center.",
+    "ogType": "product",
+    "ogTitle": "Mens Katua & Fatua  #36",
+    "ogUrl": "mens-katua-fatua-36",
+    "ogDescription": "Buy Mens Katua & Fatua  #36 online at Apurbo Business Center.",
+    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+    "createdBy": "A A Momin",
+    "createdAt": "2026-04-04T09:50",
+    "updatedBy": "B B Momin",
+    "updatedAt": "2026-04-04T09:50"
+  },
+  {
+    "productId": 37,
+    "productName": "Watch Accessories Ariston #37",
+    "categoryId": 325,
+    "unit": "pair",
+    "shopId": 69,
+    "displayOrder": "37",
+    "thumbnailImages": [
+      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
+      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
+    ],
+    "brandId": 495,
+    "strapMaterial": "Metal",
+    "fitType": null,
+    "gender": null,
+    "variantDimensions": [
+      {
+        "dimensionId": "color",
+        "name": "Color",
+        "options": [
+          {
+            "variantOptionId": 9213,
+            "variantOptionText": "Black & Gold"
+          },
+          {
+            "variantOptionId": 4959,
+            "variantOptionText": "Black"
+          }
+        ]
+      },
+      {
+        "dimensionId": "size",
+        "name": "Size",
+        "options": [
+          {
+            "variantOptionId": 4938,
+            "variantOptionText": "20 MM"
+          },
+          {
+            "variantOptionId": 4937,
+            "variantOptionText": "FREE SIZE"
+          }
+        ]
+      }
+    ],
+    "variantImages": [
+      {
+        "variantOptionId": 9213,
+        "variantOptionText": "Black & Gold",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      },
+      {
+        "variantOptionId": 4959,
+        "variantOptionText": "Black",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -7249,23 +5471,23 @@ export const products = [
       {
         "sku": "sku-6034",
         "subStyle": "sub-7034",
-        "shopProductSku": "PINKWIRE37",
-        "stock": 50,
-        "dpPrice": 1816,
-        "mrp": 2623,
-        "sellingPrice": 2442,
+        "shopProductSku": "BLAC20-M37",
+        "stock": 30,
+        "dpPrice": 2170,
+        "mrp": 3248,
+        "sellingPrice": 2894,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 91,
-        "commissionAmount": 182,
+        "burnAmount": 354,
+        "commissionAmount": 724,
         "options": [
           {
-            "variantOptionId": 3779,
-            "variantOptionText": "Pink"
+            "variantOptionId": 9213,
+            "variantOptionText": "Black & Gold"
           },
           {
-            "variantOptionId": 3446,
-            "variantOptionText": "Wireless"
+            "variantOptionId": 4938,
+            "variantOptionText": "20 MM"
           }
         ],
         "inventoryTypeId": 1,
@@ -7274,23 +5496,23 @@ export const products = [
       {
         "sku": "sku-6034",
         "subStyle": "sub-7034",
-        "shopProductSku": "PINKWIRE37X",
-        "stock": 5,
-        "dpPrice": 1816,
-        "mrp": 2623,
-        "sellingPrice": 2442,
+        "shopProductSku": "BLACFREE37",
+        "stock": 93,
+        "dpPrice": 2170,
+        "mrp": 3248,
+        "sellingPrice": 2894,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 91,
-        "commissionAmount": 182,
+        "burnAmount": 354,
+        "commissionAmount": 724,
         "options": [
           {
-            "variantOptionId": 3779,
-            "variantOptionText": "Pink"
+            "variantOptionId": 9213,
+            "variantOptionText": "Black & Gold"
           },
           {
-            "variantOptionId": 3445,
-            "variantOptionText": "Wired"
+            "variantOptionId": 4937,
+            "variantOptionText": "FREE SIZE"
           }
         ],
         "inventoryTypeId": 1,
@@ -7299,23 +5521,23 @@ export const products = [
       {
         "sku": "sku-6034",
         "subStyle": "sub-7034",
-        "shopProductSku": "ROSEWIRE37",
-        "stock": 61,
-        "dpPrice": 1816,
-        "mrp": 2623,
-        "sellingPrice": 2442,
+        "shopProductSku": "BLAC20-M37X",
+        "stock": 62,
+        "dpPrice": 2170,
+        "mrp": 3248,
+        "sellingPrice": 2894,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 91,
-        "commissionAmount": 182,
+        "burnAmount": 354,
+        "commissionAmount": 724,
         "options": [
           {
-            "variantOptionId": 3268,
-            "variantOptionText": "Rose Gold"
+            "variantOptionId": 4959,
+            "variantOptionText": "Black"
           },
           {
-            "variantOptionId": 3446,
-            "variantOptionText": "Wireless"
+            "variantOptionId": 4938,
+            "variantOptionText": "20 MM"
           }
         ],
         "inventoryTypeId": 1,
@@ -7324,52 +5546,52 @@ export const products = [
       {
         "sku": "sku-6034",
         "subStyle": "sub-7034",
-        "shopProductSku": "ROSEWIRE37X",
-        "stock": 99,
-        "dpPrice": 1816,
-        "mrp": 2623,
-        "sellingPrice": 2442,
+        "shopProductSku": "BLACFREE37X",
+        "stock": 71,
+        "dpPrice": 2170,
+        "mrp": 3248,
+        "sellingPrice": 2894,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 91,
-        "commissionAmount": 182,
+        "burnAmount": 354,
+        "commissionAmount": 724,
         "options": [
           {
-            "variantOptionId": 3268,
-            "variantOptionText": "Rose Gold"
+            "variantOptionId": 4959,
+            "variantOptionText": "Black"
           },
           {
-            "variantOptionId": 3445,
-            "variantOptionText": "Wired"
+            "variantOptionId": 4937,
+            "variantOptionText": "FREE SIZE"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       }
     ],
-    "description": "In-Ear/Earbuds  #37 available at Contrivance Distribution. Category: In-Ear/Earbuds.",
-    "specification": "Brand: Generic. Category: In-Ear/Earbuds.",
+    "description": "Watch Accessories Ariston #37 available at SSB Leather. Category: Watch Accessories.",
+    "specification": "Brand: Ariston. Category: Watch Accessories.",
     "hasEmi": "N",
-    "isReturnable": "Y",
+    "isReturnable": "N",
     "returnDuration": 15,
     "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
     "sizeChartId": 367,
-    "warrantyTypeId": 3,
-    "warrantyPeriodId": 17,
-    "warrantyPolicy": "International Seller Warranty - 12 Years.",
-    "packageWeight": 0.92,
-    "packageLength": 1.49,
-    "packageWidth": 1.41,
-    "packageHeight": 0.94,
-    "productUrl": "in-ear-earbuds-37",
+    "warrantyTypeId": 1,
+    "warrantyPeriodId": 22,
+    "warrantyPolicy": "Local Seller Warranty - 3 years.",
+    "packageWeight": 1.25,
+    "packageLength": 0.88,
+    "packageWidth": 1.52,
+    "packageHeight": 1.45,
+    "productUrl": "watch-accessories-37",
     "videoUrl": "",
-    "metaTitle": "In-Ear/Earbuds  #37",
-    "metaKeywords": "In-Ear/Earbuds,",
-    "metaDescription": "Buy In-Ear/Earbuds  #37 online at Contrivance Distribution.",
+    "metaTitle": "Watch Accessories Ariston #37",
+    "metaKeywords": "Watch Accessories, Ariston",
+    "metaDescription": "Buy Watch Accessories Ariston #37 online at SSB Leather.",
     "ogType": "product",
-    "ogTitle": "In-Ear/Earbuds  #37",
-    "ogUrl": "in-ear-earbuds-37",
-    "ogDescription": "Buy In-Ear/Earbuds  #37 online at Contrivance Distribution.",
+    "ogTitle": "Watch Accessories Ariston #37",
+    "ogUrl": "watch-accessories-37",
+    "ogDescription": "Buy Watch Accessories Ariston #37 online at SSB Leather.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
@@ -7378,9 +5600,9 @@ export const products = [
   },
   {
     "productId": 38,
-    "productName": "Sanitary Pads  #38",
-    "categoryId": 426,
-    "unit": "set",
+    "productName": "Hair Care Airmars #38",
+    "categoryId": 424,
+    "unit": "pair",
     "shopId": 67,
     "displayOrder": "38",
     "thumbnailImages": [
@@ -7390,7 +5612,7 @@ export const products = [
       "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
       "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
     ],
-    "brandId": null,
+    "brandId": 484,
     "strapMaterial": null,
     "fitType": null,
     "gender": null,
@@ -7400,34 +5622,20 @@ export const products = [
         "name": "Color",
         "options": [
           {
-            "variantOptionId": 157,
-            "variantOptionText": "Azure"
+            "variantOptionId": 6046,
+            "variantOptionText": "Common Color"
           },
           {
-            "variantOptionId": 479,
-            "variantOptionText": "Yellow Print"
-          }
-        ]
-      },
-      {
-        "dimensionId": "size",
-        "name": "Size",
-        "options": [
-          {
-            "variantOptionId": 342,
-            "variantOptionText": "4 YEARS"
-          },
-          {
-            "variantOptionId": 1144,
-            "variantOptionText": "20 MM"
+            "variantOptionId": 6838,
+            "variantOptionText": "Common Color"
           }
         ]
       }
     ],
     "variantImages": [
       {
-        "variantOptionId": 157,
-        "variantOptionText": "Azure",
+        "variantOptionId": 6046,
+        "variantOptionText": "Common Color",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -7435,8 +5643,8 @@ export const products = [
         ]
       },
       {
-        "variantOptionId": 479,
-        "variantOptionText": "Yellow Print",
+        "variantOptionId": 6838,
+        "variantOptionText": "Common Color",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -7448,23 +5656,19 @@ export const products = [
       {
         "sku": "sku-6035",
         "subStyle": "sub-7035",
-        "shopProductSku": "AZUR4-YE38",
-        "stock": 59,
-        "dpPrice": 2249,
-        "mrp": 3363,
-        "sellingPrice": 3084,
+        "shopProductSku": "COMM38",
+        "stock": 84,
+        "dpPrice": 1824,
+        "mrp": 2592,
+        "sellingPrice": 2240,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 140,
-        "commissionAmount": 225,
+        "burnAmount": 352,
+        "commissionAmount": 416,
         "options": [
           {
-            "variantOptionId": 157,
-            "variantOptionText": "Azure"
-          },
-          {
-            "variantOptionId": 342,
-            "variantOptionText": "4 YEARS"
+            "variantOptionId": 6046,
+            "variantOptionText": "Common Color"
           }
         ],
         "inventoryTypeId": 1,
@@ -7473,102 +5677,48 @@ export const products = [
       {
         "sku": "sku-6035",
         "subStyle": "sub-7035",
-        "shopProductSku": "AZUR20-M38",
-        "stock": 36,
-        "dpPrice": 2249,
-        "mrp": 3363,
-        "sellingPrice": 3084,
+        "shopProductSku": "COMM38X",
+        "stock": 5,
+        "dpPrice": 1824,
+        "mrp": 2592,
+        "sellingPrice": 2240,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 140,
-        "commissionAmount": 225,
+        "burnAmount": 352,
+        "commissionAmount": 416,
         "options": [
           {
-            "variantOptionId": 157,
-            "variantOptionText": "Azure"
-          },
-          {
-            "variantOptionId": 1144,
-            "variantOptionText": "20 MM"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6035",
-        "subStyle": "sub-7035",
-        "shopProductSku": "YELL4-YE38",
-        "stock": 59,
-        "dpPrice": 2249,
-        "mrp": 3363,
-        "sellingPrice": 3084,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 140,
-        "commissionAmount": 225,
-        "options": [
-          {
-            "variantOptionId": 479,
-            "variantOptionText": "Yellow Print"
-          },
-          {
-            "variantOptionId": 342,
-            "variantOptionText": "4 YEARS"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6035",
-        "subStyle": "sub-7035",
-        "shopProductSku": "YELL20-M38",
-        "stock": 75,
-        "dpPrice": 2249,
-        "mrp": 3363,
-        "sellingPrice": 3084,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 140,
-        "commissionAmount": 225,
-        "options": [
-          {
-            "variantOptionId": 479,
-            "variantOptionText": "Yellow Print"
-          },
-          {
-            "variantOptionId": 1144,
-            "variantOptionText": "20 MM"
+            "variantOptionId": 6838,
+            "variantOptionText": "Common Color"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       }
     ],
-    "description": "Sanitary Pads  #38 available at CRAFTSMAN FASHION. Category: Sanitary Pads.",
-    "specification": "Brand: Generic. Category: Sanitary Pads.",
+    "description": "Hair Care Airmars #38 available at CRAFTSMAN FASHION. Category: Hair Care.",
+    "specification": "Brand: Airmars. Category: Hair Care.",
     "hasEmi": "Y",
     "isReturnable": "Y",
     "returnDuration": 15,
     "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 347,
-    "warrantyTypeId": 4,
-    "warrantyPeriodId": 6,
-    "warrantyPolicy": "International Manufacturer Warranty - 6 Months.",
-    "packageWeight": 1.44,
-    "packageLength": 0.2,
-    "packageWidth": 1.5,
-    "packageHeight": 0.74,
-    "productUrl": "sanitary-pads-38",
+    "sizeChartId": 362,
+    "warrantyTypeId": 2,
+    "warrantyPeriodId": 15,
+    "warrantyPolicy": "Non-local Warranty - 10 Years.",
+    "packageWeight": 1.38,
+    "packageLength": 0.45,
+    "packageWidth": 0.36,
+    "packageHeight": 0.3,
+    "productUrl": "hair-care-38",
     "videoUrl": "",
-    "metaTitle": "Sanitary Pads  #38",
-    "metaKeywords": "Sanitary Pads,",
-    "metaDescription": "Buy Sanitary Pads  #38 online at CRAFTSMAN FASHION.",
+    "metaTitle": "Hair Care Airmars #38",
+    "metaKeywords": "Hair Care, Airmars",
+    "metaDescription": "Buy Hair Care Airmars #38 online at CRAFTSMAN FASHION.",
     "ogType": "product",
-    "ogTitle": "Sanitary Pads  #38",
-    "ogUrl": "sanitary-pads-38",
-    "ogDescription": "Buy Sanitary Pads  #38 online at CRAFTSMAN FASHION.",
+    "ogTitle": "Hair Care Airmars #38",
+    "ogUrl": "hair-care-38",
+    "ogDescription": "Buy Hair Care Airmars #38 online at CRAFTSMAN FASHION.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
@@ -7577,10 +5727,10 @@ export const products = [
   },
   {
     "productId": 39,
-    "productName": "Residential Air Conditioner Ajnur #39",
-    "categoryId": 201,
-    "unit": "psc",
-    "shopId": 50,
+    "productName": "Shirt & Katua Ariston #39",
+    "categoryId": 70,
+    "unit": "pair",
+    "shopId": 42,
     "displayOrder": "39",
     "thumbnailImages": [
       "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
@@ -7589,44 +5739,44 @@ export const products = [
       "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
       "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
     ],
-    "brandId": 549,
+    "brandId": 495,
     "strapMaterial": null,
-    "fitType": null,
-    "gender": null,
+    "fitType": "Regular",
+    "gender": "unisex",
     "variantDimensions": [
       {
-        "dimensionId": "attr-0",
-        "name": "Primary Option",
+        "dimensionId": "color",
+        "name": "Color",
         "options": [
           {
-            "variantOptionId": 3615,
-            "variantOptionText": "White"
+            "variantOptionId": 9056,
+            "variantOptionText": "Mineral Red"
           },
           {
-            "variantOptionId": 8988,
-            "variantOptionText": "Grey"
+            "variantOptionId": 8943,
+            "variantOptionText": "Lemon"
           }
         ]
       },
       {
-        "dimensionId": "attr-1",
-        "name": "Secondary Option",
+        "dimensionId": "size",
+        "name": "Size",
         "options": [
           {
-            "variantOptionId": 3617,
-            "variantOptionText": "Inverter "
+            "variantOptionId": 1618,
+            "variantOptionText": "3/4 Y"
           },
           {
-            "variantOptionId": 3618,
-            "variantOptionText": "Non-Inverter"
+            "variantOptionId": 1771,
+            "variantOptionText": "8/9 Y"
           }
         ]
       }
     ],
     "variantImages": [
       {
-        "variantOptionId": 3615,
-        "variantOptionText": "White",
+        "variantOptionId": 9056,
+        "variantOptionText": "Mineral Red",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -7634,7 +5784,192 @@ export const products = [
         ]
       },
       {
-        "variantOptionId": 8988,
+        "variantOptionId": 8943,
+        "variantOptionText": "Lemon",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      }
+    ],
+    "variantCombinations": [
+      {
+        "sku": "sku-6036",
+        "subStyle": "sub-7036",
+        "shopProductSku": "MINE3-4-39",
+        "stock": 10,
+        "dpPrice": 1849,
+        "mrp": 2502,
+        "sellingPrice": 2502,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 0,
+        "commissionAmount": 653,
+        "options": [
+          {
+            "variantOptionId": 9056,
+            "variantOptionText": "Mineral Red"
+          },
+          {
+            "variantOptionId": 1618,
+            "variantOptionText": "3/4 Y"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6036",
+        "subStyle": "sub-7036",
+        "shopProductSku": "MINE8-9-39",
+        "stock": 7,
+        "dpPrice": 1849,
+        "mrp": 2502,
+        "sellingPrice": 2502,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 0,
+        "commissionAmount": 653,
+        "options": [
+          {
+            "variantOptionId": 9056,
+            "variantOptionText": "Mineral Red"
+          },
+          {
+            "variantOptionId": 1771,
+            "variantOptionText": "8/9 Y"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6036",
+        "subStyle": "sub-7036",
+        "shopProductSku": "LEMO3-4-39",
+        "stock": 18,
+        "dpPrice": 1849,
+        "mrp": 2502,
+        "sellingPrice": 2502,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 0,
+        "commissionAmount": 653,
+        "options": [
+          {
+            "variantOptionId": 8943,
+            "variantOptionText": "Lemon"
+          },
+          {
+            "variantOptionId": 1618,
+            "variantOptionText": "3/4 Y"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6036",
+        "subStyle": "sub-7036",
+        "shopProductSku": "LEMO8-9-39",
+        "stock": 23,
+        "dpPrice": 1849,
+        "mrp": 2502,
+        "sellingPrice": 2502,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 0,
+        "commissionAmount": 653,
+        "options": [
+          {
+            "variantOptionId": 8943,
+            "variantOptionText": "Lemon"
+          },
+          {
+            "variantOptionId": 1771,
+            "variantOptionText": "8/9 Y"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      }
+    ],
+    "description": "Shirt & Katua Ariston #39 available at Salextra. Category: Shirt & Katua.",
+    "specification": "Brand: Ariston. Category: Shirt & Katua.",
+    "hasEmi": "N",
+    "isReturnable": "Y",
+    "returnDuration": 15,
+    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
+    "sizeChartId": 360,
+    "warrantyTypeId": 4,
+    "warrantyPeriodId": 5,
+    "warrantyPolicy": "International Manufacturer Warranty - 5 Month.",
+    "packageWeight": 0.53,
+    "packageLength": 1.41,
+    "packageWidth": 1.27,
+    "packageHeight": 0.71,
+    "productUrl": "shirt-katua-39",
+    "videoUrl": "",
+    "metaTitle": "Shirt & Katua Ariston #39",
+    "metaKeywords": "Shirt & Katua, Ariston",
+    "metaDescription": "Buy Shirt & Katua Ariston #39 online at Salextra.",
+    "ogType": "product",
+    "ogTitle": "Shirt & Katua Ariston #39",
+    "ogUrl": "shirt-katua-39",
+    "ogDescription": "Buy Shirt & Katua Ariston #39 online at Salextra.",
+    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+    "createdBy": "A A Momin",
+    "createdAt": "2026-04-04T09:50",
+    "updatedBy": "B B Momin",
+    "updatedAt": "2026-04-04T09:50"
+  },
+  {
+    "productId": 40,
+    "productName": "Rechargeable Fan bancoff #40",
+    "categoryId": 188,
+    "unit": "set",
+    "shopId": 76,
+    "displayOrder": "40",
+    "thumbnailImages": [
+      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
+      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
+    ],
+    "brandId": 440,
+    "strapMaterial": null,
+    "fitType": null,
+    "gender": null,
+    "variantDimensions": [
+      {
+        "dimensionId": "color",
+        "name": "Color",
+        "options": [
+          {
+            "variantOptionId": 3523,
+            "variantOptionText": "Yellow"
+          },
+          {
+            "variantOptionId": 4656,
+            "variantOptionText": "Grey"
+          }
+        ]
+      }
+    ],
+    "variantImages": [
+      {
+        "variantOptionId": 3523,
+        "variantOptionText": "Yellow",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      },
+      {
+        "variantOptionId": 4656,
         "variantOptionText": "Grey",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
@@ -7645,328 +5980,71 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6036",
-        "subStyle": "sub-7036",
-        "shopProductSku": "WHITINVE39",
-        "stock": 36,
-        "dpPrice": 2546,
-        "mrp": 3620,
-        "sellingPrice": 3215,
+        "sku": "sku-6037",
+        "subStyle": "sub-7037",
+        "shopProductSku": "YELL40",
+        "stock": 73,
+        "dpPrice": 482,
+        "mrp": 708,
+        "sellingPrice": 626,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 203,
-        "commissionAmount": 255,
+        "burnAmount": 82,
+        "commissionAmount": 144,
         "options": [
           {
-            "variantOptionId": 3615,
-            "variantOptionText": "White"
-          },
-          {
-            "variantOptionId": 3617,
-            "variantOptionText": "Inverter "
+            "variantOptionId": 3523,
+            "variantOptionText": "Yellow"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       },
       {
-        "sku": "sku-6036",
-        "subStyle": "sub-7036",
-        "shopProductSku": "WHITNON-39",
-        "stock": 80,
-        "dpPrice": 2546,
-        "mrp": 3620,
-        "sellingPrice": 3215,
+        "sku": "sku-6037",
+        "subStyle": "sub-7037",
+        "shopProductSku": "GREY40",
+        "stock": 11,
+        "dpPrice": 482,
+        "mrp": 708,
+        "sellingPrice": 626,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 203,
-        "commissionAmount": 255,
+        "burnAmount": 82,
+        "commissionAmount": 144,
         "options": [
           {
-            "variantOptionId": 3615,
-            "variantOptionText": "White"
-          },
-          {
-            "variantOptionId": 3618,
-            "variantOptionText": "Non-Inverter"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6036",
-        "subStyle": "sub-7036",
-        "shopProductSku": "GREYINVE39",
-        "stock": 16,
-        "dpPrice": 2546,
-        "mrp": 3620,
-        "sellingPrice": 3215,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 203,
-        "commissionAmount": 255,
-        "options": [
-          {
-            "variantOptionId": 8988,
+            "variantOptionId": 4656,
             "variantOptionText": "Grey"
-          },
-          {
-            "variantOptionId": 3617,
-            "variantOptionText": "Inverter "
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6036",
-        "subStyle": "sub-7036",
-        "shopProductSku": "GREYNON-39",
-        "stock": 49,
-        "dpPrice": 2546,
-        "mrp": 3620,
-        "sellingPrice": 3215,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 203,
-        "commissionAmount": 255,
-        "options": [
-          {
-            "variantOptionId": 8988,
-            "variantOptionText": "Grey"
-          },
-          {
-            "variantOptionId": 3618,
-            "variantOptionText": "Non-Inverter"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       }
     ],
-    "description": "Residential Air Conditioner Ajnur #39 available at Crafts Maker Ltd.. Category: Residential Air Conditioner.",
-    "specification": "Brand: Ajnur. Category: Residential Air Conditioner.",
-    "hasEmi": "Y",
+    "description": "Rechargeable Fan bancoff #40 available at Elevate Lifestyle Ltd. Category: Rechargeable Fan.",
+    "specification": "Brand: bancoff. Category: Rechargeable Fan.",
+    "hasEmi": "N",
     "isReturnable": "Y",
     "returnDuration": 15,
     "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 350,
+    "sizeChartId": 345,
     "warrantyTypeId": 3,
-    "warrantyPeriodId": 22,
-    "warrantyPolicy": "International Seller Warranty - 3 years.",
-    "packageWeight": 1.38,
-    "packageLength": 0.4,
-    "packageWidth": 0.51,
-    "packageHeight": 0.7,
-    "productUrl": "residential-air-conditioner-39",
+    "warrantyPeriodId": 12,
+    "warrantyPolicy": "International Seller Warranty - 12 Months.",
+    "packageWeight": 1.32,
+    "packageLength": 0.94,
+    "packageWidth": 1.04,
+    "packageHeight": 0.49,
+    "productUrl": "rechargeable-fan-40",
     "videoUrl": "",
-    "metaTitle": "Residential Air Conditioner Ajnur #39",
-    "metaKeywords": "Residential Air Conditioner, Ajnur",
-    "metaDescription": "Buy Residential Air Conditioner Ajnur #39 online at Crafts Maker Ltd..",
+    "metaTitle": "Rechargeable Fan bancoff #40",
+    "metaKeywords": "Rechargeable Fan, bancoff",
+    "metaDescription": "Buy Rechargeable Fan bancoff #40 online at Elevate Lifestyle Ltd.",
     "ogType": "product",
-    "ogTitle": "Residential Air Conditioner Ajnur #39",
-    "ogUrl": "residential-air-conditioner-39",
-    "ogDescription": "Buy Residential Air Conditioner Ajnur #39 online at Crafts Maker Ltd..",
-    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-    "createdBy": "A A Momin",
-    "createdAt": "2026-04-04T09:50",
-    "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
-  },
-  {
-    "productId": 40,
-    "productName": "Womens Jacket  #40",
-    "categoryId": 51,
-    "unit": "set",
-    "shopId": 54,
-    "displayOrder": "40",
-    "thumbnailImages": [
-      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
-      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
-    ],
-    "brandId": null,
-    "strapMaterial": null,
-    "fitType": "Slim",
-    "gender": "unisex",
-    "variantDimensions": [
-      {
-        "dimensionId": "attr-0",
-        "name": "Primary Option",
-        "options": [
-          {
-            "variantOptionId": 1134,
-            "variantOptionText": "City Grey"
-          },
-          {
-            "variantOptionId": 1737,
-            "variantOptionText": "Sky Printed"
-          }
-        ]
-      },
-      {
-        "dimensionId": "attr-1",
-        "name": "Secondary Option",
-        "options": [
-          {
-            "variantOptionId": 1167,
-            "variantOptionText": "Sherpa"
-          },
-          {
-            "variantOptionId": 1166,
-            "variantOptionText": "Synthetic "
-          }
-        ]
-      }
-    ],
-    "variantImages": [
-      {
-        "variantOptionId": 1134,
-        "variantOptionText": "City Grey",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      },
-      {
-        "variantOptionId": 1737,
-        "variantOptionText": "Sky Printed",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      }
-    ],
-    "variantCombinations": [
-      {
-        "sku": "sku-6037",
-        "subStyle": "sub-7037",
-        "shopProductSku": "CITYSHER40",
-        "stock": 95,
-        "dpPrice": 1694,
-        "mrp": 2478,
-        "sellingPrice": 2349,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 65,
-        "commissionAmount": 169,
-        "options": [
-          {
-            "variantOptionId": 1134,
-            "variantOptionText": "City Grey"
-          },
-          {
-            "variantOptionId": 1167,
-            "variantOptionText": "Sherpa"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6037",
-        "subStyle": "sub-7037",
-        "shopProductSku": "CITYSYNT40",
-        "stock": 42,
-        "dpPrice": 1694,
-        "mrp": 2478,
-        "sellingPrice": 2349,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 65,
-        "commissionAmount": 169,
-        "options": [
-          {
-            "variantOptionId": 1134,
-            "variantOptionText": "City Grey"
-          },
-          {
-            "variantOptionId": 1166,
-            "variantOptionText": "Synthetic "
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6037",
-        "subStyle": "sub-7037",
-        "shopProductSku": "SKY-SHER40",
-        "stock": 19,
-        "dpPrice": 1694,
-        "mrp": 2478,
-        "sellingPrice": 2349,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 65,
-        "commissionAmount": 169,
-        "options": [
-          {
-            "variantOptionId": 1737,
-            "variantOptionText": "Sky Printed"
-          },
-          {
-            "variantOptionId": 1167,
-            "variantOptionText": "Sherpa"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6037",
-        "subStyle": "sub-7037",
-        "shopProductSku": "SKY-SYNT40",
-        "stock": 41,
-        "dpPrice": 1694,
-        "mrp": 2478,
-        "sellingPrice": 2349,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 65,
-        "commissionAmount": 169,
-        "options": [
-          {
-            "variantOptionId": 1737,
-            "variantOptionText": "Sky Printed"
-          },
-          {
-            "variantOptionId": 1166,
-            "variantOptionText": "Synthetic "
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      }
-    ],
-    "description": "Womens Jacket  #40 available at Regal Furniture. Category: Womens Jacket.",
-    "specification": "Brand: Generic. Category: Womens Jacket.",
-    "hasEmi": "Y",
-    "isReturnable": "Y",
-    "returnDuration": 15,
-    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 351,
-    "warrantyTypeId": 1,
-    "warrantyPeriodId": 19,
-    "warrantyPolicy": "Local Seller Warranty - 7 Years.",
-    "packageWeight": 0.7,
-    "packageLength": 1.69,
-    "packageWidth": 1.4,
-    "packageHeight": 1.61,
-    "productUrl": "womens-jacket-40",
-    "videoUrl": "",
-    "metaTitle": "Womens Jacket  #40",
-    "metaKeywords": "Womens Jacket,",
-    "metaDescription": "Buy Womens Jacket  #40 online at Regal Furniture.",
-    "ogType": "product",
-    "ogTitle": "Womens Jacket  #40",
-    "ogUrl": "womens-jacket-40",
-    "ogDescription": "Buy Womens Jacket  #40 online at Regal Furniture.",
+    "ogTitle": "Rechargeable Fan bancoff #40",
+    "ogUrl": "rechargeable-fan-40",
+    "ogDescription": "Buy Rechargeable Fan bancoff #40 online at Elevate Lifestyle Ltd.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
@@ -7975,10 +6053,10 @@ export const products = [
   },
   {
     "productId": 41,
-    "productName": "Single Ethnic Airmars #41",
-    "categoryId": 33,
-    "unit": "psc",
-    "shopId": 81,
+    "productName": "Exercise & Fitness AUKEY #41",
+    "categoryId": 408,
+    "unit": "set",
+    "shopId": 90,
     "displayOrder": "41",
     "thumbnailImages": [
       "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
@@ -7987,44 +6065,30 @@ export const products = [
       "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
       "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
     ],
-    "brandId": 484,
+    "brandId": 521,
     "strapMaterial": null,
-    "fitType": "Slim",
-    "gender": "unisex",
+    "fitType": null,
+    "gender": null,
     "variantDimensions": [
       {
-        "dimensionId": "attr-0",
-        "name": "Primary Option",
+        "dimensionId": "color",
+        "name": "Color",
         "options": [
           {
-            "variantOptionId": 2395,
-            "variantOptionText": "Block"
+            "variantOptionId": 5867,
+            "variantOptionText": "Orange"
           },
           {
-            "variantOptionId": 2393,
-            "variantOptionText": "Embroidery"
-          }
-        ]
-      },
-      {
-        "dimensionId": "attr-1",
-        "name": "Secondary Option",
-        "options": [
-          {
-            "variantOptionId": 8957,
-            "variantOptionText": "BLUE WITH PURPLE PRINT"
-          },
-          {
-            "variantOptionId": 4662,
-            "variantOptionText": "Paste"
+            "variantOptionId": 5876,
+            "variantOptionText": "Multi Color"
           }
         ]
       }
     ],
     "variantImages": [
       {
-        "variantOptionId": 2395,
-        "variantOptionText": "Block",
+        "variantOptionId": 5867,
+        "variantOptionText": "Orange",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -8032,8 +6096,8 @@ export const products = [
         ]
       },
       {
-        "variantOptionId": 2393,
-        "variantOptionText": "Embroidery",
+        "variantOptionId": 5876,
+        "variantOptionText": "Multi Color",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -8045,23 +6109,19 @@ export const products = [
       {
         "sku": "sku-6038",
         "subStyle": "sub-7038",
-        "shopProductSku": "BLOCBLUE41",
-        "stock": 28,
-        "dpPrice": 1758,
-        "mrp": 2259,
-        "sellingPrice": 1962,
+        "shopProductSku": "ORAN41",
+        "stock": 56,
+        "dpPrice": 2828,
+        "mrp": 3435,
+        "sellingPrice": 3435,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 149,
-        "commissionAmount": 176,
+        "burnAmount": 0,
+        "commissionAmount": 607,
         "options": [
           {
-            "variantOptionId": 2395,
-            "variantOptionText": "Block"
-          },
-          {
-            "variantOptionId": 8957,
-            "variantOptionText": "BLUE WITH PURPLE PRINT"
+            "variantOptionId": 5867,
+            "variantOptionText": "Orange"
           }
         ],
         "inventoryTypeId": 1,
@@ -8070,102 +6130,48 @@ export const products = [
       {
         "sku": "sku-6038",
         "subStyle": "sub-7038",
-        "shopProductSku": "BLOCPAST41",
-        "stock": 61,
-        "dpPrice": 1758,
-        "mrp": 2259,
-        "sellingPrice": 1962,
+        "shopProductSku": "MULT41",
+        "stock": 32,
+        "dpPrice": 2828,
+        "mrp": 3435,
+        "sellingPrice": 3435,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 149,
-        "commissionAmount": 176,
+        "burnAmount": 0,
+        "commissionAmount": 607,
         "options": [
           {
-            "variantOptionId": 2395,
-            "variantOptionText": "Block"
-          },
-          {
-            "variantOptionId": 4662,
-            "variantOptionText": "Paste"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6038",
-        "subStyle": "sub-7038",
-        "shopProductSku": "EMBRBLUE41",
-        "stock": 81,
-        "dpPrice": 1758,
-        "mrp": 2259,
-        "sellingPrice": 1962,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 149,
-        "commissionAmount": 176,
-        "options": [
-          {
-            "variantOptionId": 2393,
-            "variantOptionText": "Embroidery"
-          },
-          {
-            "variantOptionId": 8957,
-            "variantOptionText": "BLUE WITH PURPLE PRINT"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6038",
-        "subStyle": "sub-7038",
-        "shopProductSku": "EMBRPAST41",
-        "stock": 67,
-        "dpPrice": 1758,
-        "mrp": 2259,
-        "sellingPrice": 1962,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 149,
-        "commissionAmount": 176,
-        "options": [
-          {
-            "variantOptionId": 2393,
-            "variantOptionText": "Embroidery"
-          },
-          {
-            "variantOptionId": 4662,
-            "variantOptionText": "Paste"
+            "variantOptionId": 5876,
+            "variantOptionText": "Multi Color"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       }
     ],
-    "description": "Single Ethnic Airmars #41 available at Apurbo Business Center. Category: Single Ethnic.",
-    "specification": "Brand: Airmars. Category: Single Ethnic.",
-    "hasEmi": "N",
+    "description": "Exercise & Fitness AUKEY #41 available at Dewan Electronics. Category: Exercise & Fitness.",
+    "specification": "Brand: AUKEY. Category: Exercise & Fitness.",
+    "hasEmi": "Y",
     "isReturnable": "Y",
     "returnDuration": 15,
     "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 341,
-    "warrantyTypeId": 1,
-    "warrantyPeriodId": 23,
-    "warrantyPolicy": "Local Seller Warranty - 4 Years.",
-    "packageWeight": 1.45,
-    "packageLength": 1.58,
-    "packageWidth": 0.52,
-    "packageHeight": 1.08,
-    "productUrl": "single-ethnic-41",
+    "sizeChartId": 340,
+    "warrantyTypeId": 5,
+    "warrantyPeriodId": 22,
+    "warrantyPolicy": "Brand Warranty - 3 years.",
+    "packageWeight": 0.57,
+    "packageLength": 0.77,
+    "packageWidth": 1.04,
+    "packageHeight": 0.57,
+    "productUrl": "exercise-fitness-41",
     "videoUrl": "",
-    "metaTitle": "Single Ethnic Airmars #41",
-    "metaKeywords": "Single Ethnic, Airmars",
-    "metaDescription": "Buy Single Ethnic Airmars #41 online at Apurbo Business Center.",
+    "metaTitle": "Exercise & Fitness AUKEY #41",
+    "metaKeywords": "Exercise & Fitness, AUKEY",
+    "metaDescription": "Buy Exercise & Fitness AUKEY #41 online at Dewan Electronics.",
     "ogType": "product",
-    "ogTitle": "Single Ethnic Airmars #41",
-    "ogUrl": "single-ethnic-41",
-    "ogDescription": "Buy Single Ethnic Airmars #41 online at Apurbo Business Center.",
+    "ogTitle": "Exercise & Fitness AUKEY #41",
+    "ogUrl": "exercise-fitness-41",
+    "ogDescription": "Buy Exercise & Fitness AUKEY #41 online at Dewan Electronics.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
@@ -8174,10 +6180,10 @@ export const products = [
   },
   {
     "productId": 42,
-    "productName": "Area Rug  #42",
-    "categoryId": 387,
-    "unit": "pair",
-    "shopId": 95,
+    "productName": "Mens Shorts Azeada #42",
+    "categoryId": 18,
+    "unit": "set",
+    "shopId": 43,
     "displayOrder": "42",
     "thumbnailImages": [
       "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
@@ -8186,22 +6192,22 @@ export const products = [
       "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
       "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
     ],
-    "brandId": null,
+    "brandId": 588,
     "strapMaterial": null,
-    "fitType": null,
-    "gender": null,
+    "fitType": "Slim",
+    "gender": "unisex",
     "variantDimensions": [
       {
         "dimensionId": "color",
         "name": "Color",
         "options": [
           {
-            "variantOptionId": 29,
-            "variantOptionText": "Wine Berry"
+            "variantOptionId": 7853,
+            "variantOptionText": "Grey"
           },
           {
-            "variantOptionId": 484,
-            "variantOptionText": "Noir"
+            "variantOptionId": 8996,
+            "variantOptionText": "Printed"
           }
         ]
       },
@@ -8210,20 +6216,20 @@ export const products = [
         "name": "Size",
         "options": [
           {
-            "variantOptionId": 1184,
-            "variantOptionText": "XXL & Free"
+            "variantOptionId": 2261,
+            "variantOptionText": "28"
           },
           {
-            "variantOptionId": 288,
-            "variantOptionText": "13/14 Y"
+            "variantOptionId": 2265,
+            "variantOptionText": "36"
           }
         ]
       }
     ],
     "variantImages": [
       {
-        "variantOptionId": 29,
-        "variantOptionText": "Wine Berry",
+        "variantOptionId": 7853,
+        "variantOptionText": "Grey",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -8231,8 +6237,8 @@ export const products = [
         ]
       },
       {
-        "variantOptionId": 484,
-        "variantOptionText": "Noir",
+        "variantOptionId": 8996,
+        "variantOptionText": "Printed",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -8244,23 +6250,23 @@ export const products = [
       {
         "sku": "sku-6039",
         "subStyle": "sub-7039",
-        "shopProductSku": "WINEXXL-42",
-        "stock": 32,
-        "dpPrice": 1583,
-        "mrp": 2250,
-        "sellingPrice": 2091,
+        "shopProductSku": "GREY2842",
+        "stock": 64,
+        "dpPrice": 2038,
+        "mrp": 2532,
+        "sellingPrice": 2154,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 80,
-        "commissionAmount": 158,
+        "burnAmount": 378,
+        "commissionAmount": 116,
         "options": [
           {
-            "variantOptionId": 29,
-            "variantOptionText": "Wine Berry"
+            "variantOptionId": 7853,
+            "variantOptionText": "Grey"
           },
           {
-            "variantOptionId": 1184,
-            "variantOptionText": "XXL & Free"
+            "variantOptionId": 2261,
+            "variantOptionText": "28"
           }
         ],
         "inventoryTypeId": 1,
@@ -8269,23 +6275,23 @@ export const products = [
       {
         "sku": "sku-6039",
         "subStyle": "sub-7039",
-        "shopProductSku": "WINE13-142",
-        "stock": 84,
-        "dpPrice": 1583,
-        "mrp": 2250,
-        "sellingPrice": 2091,
+        "shopProductSku": "GREY3642",
+        "stock": 63,
+        "dpPrice": 2038,
+        "mrp": 2532,
+        "sellingPrice": 2154,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 80,
-        "commissionAmount": 158,
+        "burnAmount": 378,
+        "commissionAmount": 116,
         "options": [
           {
-            "variantOptionId": 29,
-            "variantOptionText": "Wine Berry"
+            "variantOptionId": 7853,
+            "variantOptionText": "Grey"
           },
           {
-            "variantOptionId": 288,
-            "variantOptionText": "13/14 Y"
+            "variantOptionId": 2265,
+            "variantOptionText": "36"
           }
         ],
         "inventoryTypeId": 1,
@@ -8294,23 +6300,23 @@ export const products = [
       {
         "sku": "sku-6039",
         "subStyle": "sub-7039",
-        "shopProductSku": "NOIRXXL-42",
-        "stock": 84,
-        "dpPrice": 1583,
-        "mrp": 2250,
-        "sellingPrice": 2091,
+        "shopProductSku": "PRIN2842",
+        "stock": 8,
+        "dpPrice": 2038,
+        "mrp": 2532,
+        "sellingPrice": 2154,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 80,
-        "commissionAmount": 158,
+        "burnAmount": 378,
+        "commissionAmount": 116,
         "options": [
           {
-            "variantOptionId": 484,
-            "variantOptionText": "Noir"
+            "variantOptionId": 8996,
+            "variantOptionText": "Printed"
           },
           {
-            "variantOptionId": 1184,
-            "variantOptionText": "XXL & Free"
+            "variantOptionId": 2261,
+            "variantOptionText": "28"
           }
         ],
         "inventoryTypeId": 1,
@@ -8319,52 +6325,52 @@ export const products = [
       {
         "sku": "sku-6039",
         "subStyle": "sub-7039",
-        "shopProductSku": "NOIR13-142",
-        "stock": 27,
-        "dpPrice": 1583,
-        "mrp": 2250,
-        "sellingPrice": 2091,
+        "shopProductSku": "PRIN3642",
+        "stock": 83,
+        "dpPrice": 2038,
+        "mrp": 2532,
+        "sellingPrice": 2154,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 80,
-        "commissionAmount": 158,
+        "burnAmount": 378,
+        "commissionAmount": 116,
         "options": [
           {
-            "variantOptionId": 484,
-            "variantOptionText": "Noir"
+            "variantOptionId": 8996,
+            "variantOptionText": "Printed"
           },
           {
-            "variantOptionId": 288,
-            "variantOptionText": "13/14 Y"
+            "variantOptionId": 2265,
+            "variantOptionText": "36"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       }
     ],
-    "description": "Area Rug  #42 available at Innovation Trading. Category: Area Rug.",
-    "specification": "Brand: Generic. Category: Area Rug.",
+    "description": "Mens Shorts Azeada #42 available at Computer City Technologies Ltd.. Category: Mens Shorts.",
+    "specification": "Brand: Azeada. Category: Mens Shorts.",
     "hasEmi": "N",
     "isReturnable": "Y",
     "returnDuration": 15,
     "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 348,
-    "warrantyTypeId": 2,
-    "warrantyPeriodId": 21,
-    "warrantyPolicy": "Non-local Warranty - 7 Months.",
-    "packageWeight": 1.16,
-    "packageLength": 0.92,
-    "packageWidth": 1.42,
-    "packageHeight": 1.42,
-    "productUrl": "area-rug-42",
+    "sizeChartId": 360,
+    "warrantyTypeId": 5,
+    "warrantyPeriodId": 16,
+    "warrantyPolicy": "Brand Warranty - 5 Years.",
+    "packageWeight": 1.17,
+    "packageLength": 1.53,
+    "packageWidth": 0.93,
+    "packageHeight": 1.2,
+    "productUrl": "mens-shorts-42",
     "videoUrl": "",
-    "metaTitle": "Area Rug  #42",
-    "metaKeywords": "Area Rug,",
-    "metaDescription": "Buy Area Rug  #42 online at Innovation Trading.",
+    "metaTitle": "Mens Shorts Azeada #42",
+    "metaKeywords": "Mens Shorts, Azeada",
+    "metaDescription": "Buy Mens Shorts Azeada #42 online at Computer City Technologies Ltd..",
     "ogType": "product",
-    "ogTitle": "Area Rug  #42",
-    "ogUrl": "area-rug-42",
-    "ogDescription": "Buy Area Rug  #42 online at Innovation Trading.",
+    "ogTitle": "Mens Shorts Azeada #42",
+    "ogUrl": "mens-shorts-42",
+    "ogDescription": "Buy Mens Shorts Azeada #42 online at Computer City Technologies Ltd..",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
@@ -8373,10 +6379,10 @@ export const products = [
   },
   {
     "productId": 43,
-    "productName": "Laundry Appliance  #43",
-    "categoryId": 301,
-    "unit": "pair",
-    "shopId": 70,
+    "productName": "Single Ethnic Asus #43",
+    "categoryId": 33,
+    "unit": "psc",
+    "shopId": 43,
     "displayOrder": "43",
     "thumbnailImages": [
       "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
@@ -8385,7 +6391,206 @@ export const products = [
       "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
       "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
     ],
-    "brandId": null,
+    "brandId": 104,
+    "strapMaterial": null,
+    "fitType": "Regular",
+    "gender": "male",
+    "variantDimensions": [
+      {
+        "dimensionId": "color",
+        "name": "Color",
+        "options": [
+          {
+            "variantOptionId": 5019,
+            "variantOptionText": "Off White Printed"
+          },
+          {
+            "variantOptionId": 9008,
+            "variantOptionText": "Bossa Nova"
+          }
+        ]
+      },
+      {
+        "dimensionId": "size",
+        "name": "Size",
+        "options": [
+          {
+            "variantOptionId": 862,
+            "variantOptionText": "M"
+          },
+          {
+            "variantOptionId": 1673,
+            "variantOptionText": "XS"
+          }
+        ]
+      }
+    ],
+    "variantImages": [
+      {
+        "variantOptionId": 5019,
+        "variantOptionText": "Off White Printed",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      },
+      {
+        "variantOptionId": 9008,
+        "variantOptionText": "Bossa Nova",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      }
+    ],
+    "variantCombinations": [
+      {
+        "sku": "sku-6040",
+        "subStyle": "sub-7040",
+        "shopProductSku": "OFF-M43",
+        "stock": 12,
+        "dpPrice": 2616,
+        "mrp": 3201,
+        "sellingPrice": 2874,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 327,
+        "commissionAmount": 258,
+        "options": [
+          {
+            "variantOptionId": 5019,
+            "variantOptionText": "Off White Printed"
+          },
+          {
+            "variantOptionId": 862,
+            "variantOptionText": "M"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6040",
+        "subStyle": "sub-7040",
+        "shopProductSku": "OFF-XS43",
+        "stock": 59,
+        "dpPrice": 2616,
+        "mrp": 3201,
+        "sellingPrice": 2874,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 327,
+        "commissionAmount": 258,
+        "options": [
+          {
+            "variantOptionId": 5019,
+            "variantOptionText": "Off White Printed"
+          },
+          {
+            "variantOptionId": 1673,
+            "variantOptionText": "XS"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6040",
+        "subStyle": "sub-7040",
+        "shopProductSku": "BOSSM43",
+        "stock": 72,
+        "dpPrice": 2616,
+        "mrp": 3201,
+        "sellingPrice": 2874,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 327,
+        "commissionAmount": 258,
+        "options": [
+          {
+            "variantOptionId": 9008,
+            "variantOptionText": "Bossa Nova"
+          },
+          {
+            "variantOptionId": 862,
+            "variantOptionText": "M"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6040",
+        "subStyle": "sub-7040",
+        "shopProductSku": "BOSSXS43",
+        "stock": 57,
+        "dpPrice": 2616,
+        "mrp": 3201,
+        "sellingPrice": 2874,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 327,
+        "commissionAmount": 258,
+        "options": [
+          {
+            "variantOptionId": 9008,
+            "variantOptionText": "Bossa Nova"
+          },
+          {
+            "variantOptionId": 1673,
+            "variantOptionText": "XS"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      }
+    ],
+    "description": "Single Ethnic Asus #43 available at Computer City Technologies Ltd.. Category: Single Ethnic.",
+    "specification": "Brand: Asus. Category: Single Ethnic.",
+    "hasEmi": "Y",
+    "isReturnable": "Y",
+    "returnDuration": 15,
+    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
+    "sizeChartId": 340,
+    "warrantyTypeId": 1,
+    "warrantyPeriodId": 21,
+    "warrantyPolicy": "Local Seller Warranty - 7 Months.",
+    "packageWeight": 1.59,
+    "packageLength": 1.36,
+    "packageWidth": 0.86,
+    "packageHeight": 1.23,
+    "productUrl": "single-ethnic-43",
+    "videoUrl": "",
+    "metaTitle": "Single Ethnic Asus #43",
+    "metaKeywords": "Single Ethnic, Asus",
+    "metaDescription": "Buy Single Ethnic Asus #43 online at Computer City Technologies Ltd..",
+    "ogType": "product",
+    "ogTitle": "Single Ethnic Asus #43",
+    "ogUrl": "single-ethnic-43",
+    "ogDescription": "Buy Single Ethnic Asus #43 online at Computer City Technologies Ltd..",
+    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+    "createdBy": "A A Momin",
+    "createdAt": "2026-04-04T09:50",
+    "updatedBy": "B B Momin",
+    "updatedAt": "2026-04-04T09:50"
+  },
+  {
+    "productId": 44,
+    "productName": "Fan Ariston #44",
+    "categoryId": 182,
+    "unit": "set",
+    "shopId": 88,
+    "displayOrder": "44",
+    "thumbnailImages": [
+      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
+      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
+    ],
+    "brandId": 495,
     "strapMaterial": null,
     "fitType": null,
     "gender": null,
@@ -8395,34 +6600,20 @@ export const products = [
         "name": "Color",
         "options": [
           {
-            "variantOptionId": 55,
-            "variantOptionText": "Picless"
+            "variantOptionId": 3494,
+            "variantOptionText": "White"
           },
           {
-            "variantOptionId": 2260,
-            "variantOptionText": "PINK LADY"
-          }
-        ]
-      },
-      {
-        "dimensionId": "size",
-        "name": "Size",
-        "options": [
-          {
-            "variantOptionId": 344,
-            "variantOptionText": "6 YEARS"
-          },
-          {
-            "variantOptionId": 338,
-            "variantOptionText": "2.5 YEARS"
+            "variantOptionId": 9034,
+            "variantOptionText": "Off White"
           }
         ]
       }
     ],
     "variantImages": [
       {
-        "variantOptionId": 55,
-        "variantOptionText": "Picless",
+        "variantOptionId": 3494,
+        "variantOptionText": "White",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -8430,207 +6621,8 @@ export const products = [
         ]
       },
       {
-        "variantOptionId": 2260,
-        "variantOptionText": "PINK LADY",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      }
-    ],
-    "variantCombinations": [
-      {
-        "sku": "sku-6040",
-        "subStyle": "sub-7040",
-        "shopProductSku": "PICL6-YE43",
-        "stock": 54,
-        "dpPrice": 1064,
-        "mrp": 1473,
-        "sellingPrice": 1254,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 110,
-        "commissionAmount": 106,
-        "options": [
-          {
-            "variantOptionId": 55,
-            "variantOptionText": "Picless"
-          },
-          {
-            "variantOptionId": 344,
-            "variantOptionText": "6 YEARS"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6040",
-        "subStyle": "sub-7040",
-        "shopProductSku": "PICL2-5-43",
-        "stock": 34,
-        "dpPrice": 1064,
-        "mrp": 1473,
-        "sellingPrice": 1254,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 110,
-        "commissionAmount": 106,
-        "options": [
-          {
-            "variantOptionId": 55,
-            "variantOptionText": "Picless"
-          },
-          {
-            "variantOptionId": 338,
-            "variantOptionText": "2.5 YEARS"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6040",
-        "subStyle": "sub-7040",
-        "shopProductSku": "PINK6-YE43",
-        "stock": 26,
-        "dpPrice": 1064,
-        "mrp": 1473,
-        "sellingPrice": 1254,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 110,
-        "commissionAmount": 106,
-        "options": [
-          {
-            "variantOptionId": 2260,
-            "variantOptionText": "PINK LADY"
-          },
-          {
-            "variantOptionId": 344,
-            "variantOptionText": "6 YEARS"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6040",
-        "subStyle": "sub-7040",
-        "shopProductSku": "PINK2-5-43",
-        "stock": 33,
-        "dpPrice": 1064,
-        "mrp": 1473,
-        "sellingPrice": 1254,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 110,
-        "commissionAmount": 106,
-        "options": [
-          {
-            "variantOptionId": 2260,
-            "variantOptionText": "PINK LADY"
-          },
-          {
-            "variantOptionId": 338,
-            "variantOptionText": "2.5 YEARS"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      }
-    ],
-    "description": "Laundry Appliance  #43 available at Co-Walk. Category: Laundry Appliance.",
-    "specification": "Brand: Generic. Category: Laundry Appliance.",
-    "hasEmi": "N",
-    "isReturnable": "Y",
-    "returnDuration": 15,
-    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 344,
-    "warrantyTypeId": 3,
-    "warrantyPeriodId": 2,
-    "warrantyPolicy": "International Seller Warranty - 2 Month.",
-    "packageWeight": 0.68,
-    "packageLength": 1.7,
-    "packageWidth": 0.91,
-    "packageHeight": 0.72,
-    "productUrl": "laundry-appliance-43",
-    "videoUrl": "",
-    "metaTitle": "Laundry Appliance  #43",
-    "metaKeywords": "Laundry Appliance,",
-    "metaDescription": "Buy Laundry Appliance  #43 online at Co-Walk.",
-    "ogType": "product",
-    "ogTitle": "Laundry Appliance  #43",
-    "ogUrl": "laundry-appliance-43",
-    "ogDescription": "Buy Laundry Appliance  #43 online at Co-Walk.",
-    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-    "createdBy": "A A Momin",
-    "createdAt": "2026-04-04T09:50",
-    "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
-  },
-  {
-    "productId": 44,
-    "productName": "Mens Collection Apex #44",
-    "categoryId": 279,
-    "unit": "pair",
-    "shopId": 105,
-    "displayOrder": "44",
-    "thumbnailImages": [
-      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
-      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
-    ],
-    "brandId": 168,
-    "strapMaterial": null,
-    "fitType": "Loose",
-    "gender": "male",
-    "variantDimensions": [
-      {
-        "dimensionId": "color",
-        "name": "Color",
-        "options": [
-          {
-            "variantOptionId": 433,
-            "variantOptionText": "Maroon & White Check"
-          },
-          {
-            "variantOptionId": 1173,
-            "variantOptionText": "Merun"
-          }
-        ]
-      },
-      {
-        "dimensionId": "size",
-        "name": "Size",
-        "options": [
-          {
-            "variantOptionId": 1915,
-            "variantOptionText": "600MM, 24â€³"
-          },
-          {
-            "variantOptionId": 354,
-            "variantOptionText": "10 YEARS"
-          }
-        ]
-      }
-    ],
-    "variantImages": [
-      {
-        "variantOptionId": 433,
-        "variantOptionText": "Maroon & White Check",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      },
-      {
-        "variantOptionId": 1173,
-        "variantOptionText": "Merun",
+        "variantOptionId": 9034,
+        "variantOptionText": "Off White",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -8642,23 +6634,19 @@ export const products = [
       {
         "sku": "sku-6041",
         "subStyle": "sub-7041",
-        "shopProductSku": "MARO600M44",
-        "stock": 47,
-        "dpPrice": 814,
-        "mrp": 1012,
-        "sellingPrice": 947,
+        "shopProductSku": "WHIT44",
+        "stock": 6,
+        "dpPrice": 1068,
+        "mrp": 1528,
+        "sellingPrice": 1300,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 33,
-        "commissionAmount": 81,
+        "burnAmount": 228,
+        "commissionAmount": 232,
         "options": [
           {
-            "variantOptionId": 433,
-            "variantOptionText": "Maroon & White Check"
-          },
-          {
-            "variantOptionId": 1915,
-            "variantOptionText": "600MM, 24â€³"
+            "variantOptionId": 3494,
+            "variantOptionText": "White"
           }
         ],
         "inventoryTypeId": 1,
@@ -8667,102 +6655,48 @@ export const products = [
       {
         "sku": "sku-6041",
         "subStyle": "sub-7041",
-        "shopProductSku": "MARO10-Y44",
-        "stock": 92,
-        "dpPrice": 814,
-        "mrp": 1012,
-        "sellingPrice": 947,
+        "shopProductSku": "OFF-44",
+        "stock": 56,
+        "dpPrice": 1068,
+        "mrp": 1528,
+        "sellingPrice": 1300,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 33,
-        "commissionAmount": 81,
+        "burnAmount": 228,
+        "commissionAmount": 232,
         "options": [
           {
-            "variantOptionId": 433,
-            "variantOptionText": "Maroon & White Check"
-          },
-          {
-            "variantOptionId": 354,
-            "variantOptionText": "10 YEARS"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6041",
-        "subStyle": "sub-7041",
-        "shopProductSku": "MERU600M44",
-        "stock": 67,
-        "dpPrice": 814,
-        "mrp": 1012,
-        "sellingPrice": 947,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 33,
-        "commissionAmount": 81,
-        "options": [
-          {
-            "variantOptionId": 1173,
-            "variantOptionText": "Merun"
-          },
-          {
-            "variantOptionId": 1915,
-            "variantOptionText": "600MM, 24â€³"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6041",
-        "subStyle": "sub-7041",
-        "shopProductSku": "MERU10-Y44",
-        "stock": 41,
-        "dpPrice": 814,
-        "mrp": 1012,
-        "sellingPrice": 947,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 33,
-        "commissionAmount": 81,
-        "options": [
-          {
-            "variantOptionId": 1173,
-            "variantOptionText": "Merun"
-          },
-          {
-            "variantOptionId": 354,
-            "variantOptionText": "10 YEARS"
+            "variantOptionId": 9034,
+            "variantOptionText": "Off White"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       }
     ],
-    "description": "Mens Collection Apex #44 available at ATLAS UMBRELLA. Category: Mens Collection.",
-    "specification": "Brand: Apex. Category: Mens Collection.",
+    "description": "Fan Ariston #44 available at Lioo. Category: Fan.",
+    "specification": "Brand: Ariston. Category: Fan.",
     "hasEmi": "Y",
     "isReturnable": "Y",
     "returnDuration": 15,
     "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 364,
-    "warrantyTypeId": 1,
-    "warrantyPeriodId": 1,
-    "warrantyPolicy": "Local Seller Warranty - 1 Month.",
-    "packageWeight": 0.49,
-    "packageLength": 0.68,
-    "packageWidth": 0.67,
-    "packageHeight": 0.29,
-    "productUrl": "mens-collection-44",
+    "sizeChartId": 366,
+    "warrantyTypeId": 4,
+    "warrantyPeriodId": 21,
+    "warrantyPolicy": "International Manufacturer Warranty - 7 Months.",
+    "packageWeight": 0.38,
+    "packageLength": 0.78,
+    "packageWidth": 0.68,
+    "packageHeight": 0.6,
+    "productUrl": "fan-44",
     "videoUrl": "",
-    "metaTitle": "Mens Collection Apex #44",
-    "metaKeywords": "Mens Collection, Apex",
-    "metaDescription": "Buy Mens Collection Apex #44 online at ATLAS UMBRELLA.",
+    "metaTitle": "Fan Ariston #44",
+    "metaKeywords": "Fan, Ariston",
+    "metaDescription": "Buy Fan Ariston #44 online at Lioo.",
     "ogType": "product",
-    "ogTitle": "Mens Collection Apex #44",
-    "ogUrl": "mens-collection-44",
-    "ogDescription": "Buy Mens Collection Apex #44 online at ATLAS UMBRELLA.",
+    "ogTitle": "Fan Ariston #44",
+    "ogUrl": "fan-44",
+    "ogDescription": "Buy Fan Ariston #44 online at Lioo.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
@@ -8771,10 +6705,10 @@ export const products = [
   },
   {
     "productId": 45,
-    "productName": "Shampoo & Conditioner  #45",
-    "categoryId": 458,
-    "unit": "psc",
-    "shopId": 46,
+    "productName": "Microphone  #45",
+    "categoryId": 508,
+    "unit": "pair",
+    "shopId": 86,
     "displayOrder": "45",
     "thumbnailImages": [
       "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
@@ -8793,34 +6727,20 @@ export const products = [
         "name": "Color",
         "options": [
           {
-            "variantOptionId": 1340,
-            "variantOptionText": "Black & Fig"
+            "variantOptionId": 7810,
+            "variantOptionText": "Black"
           },
           {
-            "variantOptionId": 1237,
-            "variantOptionText": "Chocolate & Brown"
-          }
-        ]
-      },
-      {
-        "dimensionId": "size",
-        "name": "Size",
-        "options": [
-          {
-            "variantOptionId": 1354,
-            "variantOptionText": "64GB"
-          },
-          {
-            "variantOptionId": 1154,
-            "variantOptionText": "50"
+            "variantOptionId": 8016,
+            "variantOptionText": "White"
           }
         ]
       }
     ],
     "variantImages": [
       {
-        "variantOptionId": 1340,
-        "variantOptionText": "Black & Fig",
+        "variantOptionId": 7810,
+        "variantOptionText": "Black",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -8828,8 +6748,8 @@ export const products = [
         ]
       },
       {
-        "variantOptionId": 1237,
-        "variantOptionText": "Chocolate & Brown",
+        "variantOptionId": 8016,
+        "variantOptionText": "White",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -8841,23 +6761,19 @@ export const products = [
       {
         "sku": "sku-6042",
         "subStyle": "sub-7042",
-        "shopProductSku": "BLAC64GB45",
-        "stock": 70,
-        "dpPrice": 2300,
-        "mrp": 2770,
-        "sellingPrice": 2386,
+        "shopProductSku": "BLAC45",
+        "stock": 100,
+        "dpPrice": 2287,
+        "mrp": 3150,
+        "sellingPrice": 2780,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 192,
-        "commissionAmount": 230,
+        "burnAmount": 370,
+        "commissionAmount": 493,
         "options": [
           {
-            "variantOptionId": 1340,
-            "variantOptionText": "Black & Fig"
-          },
-          {
-            "variantOptionId": 1354,
-            "variantOptionText": "64GB"
+            "variantOptionId": 7810,
+            "variantOptionText": "Black"
           }
         ],
         "inventoryTypeId": 1,
@@ -8866,102 +6782,48 @@ export const products = [
       {
         "sku": "sku-6042",
         "subStyle": "sub-7042",
-        "shopProductSku": "BLAC5045",
-        "stock": 36,
-        "dpPrice": 2300,
-        "mrp": 2770,
-        "sellingPrice": 2386,
+        "shopProductSku": "WHIT45",
+        "stock": 73,
+        "dpPrice": 2287,
+        "mrp": 3150,
+        "sellingPrice": 2780,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 192,
-        "commissionAmount": 230,
+        "burnAmount": 370,
+        "commissionAmount": 493,
         "options": [
           {
-            "variantOptionId": 1340,
-            "variantOptionText": "Black & Fig"
-          },
-          {
-            "variantOptionId": 1154,
-            "variantOptionText": "50"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6042",
-        "subStyle": "sub-7042",
-        "shopProductSku": "CHOC64GB45",
-        "stock": 99,
-        "dpPrice": 2300,
-        "mrp": 2770,
-        "sellingPrice": 2386,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 192,
-        "commissionAmount": 230,
-        "options": [
-          {
-            "variantOptionId": 1237,
-            "variantOptionText": "Chocolate & Brown"
-          },
-          {
-            "variantOptionId": 1354,
-            "variantOptionText": "64GB"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6042",
-        "subStyle": "sub-7042",
-        "shopProductSku": "CHOC5045",
-        "stock": 32,
-        "dpPrice": 2300,
-        "mrp": 2770,
-        "sellingPrice": 2386,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 192,
-        "commissionAmount": 230,
-        "options": [
-          {
-            "variantOptionId": 1237,
-            "variantOptionText": "Chocolate & Brown"
-          },
-          {
-            "variantOptionId": 1154,
-            "variantOptionText": "50"
+            "variantOptionId": 8016,
+            "variantOptionText": "White"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       }
     ],
-    "description": "Shampoo & Conditioner  #45 available at Motion View. Category: Shampoo & Conditioner.",
-    "specification": "Brand: Generic. Category: Shampoo & Conditioner.",
-    "hasEmi": "N",
+    "description": "Microphone  #45 available at Afseen bag. Category: Microphone.",
+    "specification": "Brand: Generic. Category: Microphone.",
+    "hasEmi": "Y",
     "isReturnable": "Y",
     "returnDuration": 15,
     "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 357,
-    "warrantyTypeId": 1,
-    "warrantyPeriodId": 23,
-    "warrantyPolicy": "Local Seller Warranty - 4 Years.",
-    "packageWeight": 0.62,
-    "packageLength": 0.84,
-    "packageWidth": 0.49,
-    "packageHeight": 0.53,
-    "productUrl": "shampoo-conditioner-45",
+    "sizeChartId": 344,
+    "warrantyTypeId": 5,
+    "warrantyPeriodId": 20,
+    "warrantyPolicy": "Brand Warranty - 8 Months.",
+    "packageWeight": 0.26,
+    "packageLength": 1.29,
+    "packageWidth": 1.02,
+    "packageHeight": 0.24,
+    "productUrl": "microphone-45",
     "videoUrl": "",
-    "metaTitle": "Shampoo & Conditioner  #45",
-    "metaKeywords": "Shampoo & Conditioner,",
-    "metaDescription": "Buy Shampoo & Conditioner  #45 online at Motion View.",
+    "metaTitle": "Microphone  #45",
+    "metaKeywords": "Microphone,",
+    "metaDescription": "Buy Microphone  #45 online at Afseen bag.",
     "ogType": "product",
-    "ogTitle": "Shampoo & Conditioner  #45",
-    "ogUrl": "shampoo-conditioner-45",
-    "ogDescription": "Buy Shampoo & Conditioner  #45 online at Motion View.",
+    "ogTitle": "Microphone  #45",
+    "ogUrl": "microphone-45",
+    "ogDescription": "Buy Microphone  #45 online at Afseen bag.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
@@ -8970,11 +6832,557 @@ export const products = [
   },
   {
     "productId": 46,
-    "productName": "Table Runners 1MORE #46",
-    "categoryId": 467,
-    "unit": "set",
-    "shopId": 96,
+    "productName": "Mosquito Killers bancoff #46",
+    "categoryId": 389,
+    "unit": "pair",
+    "shopId": 63,
     "displayOrder": "46",
+    "thumbnailImages": [
+      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
+      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
+    ],
+    "brandId": 440,
+    "strapMaterial": null,
+    "fitType": null,
+    "gender": null,
+    "variantDimensions": [
+      {
+        "dimensionId": "color",
+        "name": "Color",
+        "options": [
+          {
+            "variantOptionId": 5862,
+            "variantOptionText": "Grey"
+          },
+          {
+            "variantOptionId": 7110,
+            "variantOptionText": "White"
+          }
+        ]
+      }
+    ],
+    "variantImages": [
+      {
+        "variantOptionId": 5862,
+        "variantOptionText": "Grey",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      },
+      {
+        "variantOptionId": 7110,
+        "variantOptionText": "White",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      }
+    ],
+    "variantCombinations": [
+      {
+        "sku": "sku-6043",
+        "subStyle": "sub-7043",
+        "shopProductSku": "GREY46",
+        "stock": 9,
+        "dpPrice": 1952,
+        "mrp": 2851,
+        "sellingPrice": 2851,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 0,
+        "commissionAmount": 899,
+        "options": [
+          {
+            "variantOptionId": 5862,
+            "variantOptionText": "Grey"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6043",
+        "subStyle": "sub-7043",
+        "shopProductSku": "WHIT46",
+        "stock": 14,
+        "dpPrice": 1952,
+        "mrp": 2851,
+        "sellingPrice": 2851,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 0,
+        "commissionAmount": 899,
+        "options": [
+          {
+            "variantOptionId": 7110,
+            "variantOptionText": "White"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      }
+    ],
+    "description": "Mosquito Killers bancoff #46 available at DX D. Category: Mosquito Killers.",
+    "specification": "Brand: bancoff. Category: Mosquito Killers.",
+    "hasEmi": "Y",
+    "isReturnable": "Y",
+    "returnDuration": 15,
+    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
+    "sizeChartId": 344,
+    "warrantyTypeId": 5,
+    "warrantyPeriodId": 15,
+    "warrantyPolicy": "Brand Warranty - 10 Years.",
+    "packageWeight": 0.88,
+    "packageLength": 1.49,
+    "packageWidth": 0.39,
+    "packageHeight": 1.53,
+    "productUrl": "mosquito-killers-46",
+    "videoUrl": "",
+    "metaTitle": "Mosquito Killers bancoff #46",
+    "metaKeywords": "Mosquito Killers, bancoff",
+    "metaDescription": "Buy Mosquito Killers bancoff #46 online at DX D.",
+    "ogType": "product",
+    "ogTitle": "Mosquito Killers bancoff #46",
+    "ogUrl": "mosquito-killers-46",
+    "ogDescription": "Buy Mosquito Killers bancoff #46 online at DX D.",
+    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+    "createdBy": "A A Momin",
+    "createdAt": "2026-04-04T09:50",
+    "updatedBy": "B B Momin",
+    "updatedAt": "2026-04-04T09:50"
+  },
+  {
+    "productId": 47,
+    "productName": "Fragrance Ajnur #47",
+    "categoryId": 493,
+    "unit": "psc",
+    "shopId": 63,
+    "displayOrder": "47",
+    "thumbnailImages": [
+      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
+      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
+    ],
+    "brandId": 549,
+    "strapMaterial": null,
+    "fitType": null,
+    "gender": null,
+    "variantDimensions": [
+      {
+        "dimensionId": "color",
+        "name": "Color",
+        "options": [
+          {
+            "variantOptionId": 9167,
+            "variantOptionText": "Perfume Box Navy Blue"
+          },
+          {
+            "variantOptionId": 7454,
+            "variantOptionText": "Common Color"
+          }
+        ]
+      }
+    ],
+    "variantImages": [
+      {
+        "variantOptionId": 9167,
+        "variantOptionText": "Perfume Box Navy Blue",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      },
+      {
+        "variantOptionId": 7454,
+        "variantOptionText": "Common Color",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      }
+    ],
+    "variantCombinations": [
+      {
+        "sku": "sku-6044",
+        "subStyle": "sub-7044",
+        "shopProductSku": "PERF47",
+        "stock": 11,
+        "dpPrice": 735,
+        "mrp": 1052,
+        "sellingPrice": 1052,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 0,
+        "commissionAmount": 317,
+        "options": [
+          {
+            "variantOptionId": 9167,
+            "variantOptionText": "Perfume Box Navy Blue"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6044",
+        "subStyle": "sub-7044",
+        "shopProductSku": "COMM47",
+        "stock": 62,
+        "dpPrice": 735,
+        "mrp": 1052,
+        "sellingPrice": 1052,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 0,
+        "commissionAmount": 317,
+        "options": [
+          {
+            "variantOptionId": 7454,
+            "variantOptionText": "Common Color"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      }
+    ],
+    "description": "Fragrance Ajnur #47 available at DX D. Category: Fragrance.",
+    "specification": "Brand: Ajnur. Category: Fragrance.",
+    "hasEmi": "Y",
+    "isReturnable": "Y",
+    "returnDuration": 15,
+    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
+    "sizeChartId": 341,
+    "warrantyTypeId": 5,
+    "warrantyPeriodId": 1,
+    "warrantyPolicy": "Brand Warranty - 1 Month.",
+    "packageWeight": 0.88,
+    "packageLength": 1.51,
+    "packageWidth": 1.45,
+    "packageHeight": 0.57,
+    "productUrl": "fragrance-47",
+    "videoUrl": "",
+    "metaTitle": "Fragrance Ajnur #47",
+    "metaKeywords": "Fragrance, Ajnur",
+    "metaDescription": "Buy Fragrance Ajnur #47 online at DX D.",
+    "ogType": "product",
+    "ogTitle": "Fragrance Ajnur #47",
+    "ogUrl": "fragrance-47",
+    "ogDescription": "Buy Fragrance Ajnur #47 online at DX D.",
+    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+    "createdBy": "A A Momin",
+    "createdAt": "2026-04-04T09:50",
+    "updatedBy": "B B Momin",
+    "updatedAt": "2026-04-04T09:50"
+  },
+  {
+    "productId": 48,
+    "productName": "Electric Grill  #48",
+    "categoryId": 513,
+    "unit": "set",
+    "shopId": 59,
+    "displayOrder": "48",
+    "thumbnailImages": [
+      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
+      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
+    ],
+    "brandId": null,
+    "strapMaterial": null,
+    "fitType": null,
+    "gender": null,
+    "variantDimensions": [
+      {
+        "dimensionId": "color",
+        "name": "Color",
+        "options": [
+          {
+            "variantOptionId": 8010,
+            "variantOptionText": "Black"
+          }
+        ]
+      }
+    ],
+    "variantImages": [
+      {
+        "variantOptionId": 8010,
+        "variantOptionText": "Black",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      }
+    ],
+    "variantCombinations": [
+      {
+        "sku": "sku-6045",
+        "subStyle": "sub-7045",
+        "shopProductSku": "BLAC48",
+        "stock": 21,
+        "dpPrice": 2644,
+        "mrp": 3690,
+        "sellingPrice": 3175,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 515,
+        "commissionAmount": 531,
+        "options": [
+          {
+            "variantOptionId": 8010,
+            "variantOptionText": "Black"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      }
+    ],
+    "description": "Electric Grill  #48 available at JBF Traders. Category: Electric Grill.",
+    "specification": "Brand: Generic. Category: Electric Grill.",
+    "hasEmi": "Y",
+    "isReturnable": "N",
+    "returnDuration": 15,
+    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
+    "sizeChartId": 361,
+    "warrantyTypeId": 1,
+    "warrantyPeriodId": 22,
+    "warrantyPolicy": "Local Seller Warranty - 3 years.",
+    "packageWeight": 0.64,
+    "packageLength": 0.82,
+    "packageWidth": 1.09,
+    "packageHeight": 0.45,
+    "productUrl": "electric-grill-48",
+    "videoUrl": "",
+    "metaTitle": "Electric Grill  #48",
+    "metaKeywords": "Electric Grill,",
+    "metaDescription": "Buy Electric Grill  #48 online at JBF Traders.",
+    "ogType": "product",
+    "ogTitle": "Electric Grill  #48",
+    "ogUrl": "electric-grill-48",
+    "ogDescription": "Buy Electric Grill  #48 online at JBF Traders.",
+    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+    "createdBy": "A A Momin",
+    "createdAt": "2026-04-04T09:50",
+    "updatedBy": "B B Momin",
+    "updatedAt": "2026-04-04T09:50"
+  },
+  {
+    "productId": 49,
+    "productName": "Girls 3 Pcs Anker #49",
+    "categoryId": 75,
+    "unit": "set",
+    "shopId": 85,
+    "displayOrder": "49",
+    "thumbnailImages": [
+      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
+      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
+    ],
+    "brandId": 185,
+    "strapMaterial": null,
+    "fitType": "Regular",
+    "gender": "female",
+    "variantDimensions": [
+      {
+        "dimensionId": "color",
+        "name": "Color",
+        "options": [
+          {
+            "variantOptionId": 1381,
+            "variantOptionText": "Light green"
+          },
+          {
+            "variantOptionId": 5918,
+            "variantOptionText": "Light Orange"
+          }
+        ]
+      },
+      {
+        "dimensionId": "size",
+        "name": "Size",
+        "options": [
+          {
+            "variantOptionId": 1383,
+            "variantOptionText": "3/4 Y"
+          },
+          {
+            "variantOptionId": 1384,
+            "variantOptionText": "4/5 Y"
+          }
+        ]
+      }
+    ],
+    "variantImages": [
+      {
+        "variantOptionId": 1381,
+        "variantOptionText": "Light green",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      },
+      {
+        "variantOptionId": 5918,
+        "variantOptionText": "Light Orange",
+        "images": [
+          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
+          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
+          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
+        ]
+      }
+    ],
+    "variantCombinations": [
+      {
+        "sku": "sku-6046",
+        "subStyle": "sub-7046",
+        "shopProductSku": "LIGH3-4-49",
+        "stock": 24,
+        "dpPrice": 2884,
+        "mrp": 4155,
+        "sellingPrice": 4155,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 0,
+        "commissionAmount": 1271,
+        "options": [
+          {
+            "variantOptionId": 1381,
+            "variantOptionText": "Light green"
+          },
+          {
+            "variantOptionId": 1383,
+            "variantOptionText": "3/4 Y"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6046",
+        "subStyle": "sub-7046",
+        "shopProductSku": "LIGH4-5-49",
+        "stock": 64,
+        "dpPrice": 2884,
+        "mrp": 4155,
+        "sellingPrice": 4155,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 0,
+        "commissionAmount": 1271,
+        "options": [
+          {
+            "variantOptionId": 1381,
+            "variantOptionText": "Light green"
+          },
+          {
+            "variantOptionId": 1384,
+            "variantOptionText": "4/5 Y"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6046",
+        "subStyle": "sub-7046",
+        "shopProductSku": "LIGH3-4-49X",
+        "stock": 63,
+        "dpPrice": 2884,
+        "mrp": 4155,
+        "sellingPrice": 4155,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 0,
+        "commissionAmount": 1271,
+        "options": [
+          {
+            "variantOptionId": 5918,
+            "variantOptionText": "Light Orange"
+          },
+          {
+            "variantOptionId": 1383,
+            "variantOptionText": "3/4 Y"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      },
+      {
+        "sku": "sku-6046",
+        "subStyle": "sub-7046",
+        "shopProductSku": "LIGH4-5-49X",
+        "stock": 100,
+        "dpPrice": 2884,
+        "mrp": 4155,
+        "sellingPrice": 4155,
+        "startDate": "2026-04-04T09:50",
+        "endDate": "2026-10-04T09:50",
+        "burnAmount": 0,
+        "commissionAmount": 1271,
+        "options": [
+          {
+            "variantOptionId": 5918,
+            "variantOptionText": "Light Orange"
+          },
+          {
+            "variantOptionId": 1384,
+            "variantOptionText": "4/5 Y"
+          }
+        ],
+        "inventoryTypeId": 1,
+        "status": "Y"
+      }
+    ],
+    "description": "Girls 3 Pcs Anker #49 available at FESTIVE. Category: Girls 3 Pcs.",
+    "specification": "Brand: Anker. Category: Girls 3 Pcs.",
+    "hasEmi": "N",
+    "isReturnable": "Y",
+    "returnDuration": 15,
+    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
+    "sizeChartId": 361,
+    "warrantyTypeId": 2,
+    "warrantyPeriodId": 14,
+    "warrantyPolicy": "Non-local Warranty - 24 Months.",
+    "packageWeight": 1.33,
+    "packageLength": 0.87,
+    "packageWidth": 0.89,
+    "packageHeight": 0.63,
+    "productUrl": "girls-3-pcs-49",
+    "videoUrl": "",
+    "metaTitle": "Girls 3 Pcs Anker #49",
+    "metaKeywords": "Girls 3 Pcs, Anker",
+    "metaDescription": "Buy Girls 3 Pcs Anker #49 online at FESTIVE.",
+    "ogType": "product",
+    "ogTitle": "Girls 3 Pcs Anker #49",
+    "ogUrl": "girls-3-pcs-49",
+    "ogDescription": "Buy Girls 3 Pcs Anker #49 online at FESTIVE.",
+    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
+    "createdBy": "A A Momin",
+    "createdAt": "2026-04-04T09:50",
+    "updatedBy": "B B Momin",
+    "updatedAt": "2026-04-04T09:50"
+  },
+  {
+    "productId": 50,
+    "productName": "Kettle & Flask 1MORE #50",
+    "categoryId": 193,
+    "unit": "psc",
+    "shopId": 66,
+    "displayOrder": "50",
     "thumbnailImages": [
       "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
       "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -8992,34 +7400,20 @@ export const products = [
         "name": "Color",
         "options": [
           {
-            "variantOptionId": 1589,
-            "variantOptionText": "Mist Purple"
+            "variantOptionId": 5307,
+            "variantOptionText": "Blue"
           },
           {
-            "variantOptionId": 139,
-            "variantOptionText": "Dark Olive"
-          }
-        ]
-      },
-      {
-        "dimensionId": "size",
-        "name": "Size",
-        "options": [
-          {
-            "variantOptionId": 1856,
-            "variantOptionText": "20"
-          },
-          {
-            "variantOptionId": 1935,
-            "variantOptionText": "16/17"
+            "variantOptionId": 8814,
+            "variantOptionText": "Pink"
           }
         ]
       }
     ],
     "variantImages": [
       {
-        "variantOptionId": 1589,
-        "variantOptionText": "Mist Purple",
+        "variantOptionId": 5307,
+        "variantOptionText": "Blue",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -9027,8 +7421,8 @@ export const products = [
         ]
       },
       {
-        "variantOptionId": 139,
-        "variantOptionText": "Dark Olive",
+        "variantOptionId": 8814,
+        "variantOptionText": "Pink",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -9038,129 +7432,71 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6043",
-        "subStyle": "sub-7043",
-        "shopProductSku": "MIST2046",
-        "stock": 89,
-        "dpPrice": 2954,
-        "mrp": 4306,
-        "sellingPrice": 3807,
+        "sku": "sku-6047",
+        "subStyle": "sub-7047",
+        "shopProductSku": "BLUE50",
+        "stock": 78,
+        "dpPrice": 1277,
+        "mrp": 1702,
+        "sellingPrice": 1612,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 250,
-        "commissionAmount": 295,
+        "burnAmount": 90,
+        "commissionAmount": 335,
         "options": [
           {
-            "variantOptionId": 1589,
-            "variantOptionText": "Mist Purple"
-          },
-          {
-            "variantOptionId": 1856,
-            "variantOptionText": "20"
+            "variantOptionId": 5307,
+            "variantOptionText": "Blue"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       },
       {
-        "sku": "sku-6043",
-        "subStyle": "sub-7043",
-        "shopProductSku": "MIST16-146",
-        "stock": 43,
-        "dpPrice": 2954,
-        "mrp": 4306,
-        "sellingPrice": 3807,
+        "sku": "sku-6047",
+        "subStyle": "sub-7047",
+        "shopProductSku": "PINK50",
+        "stock": 26,
+        "dpPrice": 1277,
+        "mrp": 1702,
+        "sellingPrice": 1612,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 250,
-        "commissionAmount": 295,
+        "burnAmount": 90,
+        "commissionAmount": 335,
         "options": [
           {
-            "variantOptionId": 1589,
-            "variantOptionText": "Mist Purple"
-          },
-          {
-            "variantOptionId": 1935,
-            "variantOptionText": "16/17"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6043",
-        "subStyle": "sub-7043",
-        "shopProductSku": "DARK2046",
-        "stock": 98,
-        "dpPrice": 2954,
-        "mrp": 4306,
-        "sellingPrice": 3807,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 250,
-        "commissionAmount": 295,
-        "options": [
-          {
-            "variantOptionId": 139,
-            "variantOptionText": "Dark Olive"
-          },
-          {
-            "variantOptionId": 1856,
-            "variantOptionText": "20"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6043",
-        "subStyle": "sub-7043",
-        "shopProductSku": "DARK16-146",
-        "stock": 23,
-        "dpPrice": 2954,
-        "mrp": 4306,
-        "sellingPrice": 3807,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 250,
-        "commissionAmount": 295,
-        "options": [
-          {
-            "variantOptionId": 139,
-            "variantOptionText": "Dark Olive"
-          },
-          {
-            "variantOptionId": 1935,
-            "variantOptionText": "16/17"
+            "variantOptionId": 8814,
+            "variantOptionText": "Pink"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       }
     ],
-    "description": "Table Runners 1MORE #46 available at Fashion Field. Category: Table Runners.",
-    "specification": "Brand: 1MORE. Category: Table Runners.",
+    "description": "Kettle & Flask 1MORE #50 available at REGAL INCORPORATION. Category: Kettle & Flask.",
+    "specification": "Brand: 1MORE. Category: Kettle & Flask.",
     "hasEmi": "Y",
     "isReturnable": "Y",
     "returnDuration": 15,
     "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 352,
-    "warrantyTypeId": 2,
-    "warrantyPeriodId": 16,
-    "warrantyPolicy": "Non-local Warranty - 5 Years.",
-    "packageWeight": 1.16,
-    "packageLength": 1.49,
-    "packageWidth": 1.28,
-    "packageHeight": 0.4,
-    "productUrl": "table-runners-46",
+    "sizeChartId": 342,
+    "warrantyTypeId": 1,
+    "warrantyPeriodId": 3,
+    "warrantyPolicy": "Local Seller Warranty - 3 Month.",
+    "packageWeight": 1.41,
+    "packageLength": 0.53,
+    "packageWidth": 0.78,
+    "packageHeight": 1.15,
+    "productUrl": "kettle-flask-50",
     "videoUrl": "",
-    "metaTitle": "Table Runners 1MORE #46",
-    "metaKeywords": "Table Runners, 1MORE",
-    "metaDescription": "Buy Table Runners 1MORE #46 online at Fashion Field.",
+    "metaTitle": "Kettle & Flask 1MORE #50",
+    "metaKeywords": "Kettle & Flask, 1MORE",
+    "metaDescription": "Buy Kettle & Flask 1MORE #50 online at REGAL INCORPORATION.",
     "ogType": "product",
-    "ogTitle": "Table Runners 1MORE #46",
-    "ogUrl": "table-runners-46",
-    "ogDescription": "Buy Table Runners 1MORE #46 online at Fashion Field.",
+    "ogTitle": "Kettle & Flask 1MORE #50",
+    "ogUrl": "kettle-flask-50",
+    "ogDescription": "Buy Kettle & Flask 1MORE #50 online at REGAL INCORPORATION.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
@@ -9168,410 +7504,12 @@ export const products = [
     "updatedAt": "2026-04-04T09:50"
   },
   {
-    "productId": 47,
-    "productName": "Frock & Dungaree  #47",
-    "categoryId": 138,
+    "productId": 51,
+    "productName": "Womens Tees and Tank  #51",
+    "categoryId": 37,
     "unit": "psc",
-    "shopId": 64,
-    "displayOrder": "47",
-    "thumbnailImages": [
-      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
-      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
-    ],
-    "brandId": null,
-    "strapMaterial": null,
-    "fitType": "Regular",
-    "gender": "unisex",
-    "variantDimensions": [
-      {
-        "dimensionId": "attr-0",
-        "name": "Primary Option",
-        "options": [
-          {
-            "variantOptionId": 2316,
-            "variantOptionText": "Embroidery"
-          },
-          {
-            "variantOptionId": 2318,
-            "variantOptionText": "Block"
-          }
-        ]
-      },
-      {
-        "dimensionId": "attr-1",
-        "name": "Secondary Option",
-        "options": [
-          {
-            "variantOptionId": 4022,
-            "variantOptionText": "Plam"
-          },
-          {
-            "variantOptionId": 3455,
-            "variantOptionText": "Lavender"
-          }
-        ]
-      }
-    ],
-    "variantImages": [
-      {
-        "variantOptionId": 2316,
-        "variantOptionText": "Embroidery",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      },
-      {
-        "variantOptionId": 2318,
-        "variantOptionText": "Block",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      }
-    ],
-    "variantCombinations": [
-      {
-        "sku": "sku-6044",
-        "subStyle": "sub-7044",
-        "shopProductSku": "EMBRPLAM47",
-        "stock": 18,
-        "dpPrice": 433,
-        "mrp": 617,
-        "sellingPrice": 558,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 30,
-        "commissionAmount": 43,
-        "options": [
-          {
-            "variantOptionId": 2316,
-            "variantOptionText": "Embroidery"
-          },
-          {
-            "variantOptionId": 4022,
-            "variantOptionText": "Plam"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6044",
-        "subStyle": "sub-7044",
-        "shopProductSku": "EMBRLAVE47",
-        "stock": 23,
-        "dpPrice": 433,
-        "mrp": 617,
-        "sellingPrice": 558,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 30,
-        "commissionAmount": 43,
-        "options": [
-          {
-            "variantOptionId": 2316,
-            "variantOptionText": "Embroidery"
-          },
-          {
-            "variantOptionId": 3455,
-            "variantOptionText": "Lavender"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6044",
-        "subStyle": "sub-7044",
-        "shopProductSku": "BLOCPLAM47",
-        "stock": 83,
-        "dpPrice": 433,
-        "mrp": 617,
-        "sellingPrice": 558,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 30,
-        "commissionAmount": 43,
-        "options": [
-          {
-            "variantOptionId": 2318,
-            "variantOptionText": "Block"
-          },
-          {
-            "variantOptionId": 4022,
-            "variantOptionText": "Plam"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6044",
-        "subStyle": "sub-7044",
-        "shopProductSku": "BLOCLAVE47",
-        "stock": 86,
-        "dpPrice": 433,
-        "mrp": 617,
-        "sellingPrice": 558,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 30,
-        "commissionAmount": 43,
-        "options": [
-          {
-            "variantOptionId": 2318,
-            "variantOptionText": "Block"
-          },
-          {
-            "variantOptionId": 3455,
-            "variantOptionText": "Lavender"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      }
-    ],
-    "description": "Frock & Dungaree  #47 available at TP-Link Bangladesh. Category: Frock & Dungaree.",
-    "specification": "Brand: Generic. Category: Frock & Dungaree.",
-    "hasEmi": "N",
-    "isReturnable": "Y",
-    "returnDuration": 15,
-    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 356,
-    "warrantyTypeId": 2,
-    "warrantyPeriodId": 19,
-    "warrantyPolicy": "Non-local Warranty - 7 Years.",
-    "packageWeight": 1.3,
-    "packageLength": 0.49,
-    "packageWidth": 0.6,
-    "packageHeight": 0.82,
-    "productUrl": "frock-dungaree-47",
-    "videoUrl": "",
-    "metaTitle": "Frock & Dungaree  #47",
-    "metaKeywords": "Frock & Dungaree,",
-    "metaDescription": "Buy Frock & Dungaree  #47 online at TP-Link Bangladesh.",
-    "ogType": "product",
-    "ogTitle": "Frock & Dungaree  #47",
-    "ogUrl": "frock-dungaree-47",
-    "ogDescription": "Buy Frock & Dungaree  #47 online at TP-Link Bangladesh.",
-    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-    "createdBy": "A A Momin",
-    "createdAt": "2026-04-04T09:50",
-    "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
-  },
-  {
-    "productId": 48,
-    "productName": "Women  #48",
-    "categoryId": 234,
-    "unit": "pair",
-    "shopId": 49,
-    "displayOrder": "48",
-    "thumbnailImages": [
-      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
-      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
-    ],
-    "brandId": null,
-    "strapMaterial": null,
-    "fitType": null,
-    "gender": null,
-    "variantDimensions": [
-      {
-        "dimensionId": "attr-0",
-        "name": "Primary Option",
-        "options": [
-          {
-            "variantOptionId": 3740,
-            "variantOptionText": "Red"
-          },
-          {
-            "variantOptionId": 3738,
-            "variantOptionText": "Black"
-          }
-        ]
-      },
-      {
-        "dimensionId": "attr-1",
-        "name": "Secondary Option",
-        "options": [
-          {
-            "variantOptionId": 4271,
-            "variantOptionText": "Water Resistant"
-          },
-          {
-            "variantOptionId": 3743,
-            "variantOptionText": "Waterproof"
-          }
-        ]
-      }
-    ],
-    "variantImages": [
-      {
-        "variantOptionId": 3740,
-        "variantOptionText": "Red",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      },
-      {
-        "variantOptionId": 3738,
-        "variantOptionText": "Black",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      }
-    ],
-    "variantCombinations": [
-      {
-        "sku": "sku-6045",
-        "subStyle": "sub-7045",
-        "shopProductSku": "REDWATE48",
-        "stock": 79,
-        "dpPrice": 2526,
-        "mrp": 3150,
-        "sellingPrice": 2875,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 138,
-        "commissionAmount": 253,
-        "options": [
-          {
-            "variantOptionId": 3740,
-            "variantOptionText": "Red"
-          },
-          {
-            "variantOptionId": 4271,
-            "variantOptionText": "Water Resistant"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6045",
-        "subStyle": "sub-7045",
-        "shopProductSku": "REDWATE48X",
-        "stock": 83,
-        "dpPrice": 2526,
-        "mrp": 3150,
-        "sellingPrice": 2875,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 138,
-        "commissionAmount": 253,
-        "options": [
-          {
-            "variantOptionId": 3740,
-            "variantOptionText": "Red"
-          },
-          {
-            "variantOptionId": 3743,
-            "variantOptionText": "Waterproof"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6045",
-        "subStyle": "sub-7045",
-        "shopProductSku": "BLACWATE48",
-        "stock": 12,
-        "dpPrice": 2526,
-        "mrp": 3150,
-        "sellingPrice": 2875,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 138,
-        "commissionAmount": 253,
-        "options": [
-          {
-            "variantOptionId": 3738,
-            "variantOptionText": "Black"
-          },
-          {
-            "variantOptionId": 4271,
-            "variantOptionText": "Water Resistant"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6045",
-        "subStyle": "sub-7045",
-        "shopProductSku": "BLACWATE48X",
-        "stock": 53,
-        "dpPrice": 2526,
-        "mrp": 3150,
-        "sellingPrice": 2875,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 138,
-        "commissionAmount": 253,
-        "options": [
-          {
-            "variantOptionId": 3738,
-            "variantOptionText": "Black"
-          },
-          {
-            "variantOptionId": 3743,
-            "variantOptionText": "Waterproof"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      }
-    ],
-    "description": "Women  #48 available at Cheetah. Category: Women.",
-    "specification": "Brand: Generic. Category: Women.",
-    "hasEmi": "N",
-    "isReturnable": "Y",
-    "returnDuration": 15,
-    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 344,
-    "warrantyTypeId": 4,
-    "warrantyPeriodId": 14,
-    "warrantyPolicy": "International Manufacturer Warranty - 24 Months.",
-    "packageWeight": 1.65,
-    "packageLength": 0.62,
-    "packageWidth": 0.95,
-    "packageHeight": 0.68,
-    "productUrl": "women-48",
-    "videoUrl": "",
-    "metaTitle": "Women  #48",
-    "metaKeywords": "Women,",
-    "metaDescription": "Buy Women  #48 online at Cheetah.",
-    "ogType": "product",
-    "ogTitle": "Women  #48",
-    "ogUrl": "women-48",
-    "ogDescription": "Buy Women  #48 online at Cheetah.",
-    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-    "createdBy": "A A Momin",
-    "createdAt": "2026-04-04T09:50",
-    "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
-  },
-  {
-    "productId": 49,
-    "productName": "Mens Overcoat  #49",
-    "categoryId": 533,
-    "unit": "pair",
-    "shopId": 74,
-    "displayOrder": "49",
+    "shopId": 71,
+    "displayOrder": "51",
     "thumbnailImages": [
       "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
       "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -9582,41 +7520,41 @@ export const products = [
     "brandId": null,
     "strapMaterial": null,
     "fitType": "Loose",
-    "gender": "unisex",
+    "gender": "female",
     "variantDimensions": [
       {
-        "dimensionId": "attr-0",
-        "name": "Primary Option",
+        "dimensionId": "color",
+        "name": "Color",
         "options": [
           {
-            "variantOptionId": 8465,
-            "variantOptionText": "White & Brown Check"
+            "variantOptionId": 971,
+            "variantOptionText": "Maroon"
           },
           {
-            "variantOptionId": 8464,
-            "variantOptionText": "Black"
+            "variantOptionId": 6874,
+            "variantOptionText": "Purple"
           }
         ]
       },
       {
-        "dimensionId": "attr-1",
-        "name": "Secondary Option",
+        "dimensionId": "size",
+        "name": "Size",
         "options": [
           {
-            "variantOptionId": 8478,
-            "variantOptionText": "Regular Fit"
+            "variantOptionId": 981,
+            "variantOptionText": "XXL"
           },
           {
-            "variantOptionId": 8479,
-            "variantOptionText": "Over-sized"
+            "variantOptionId": 980,
+            "variantOptionText": "XL"
           }
         ]
       }
     ],
     "variantImages": [
       {
-        "variantOptionId": 8465,
-        "variantOptionText": "White & Brown Check",
+        "variantOptionId": 971,
+        "variantOptionText": "Maroon",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -9624,8 +7562,8 @@ export const products = [
         ]
       },
       {
-        "variantOptionId": 8464,
-        "variantOptionText": "Black",
+        "variantOptionId": 6874,
+        "variantOptionText": "Purple",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -9635,129 +7573,129 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6046",
-        "subStyle": "sub-7046",
-        "shopProductSku": "WHITREGU49",
-        "stock": 60,
-        "dpPrice": 2423,
-        "mrp": 3566,
-        "sellingPrice": 3253,
+        "sku": "sku-6048",
+        "subStyle": "sub-7048",
+        "shopProductSku": "MAROXXL51",
+        "stock": 22,
+        "dpPrice": 2511,
+        "mrp": 3171,
+        "sellingPrice": 2918,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 157,
-        "commissionAmount": 242,
+        "burnAmount": 253,
+        "commissionAmount": 407,
         "options": [
           {
-            "variantOptionId": 8465,
-            "variantOptionText": "White & Brown Check"
+            "variantOptionId": 971,
+            "variantOptionText": "Maroon"
           },
           {
-            "variantOptionId": 8478,
-            "variantOptionText": "Regular Fit"
+            "variantOptionId": 981,
+            "variantOptionText": "XXL"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       },
       {
-        "sku": "sku-6046",
-        "subStyle": "sub-7046",
-        "shopProductSku": "WHITOVER49",
-        "stock": 25,
-        "dpPrice": 2423,
-        "mrp": 3566,
-        "sellingPrice": 3253,
+        "sku": "sku-6048",
+        "subStyle": "sub-7048",
+        "shopProductSku": "MAROXL51",
+        "stock": 96,
+        "dpPrice": 2511,
+        "mrp": 3171,
+        "sellingPrice": 2918,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 157,
-        "commissionAmount": 242,
+        "burnAmount": 253,
+        "commissionAmount": 407,
         "options": [
           {
-            "variantOptionId": 8465,
-            "variantOptionText": "White & Brown Check"
+            "variantOptionId": 971,
+            "variantOptionText": "Maroon"
           },
           {
-            "variantOptionId": 8479,
-            "variantOptionText": "Over-sized"
+            "variantOptionId": 980,
+            "variantOptionText": "XL"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       },
       {
-        "sku": "sku-6046",
-        "subStyle": "sub-7046",
-        "shopProductSku": "BLACREGU49",
-        "stock": 35,
-        "dpPrice": 2423,
-        "mrp": 3566,
-        "sellingPrice": 3253,
+        "sku": "sku-6048",
+        "subStyle": "sub-7048",
+        "shopProductSku": "PURPXXL51",
+        "stock": 96,
+        "dpPrice": 2511,
+        "mrp": 3171,
+        "sellingPrice": 2918,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 157,
-        "commissionAmount": 242,
+        "burnAmount": 253,
+        "commissionAmount": 407,
         "options": [
           {
-            "variantOptionId": 8464,
-            "variantOptionText": "Black"
+            "variantOptionId": 6874,
+            "variantOptionText": "Purple"
           },
           {
-            "variantOptionId": 8478,
-            "variantOptionText": "Regular Fit"
+            "variantOptionId": 981,
+            "variantOptionText": "XXL"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       },
       {
-        "sku": "sku-6046",
-        "subStyle": "sub-7046",
-        "shopProductSku": "BLACOVER49",
-        "stock": 56,
-        "dpPrice": 2423,
-        "mrp": 3566,
-        "sellingPrice": 3253,
+        "sku": "sku-6048",
+        "subStyle": "sub-7048",
+        "shopProductSku": "PURPXL51",
+        "stock": 41,
+        "dpPrice": 2511,
+        "mrp": 3171,
+        "sellingPrice": 2918,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 157,
-        "commissionAmount": 242,
+        "burnAmount": 253,
+        "commissionAmount": 407,
         "options": [
           {
-            "variantOptionId": 8464,
-            "variantOptionText": "Black"
+            "variantOptionId": 6874,
+            "variantOptionText": "Purple"
           },
           {
-            "variantOptionId": 8479,
-            "variantOptionText": "Over-sized"
+            "variantOptionId": 980,
+            "variantOptionText": "XL"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       }
     ],
-    "description": "Mens Overcoat  #49 available at Lunettes Bangladesh. Category: Mens Overcoat.",
-    "specification": "Brand: Generic. Category: Mens Overcoat.",
+    "description": "Womens Tees and Tank  #51 available at Urbaland. Category: Womens Tees and Tank.",
+    "specification": "Brand: Generic. Category: Womens Tees and Tank.",
     "hasEmi": "Y",
     "isReturnable": "Y",
     "returnDuration": 15,
     "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 352,
-    "warrantyTypeId": 3,
-    "warrantyPeriodId": 4,
-    "warrantyPolicy": "International Seller Warranty - 4 Month.",
-    "packageWeight": 1.45,
-    "packageLength": 1.7,
-    "packageWidth": 0.59,
-    "packageHeight": 1.27,
-    "productUrl": "mens-overcoat-49",
+    "sizeChartId": 365,
+    "warrantyTypeId": 1,
+    "warrantyPeriodId": 5,
+    "warrantyPolicy": "Local Seller Warranty - 5 Month.",
+    "packageWeight": 1.38,
+    "packageLength": 0.58,
+    "packageWidth": 0.3,
+    "packageHeight": 0.68,
+    "productUrl": "womens-tees-and-tank-51",
     "videoUrl": "",
-    "metaTitle": "Mens Overcoat  #49",
-    "metaKeywords": "Mens Overcoat,",
-    "metaDescription": "Buy Mens Overcoat  #49 online at Lunettes Bangladesh.",
+    "metaTitle": "Womens Tees and Tank  #51",
+    "metaKeywords": "Womens Tees and Tank,",
+    "metaDescription": "Buy Womens Tees and Tank  #51 online at Urbaland.",
     "ogType": "product",
-    "ogTitle": "Mens Overcoat  #49",
-    "ogUrl": "mens-overcoat-49",
-    "ogDescription": "Buy Mens Overcoat  #49 online at Lunettes Bangladesh.",
+    "ogTitle": "Womens Tees and Tank  #51",
+    "ogUrl": "womens-tees-and-tank-51",
+    "ogDescription": "Buy Womens Tees and Tank  #51 online at Urbaland.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
@@ -9765,12 +7703,12 @@ export const products = [
     "updatedAt": "2026-04-04T09:50"
   },
   {
-    "productId": 50,
-    "productName": "Womens Bag & Purse  #50",
-    "categoryId": 110,
-    "unit": "set",
-    "shopId": 90,
-    "displayOrder": "50",
+    "productId": 52,
+    "productName": "Charger & Cables Bagbdstore #52",
+    "categoryId": 248,
+    "unit": "psc",
+    "shopId": 99,
+    "displayOrder": "52",
     "thumbnailImages": [
       "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
       "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -9778,206 +7716,7 @@ export const products = [
       "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
       "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
     ],
-    "brandId": null,
-    "strapMaterial": "Metal",
-    "fitType": "Slim",
-    "gender": "female",
-    "variantDimensions": [
-      {
-        "dimensionId": "attr-0",
-        "name": "Primary Option",
-        "options": [
-          {
-            "variantOptionId": 1519,
-            "variantOptionText": "Brown"
-          },
-          {
-            "variantOptionId": 5418,
-            "variantOptionText": "Cream"
-          }
-        ]
-      },
-      {
-        "dimensionId": "attr-1",
-        "name": "Secondary Option",
-        "options": [
-          {
-            "variantOptionId": 5436,
-            "variantOptionText": "Cotton"
-          },
-          {
-            "variantOptionId": 7560,
-            "variantOptionText": "PU"
-          }
-        ]
-      }
-    ],
-    "variantImages": [
-      {
-        "variantOptionId": 1519,
-        "variantOptionText": "Brown",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      },
-      {
-        "variantOptionId": 5418,
-        "variantOptionText": "Cream",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      }
-    ],
-    "variantCombinations": [
-      {
-        "sku": "sku-6047",
-        "subStyle": "sub-7047",
-        "shopProductSku": "BROWCOTT50",
-        "stock": 83,
-        "dpPrice": 844,
-        "mrp": 1235,
-        "sellingPrice": 1062,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 87,
-        "commissionAmount": 84,
-        "options": [
-          {
-            "variantOptionId": 1519,
-            "variantOptionText": "Brown"
-          },
-          {
-            "variantOptionId": 5436,
-            "variantOptionText": "Cotton"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6047",
-        "subStyle": "sub-7047",
-        "shopProductSku": "BROWPU50",
-        "stock": 6,
-        "dpPrice": 844,
-        "mrp": 1235,
-        "sellingPrice": 1062,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 87,
-        "commissionAmount": 84,
-        "options": [
-          {
-            "variantOptionId": 1519,
-            "variantOptionText": "Brown"
-          },
-          {
-            "variantOptionId": 7560,
-            "variantOptionText": "PU"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6047",
-        "subStyle": "sub-7047",
-        "shopProductSku": "CREACOTT50",
-        "stock": 5,
-        "dpPrice": 844,
-        "mrp": 1235,
-        "sellingPrice": 1062,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 87,
-        "commissionAmount": 84,
-        "options": [
-          {
-            "variantOptionId": 5418,
-            "variantOptionText": "Cream"
-          },
-          {
-            "variantOptionId": 5436,
-            "variantOptionText": "Cotton"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6047",
-        "subStyle": "sub-7047",
-        "shopProductSku": "CREAPU50",
-        "stock": 33,
-        "dpPrice": 844,
-        "mrp": 1235,
-        "sellingPrice": 1062,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 87,
-        "commissionAmount": 84,
-        "options": [
-          {
-            "variantOptionId": 5418,
-            "variantOptionText": "Cream"
-          },
-          {
-            "variantOptionId": 7560,
-            "variantOptionText": "PU"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      }
-    ],
-    "description": "Womens Bag & Purse  #50 available at Dewan Electronics. Category: Womens Bag & Purse.",
-    "specification": "Brand: Generic. Category: Womens Bag & Purse.",
-    "hasEmi": "N",
-    "isReturnable": "Y",
-    "returnDuration": 15,
-    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 368,
-    "warrantyTypeId": 5,
-    "warrantyPeriodId": 22,
-    "warrantyPolicy": "Brand Warranty - 3 years.",
-    "packageWeight": 0.67,
-    "packageLength": 0.49,
-    "packageWidth": 0.72,
-    "packageHeight": 0.8,
-    "productUrl": "womens-bag-purse-50",
-    "videoUrl": "",
-    "metaTitle": "Womens Bag & Purse  #50",
-    "metaKeywords": "Womens Bag & Purse,",
-    "metaDescription": "Buy Womens Bag & Purse  #50 online at Dewan Electronics.",
-    "ogType": "product",
-    "ogTitle": "Womens Bag & Purse  #50",
-    "ogUrl": "womens-bag-purse-50",
-    "ogDescription": "Buy Womens Bag & Purse  #50 online at Dewan Electronics.",
-    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-    "createdBy": "A A Momin",
-    "createdAt": "2026-04-04T09:50",
-    "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
-  },
-  {
-    "productId": 51,
-    "productName": "Commuter Segment Captain BD #51",
-    "categoryId": 476,
-    "unit": "set",
-    "shopId": 48,
-    "displayOrder": "51",
-    "thumbnailImages": [
-      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
-      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
-    ],
-    "brandId": 604,
+    "brandId": 538,
     "strapMaterial": null,
     "fitType": null,
     "gender": null,
@@ -9987,34 +7726,20 @@ export const products = [
         "name": "Color",
         "options": [
           {
-            "variantOptionId": 281,
-            "variantOptionText": "Deep Black"
+            "variantOptionId": 3796,
+            "variantOptionText": "Black"
           },
           {
-            "variantOptionId": 121,
-            "variantOptionText": "Hot Pink"
-          }
-        ]
-      },
-      {
-        "dimensionId": "size",
-        "name": "Size",
-        "options": [
-          {
-            "variantOptionId": 1581,
-            "variantOptionText": "6-8Y"
-          },
-          {
-            "variantOptionId": 352,
-            "variantOptionText": "8 YEARS"
+            "variantOptionId": 5214,
+            "variantOptionText": "Orange"
           }
         ]
       }
     ],
     "variantImages": [
       {
-        "variantOptionId": 281,
-        "variantOptionText": "Deep Black",
+        "variantOptionId": 3796,
+        "variantOptionText": "Black",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -10022,207 +7747,8 @@ export const products = [
         ]
       },
       {
-        "variantOptionId": 121,
-        "variantOptionText": "Hot Pink",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      }
-    ],
-    "variantCombinations": [
-      {
-        "sku": "sku-6048",
-        "subStyle": "sub-7048",
-        "shopProductSku": "DEEP6-8Y51",
-        "stock": 26,
-        "dpPrice": 687,
-        "mrp": 967,
-        "sellingPrice": 823,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 72,
-        "commissionAmount": 69,
-        "options": [
-          {
-            "variantOptionId": 281,
-            "variantOptionText": "Deep Black"
-          },
-          {
-            "variantOptionId": 1581,
-            "variantOptionText": "6-8Y"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6048",
-        "subStyle": "sub-7048",
-        "shopProductSku": "DEEP8-YE51",
-        "stock": 62,
-        "dpPrice": 687,
-        "mrp": 967,
-        "sellingPrice": 823,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 72,
-        "commissionAmount": 69,
-        "options": [
-          {
-            "variantOptionId": 281,
-            "variantOptionText": "Deep Black"
-          },
-          {
-            "variantOptionId": 352,
-            "variantOptionText": "8 YEARS"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6048",
-        "subStyle": "sub-7048",
-        "shopProductSku": "HOT-6-8Y51",
-        "stock": 14,
-        "dpPrice": 687,
-        "mrp": 967,
-        "sellingPrice": 823,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 72,
-        "commissionAmount": 69,
-        "options": [
-          {
-            "variantOptionId": 121,
-            "variantOptionText": "Hot Pink"
-          },
-          {
-            "variantOptionId": 1581,
-            "variantOptionText": "6-8Y"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6048",
-        "subStyle": "sub-7048",
-        "shopProductSku": "HOT-8-YE51",
-        "stock": 62,
-        "dpPrice": 687,
-        "mrp": 967,
-        "sellingPrice": 823,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 72,
-        "commissionAmount": 69,
-        "options": [
-          {
-            "variantOptionId": 121,
-            "variantOptionText": "Hot Pink"
-          },
-          {
-            "variantOptionId": 352,
-            "variantOptionText": "8 YEARS"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      }
-    ],
-    "description": "Commuter Segment Captain BD #51 available at Vision. Category: Commuter Segment.",
-    "specification": "Brand: Captain BD. Category: Commuter Segment.",
-    "hasEmi": "Y",
-    "isReturnable": "N",
-    "returnDuration": 15,
-    "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 345,
-    "warrantyTypeId": 5,
-    "warrantyPeriodId": 1,
-    "warrantyPolicy": "Brand Warranty - 1 Month.",
-    "packageWeight": 0.97,
-    "packageLength": 0.86,
-    "packageWidth": 0.8,
-    "packageHeight": 0.32,
-    "productUrl": "commuter-segment-51",
-    "videoUrl": "",
-    "metaTitle": "Commuter Segment Captain BD #51",
-    "metaKeywords": "Commuter Segment, Captain BD",
-    "metaDescription": "Buy Commuter Segment Captain BD #51 online at Vision.",
-    "ogType": "product",
-    "ogTitle": "Commuter Segment Captain BD #51",
-    "ogUrl": "commuter-segment-51",
-    "ogDescription": "Buy Commuter Segment Captain BD #51 online at Vision.",
-    "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-    "createdBy": "A A Momin",
-    "createdAt": "2026-04-04T09:50",
-    "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
-  },
-  {
-    "productId": 52,
-    "productName": "Shoe AUKEY #52",
-    "categoryId": 159,
-    "unit": "pair",
-    "shopId": 82,
-    "displayOrder": "52",
-    "thumbnailImages": [
-      "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-      "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-      "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg",
-      "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
-      "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
-    ],
-    "brandId": 521,
-    "strapMaterial": null,
-    "fitType": "Loose",
-    "gender": "female",
-    "variantDimensions": [
-      {
-        "dimensionId": "attr-0",
-        "name": "Primary Option",
-        "options": [
-          {
-            "variantOptionId": 7194,
-            "variantOptionText": "White"
-          },
-          {
-            "variantOptionId": 7665,
-            "variantOptionText": "Blue"
-          }
-        ]
-      },
-      {
-        "dimensionId": "attr-1",
-        "name": "Secondary Option",
-        "options": [
-          {
-            "variantOptionId": 7164,
-            "variantOptionText": "30"
-          },
-          {
-            "variantOptionId": 7651,
-            "variantOptionText": "19"
-          }
-        ]
-      }
-    ],
-    "variantImages": [
-      {
-        "variantOptionId": 7194,
-        "variantOptionText": "White",
-        "images": [
-          "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
-          "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
-          "https://prod.saraemart.com/uploads/images/ba8cf1fa-442d-43f6-8128-6426053f1dad.jpg"
-        ]
-      },
-      {
-        "variantOptionId": 7665,
-        "variantOptionText": "Blue",
+        "variantOptionId": 5214,
+        "variantOptionText": "Orange",
         "images": [
           "https://prod.saraemart.com/uploads/images/e26107e8-992c-4d5f-845a-b3328a6a00c5.png",
           "https://prod.saraemart.com/uploads/images/979a4366-b217-43d0-a7f9-1245b8ae9eb4.png",
@@ -10234,48 +7760,19 @@ export const products = [
       {
         "sku": "sku-6049",
         "subStyle": "sub-7049",
-        "shopProductSku": "WHIT3052",
-        "stock": 84,
-        "dpPrice": 2053,
-        "mrp": 2544,
-        "sellingPrice": 2367,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 89,
-        "commissionAmount": 205,
-        "options": [
-          {
-            "variantOptionId": 7194,
-            "variantOptionText": "White"
-          },
-          {
-            "variantOptionId": 7164,
-            "variantOptionText": "30"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6049",
-        "subStyle": "sub-7049",
-        "shopProductSku": "WHIT1952",
+        "shopProductSku": "BLAC52",
         "stock": 10,
-        "dpPrice": 2053,
-        "mrp": 2544,
-        "sellingPrice": 2367,
+        "dpPrice": 2860,
+        "mrp": 3535,
+        "sellingPrice": 3093,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 89,
-        "commissionAmount": 205,
+        "burnAmount": 442,
+        "commissionAmount": 233,
         "options": [
           {
-            "variantOptionId": 7194,
-            "variantOptionText": "White"
-          },
-          {
-            "variantOptionId": 7651,
-            "variantOptionText": "19"
+            "variantOptionId": 3796,
+            "variantOptionText": "Black"
           }
         ],
         "inventoryTypeId": 1,
@@ -10284,77 +7781,48 @@ export const products = [
       {
         "sku": "sku-6049",
         "subStyle": "sub-7049",
-        "shopProductSku": "BLUE3052",
-        "stock": 88,
-        "dpPrice": 2053,
-        "mrp": 2544,
-        "sellingPrice": 2367,
+        "shopProductSku": "ORAN52",
+        "stock": 34,
+        "dpPrice": 2860,
+        "mrp": 3535,
+        "sellingPrice": 3093,
         "startDate": "2026-04-04T09:50",
         "endDate": "2026-10-04T09:50",
-        "burnAmount": 89,
-        "commissionAmount": 205,
+        "burnAmount": 442,
+        "commissionAmount": 233,
         "options": [
           {
-            "variantOptionId": 7665,
-            "variantOptionText": "Blue"
-          },
-          {
-            "variantOptionId": 7164,
-            "variantOptionText": "30"
-          }
-        ],
-        "inventoryTypeId": 1,
-        "status": "Y"
-      },
-      {
-        "sku": "sku-6049",
-        "subStyle": "sub-7049",
-        "shopProductSku": "BLUE1952",
-        "stock": 49,
-        "dpPrice": 2053,
-        "mrp": 2544,
-        "sellingPrice": 2367,
-        "startDate": "2026-04-04T09:50",
-        "endDate": "2026-10-04T09:50",
-        "burnAmount": 89,
-        "commissionAmount": 205,
-        "options": [
-          {
-            "variantOptionId": 7665,
-            "variantOptionText": "Blue"
-          },
-          {
-            "variantOptionId": 7651,
-            "variantOptionText": "19"
+            "variantOptionId": 5214,
+            "variantOptionText": "Orange"
           }
         ],
         "inventoryTypeId": 1,
         "status": "Y"
       }
     ],
-    "description": "Shoe AUKEY #52 available at Suitcase BD. Category: Shoe.",
-    "specification": "Brand: AUKEY. Category: Shoe.",
-    "hasEmi": "N",
+    "description": "Charger & Cables Bagbdstore #52 available at Arctic hunter Bd. Category: Charger & Cables.",
+    "specification": "Brand: Bagbdstore. Category: Charger & Cables.",
+    "hasEmi": "Y",
     "isReturnable": "Y",
     "returnDuration": 15,
     "returnPolicy": "Standard 15-day return policy applies. See shop policy for details.",
-    "sizeChartId": 354,
-    "warrantyTypeId": 1,
-    "warrantyPeriodId": 17,
-    "warrantyPolicy": "Local Seller Warranty - 12 Years.",
-    "packageWeight": 1.55,
-    "packageLength": 0.76,
-    "packageWidth": 0.23,
-    "packageHeight": 1.37,
-    "productUrl": "shoe-52",
+    "sizeChartId": 351,
+    "warrantyTypeId": 3,
+    "warrantyPeriodId": 1,
+    "warrantyPolicy": "International Seller Warranty - 1 Month.",
+    "packageWeight": 1.37,
+    "packageLength": 1.69,
+    "packageWidth": 1.62,
+    "packageHeight": 1.55,
+    "productUrl": "charger-cables-52",
     "videoUrl": "",
-    "metaTitle": "Shoe AUKEY #52",
-    "metaKeywords": "Shoe, AUKEY",
-    "metaDescription": "Buy Shoe AUKEY #52 online at Suitcase BD.",
+    "metaTitle": "Charger & Cables Bagbdstore #52",
+    "metaKeywords": "Charger & Cables, Bagbdstore",
+    "metaDescription": "Buy Charger & Cables Bagbdstore #52 online at Arctic hunter Bd.",
     "ogType": "product",
-    "ogTitle": "Shoe AUKEY #52",
-    "ogUrl": "shoe-52",
-    "ogDescription": "Buy Shoe AUKEY #52 online at Suitcase BD.",
+    "ogTitle": "Charger & Cables Bagbdstore #52",
+    "ogUrl": "charger-cables-52",
+    "ogDescription": "Buy Charger & Cables Bagbdstore #52 online at Arctic hunter Bd.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",

@@ -30,6 +30,7 @@ const approvalStatusValues = [
   "rejected",
   "lowstock",
   "draft",
+  'all',
 ];
 
 const categoryOptions = [
@@ -204,7 +205,7 @@ router.get(
 
      const matchedCombination = product?.variantCombinations[0];
 
-     const orderProduct = {
+     const searchProduct = {
        productId: product?.productId,
        shopId: product?.shopId,
        productName: product?.productName,
@@ -240,7 +241,7 @@ router.get(
        
      };
 
-     console.log(product);
+     console.log(searchProduct);
      if (!product) {
        return res.status(404).json({
          success: false,
@@ -251,7 +252,7 @@ router.get(
      return res.status(200).json({
        success: true,
        message: "Product retrieved successfully",
-       data: product,
+       data: searchProduct,
      });
    } catch (err) {
      return next(err);

@@ -39,12 +39,7 @@ router.get(
           success: true,
           message: "Charts retrieved successfully",
           data: [],
-          pagination: {
-            currentPage: 0,
-            itemsPerPage: perPage,
-            totalPages: 0,
-            totalItems: 0,
-          },
+          pagination: null,
         });
       }
 

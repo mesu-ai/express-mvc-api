@@ -139,7 +139,15 @@ router.get(
 
      const matchedCombination = await prisma.variantCombination.findUnique({
        where: { shopId_sku: { shopId: Number(shopId), sku: skuStr } },
-       include: { product: true, options: true },
+       include: {
+         product: {
+           include: {
+             shop: { select: { shopName: true } },
+             category: { select: { categoryName: true } },
+           },
+         },
+         options: true,
+       },
      });
 
      const product = matchedCombination?.product;
@@ -152,31 +160,18 @@ router.get(
        sku: matchedCombination?.sku,
        subStyle: matchedCombination?.subStyle,
        categoryId: product?.categoryId,
-       thumbnailImage: product?.thumbnailImages,
+       thumbnailImage: Array.isArray(product?.thumbnailImages) ? product?.thumbnailImages[0] : null,
        productUrl: product?.productUrl,
       //  rootCategoryId: 1,
        productPrice: matchedCombination?.mrp,
-      //  discountAmount: product?.s,
-       burnAmount: 0,
+       discountAmount: matchedCombination?.burnAmount,
+       burnAmount: matchedCombination?.burnAmount,
        productQuantity: matchedCombination?.stock,
       //  sellerProductSku: p,
       //  shopProductSku: produc,
-       shopName: product?.shopId, // pass showname
-       categoryName: product?.categoryId, //pass category name
-       productColorAndSizes: [
-         {
-           variationWiseProductId: 1409427,
-           variantOptionId: 1056,
-           variantOptionText: "Indigo",
-           variantName: "Color",
-         },
-         {
-           variationWiseProductId: 1409428,
-           variantOptionId: 1062,
-           variantOptionText: "28",
-           variantName: "Size",
-         },
-       ],
+       shopName: product?.shop?.shopName, // pass showname
+       categoryName: product?.category?.categoryName, //pass category name
+       productColorAndSizes: matchedCombination?.options
        
      };
 

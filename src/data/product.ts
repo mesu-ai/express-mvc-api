@@ -69,7 +69,7 @@ export const products = [
     ],
     variantCombinations: [
       {
-        sku: "sku-5511",
+        sku: "sku-5511-1",
         shopProductSku: "GREXSMNJSHYHB",
         subStyle: "sub-4455",
         stock: 20,
@@ -94,7 +94,7 @@ export const products = [
         status: "Y",
       },
       {
-        sku: "sku-5511",
+        sku: "sku-5511-2",
         shopProductSku: "GRESMNJSHYHB",
         subStyle: "sub-4455",
         stock: 20,
@@ -119,7 +119,7 @@ export const products = [
         status: "Y",
       },
       {
-        sku: "sku-5511",
+        sku: "sku-5511-3",
         shopProductSku: "ASHXSMNJSHYHB",
         subStyle: "sub-4455",
         stock: 20,
@@ -144,7 +144,7 @@ export const products = [
         status: "Y",
       },
       {
-        sku: "sku-5511",
+        sku: "sku-5511-4",
         shopProductSku: "ASHSMNJSHYHB",
         subStyle: "sub-4455",
         stock: 20,
@@ -183,7 +183,7 @@ export const products = [
     isReturnable: "Y",
     returnDuration: 15,
     returnPolicy:
-      '&nbsp;<span style="color: rgb(141, 148, 152); font-size: 14px;">At SaRa we gladly exchange within 15 days of purchase with an original receipt. Items must be in their original state: unwashed, unworn, unaltered, and must have all tickets attached.</span><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">To protect our customers from fraudulent activity, SaRa reserves the right to request valid photo ID for the purposes of validating customer information when processing a replacement or exchange. For more information, please contact SaRa Customer Service at +8801885998899 or email us at ecom@saralifestyle.com.bd The following Replacement Policy only applies to online purchases made through http://www.saralifestyle.com and SaRa Reserve the right to change any policy at any time.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;"><span style="font-weight: 700; color: rgb(51, 59, 63); outline: 0px !important;">For Online:</span></p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">*Customer has to check ordered products (Color, size, quantity and quality) in front of the delivery agent after that no complaint will be accepted.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">*Customer has to return the Product to the delivery agent instantly if the product has any issue, No charge will be applicable for return.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">*Replacement, Return or Refund will be applicable if the Customer raises any issue in front of delivery agent while receiving order.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">*If Customer failed to check while receiving product then have replaced unworn and unaltered garments within 15 days of purchase from any of our Outlets and online.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">*For Outside Dhaka City, If Customer failed to check while receiving product, he/she has to return the item by Courier (Example: Sundarban).</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* Products on discount or promotional offer, lingerie, masks, shocks, lungi and PPE are not exchangeable.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* Customer must preserve original invoice, tags carefully to avail replacement.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* The exchange garments value must be equal or more than that of original invoice.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* We reserve all rights to determine whether the goods have been altered, used or damaged.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;"><span style="font-weight: 700; color: rgb(51, 59, 63); outline: 0px !important;">Refund Policy for Online:</span></p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* If we are not able to deliver.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* If we deliver different Products without informing the customer.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* If the customer receives damaged product.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">*According to Digital Policy 2021 of the Government we will refund within 7-10 days.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* Refund is applicable for online orders only.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;"><span style="font-weight: 700; color: rgb(51, 59, 63); outline: 0px !important;">For Outlet:</span></p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* Customer may replace unworn and unaltered garments within 15 days of purchase from any of our Outlets.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* Customer must preserve original invoice, tags carefully to avail replacement.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* The exchange garments value must be equal or more than that of original invoice.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* Products on discount or promotional offer, lingerie, masks and PPE are not exchangeable.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* We reserve all rights to determine whether the goods have been altered, used or damaged.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* We donÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢t have return or refund option.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">And for your kind information, Customer can replace the product one time only. Thank you.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">What qualifies as a replacement? Any product would qualify as a replacement if it meets any of the following conditions:</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">ÃƒÂ¯Ã†â€™Ã‚Â¼ Wrong product, size or color.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">ÃƒÂ¯Ã†â€™Ã‚Â¼ Damaged product.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">ÃƒÂ¯Ã†â€™Ã‚Â¼ Product lost in shipment.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">ÃƒÂ¯Ã†â€™Ã‚Â¼ Products with major quality defects.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;"><span style="font-weight: 700; color: rgb(51, 59, 63); outline: 0px !important;">How do I replacement an item?</span></p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">The customer needs to fill-up the replacement and exchange form that must be enclosed with all replacements or exchanges. If you no longer have the replacement/exchange form please&nbsp;<a href="https://saralifestyle.com.bd/WebContent/ReturnForm" style="background-color: transparent; outline: 0px !important;">click here</a>&nbsp;to fill-up the form. Please be sure to print out the form, complete all required information and include it with your replacement items. We do not accept replacements or exchanges without the original invoice slip. You can replace your products through courier or our delivery man service along with the return form to our e-commerce warehouse at the following address: service along with the return form to our e-commerce warehouse at the following address:</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;"><span style="font-weight: 700; color: rgb(51, 59, 63); outline: 0px !important;">E-Commerce Warehouse:</span></p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;"><span style="font-weight: 700; color: rgb(51, 59, 63); outline: 0px !important;">SaRa Lifestyle Ltd</span></p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;"><span style="font-weight: 700; color: rgb(51, 59, 63); outline: 0px !important;">House 966, Road 14, Avenue 2, Mirpur DOHS 1216.</span></p>',
+      '&nbsp;<span style="color: rgb(141, 148, 152); font-size: 14px;">At SaRa we gladly exchange within 15 days of purchase with an original receipt. Items must be in their original state: unwashed, unworn, unaltered, and must have all tickets attached.</span><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">To protect our customers from fraudulent activity, SaRa reserves the right to request valid photo ID for the purposes of validating customer information when processing a replacement or exchange. For more information, please contact SaRa Customer Service at +8801885998899 or email us at ecom@saralifestyle.com.bd The following Replacement Policy only applies to online purchases made through http://www.saralifestyle.com and SaRa Reserve the right to change any policy at any time.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;"><span style="font-weight: 700; color: rgb(51, 59, 63); outline: 0px !important;">For Online:</span></p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">*Customer has to check ordered products (Color, size, quantity and quality) in front of the delivery agent after that no complaint will be accepted.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">*Customer has to return the Product to the delivery agent instantly if the product has any issue, No charge will be applicable for return.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">*Replacement, Return or Refund will be applicable if the Customer raises any issue in front of delivery agent while receiving order.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">*If Customer failed to check while receiving product then have replaced unworn and unaltered garments within 15 days of purchase from any of our Outlets and online.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">*For Outside Dhaka City, If Customer failed to check while receiving product, he/she has to return the item by Courier (Example: Sundarban).</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* Products on discount or promotional offer, lingerie, masks, shocks, lungi and PPE are not exchangeable.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* Customer must preserve original invoice, tags carefully to avail replacement.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* The exchange garments value must be equal or more than that of original invoice.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* We reserve all rights to determine whether the goods have been altered, used or damaged.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;"><span style="font-weight: 700; color: rgb(51, 59, 63); outline: 0px !important;">Refund Policy for Online:</span></p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* If we are not able to deliver.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* If we deliver different Products without informing the customer.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* If the customer receives damaged product.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">*According to Digital Policy 2021 of the Government we will refund within 7-10 days.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* Refund is applicable for online orders only.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;"><span style="font-weight: 700; color: rgb(51, 59, 63); outline: 0px !important;">For Outlet:</span></p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* Customer may replace unworn and unaltered garments within 15 days of purchase from any of our Outlets.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* Customer must preserve original invoice, tags carefully to avail replacement.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* The exchange garments value must be equal or more than that of original invoice.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* Products on discount or promotional offer, lingerie, masks and PPE are not exchangeable.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* We reserve all rights to determine whether the goods have been altered, used or damaged.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">* We donÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢t have return or refund option.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">And for your kind information, Customer can replace the product one time only. Thank you.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">What qualifies as a replacement? Any product would qualify as a replacement if it meets any of the following conditions:</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¯ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼ Wrong product, size or color.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¯ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼ Damaged product.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¯ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼ Product lost in shipment.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¯ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼ Products with major quality defects.</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;"><span style="font-weight: 700; color: rgb(51, 59, 63); outline: 0px !important;">How do I replacement an item?</span></p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;">The customer needs to fill-up the replacement and exchange form that must be enclosed with all replacements or exchanges. If you no longer have the replacement/exchange form please&nbsp;<a href="https://saralifestyle.com.bd/WebContent/ReturnForm" style="background-color: transparent; outline: 0px !important;">click here</a>&nbsp;to fill-up the form. Please be sure to print out the form, complete all required information and include it with your replacement items. We do not accept replacements or exchanges without the original invoice slip. You can replace your products through courier or our delivery man service along with the return form to our e-commerce warehouse at the following address: service along with the return form to our e-commerce warehouse at the following address:</p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;"><span style="font-weight: 700; color: rgb(51, 59, 63); outline: 0px !important;">E-Commerce Warehouse:</span></p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;"><span style="font-weight: 700; color: rgb(51, 59, 63); outline: 0px !important;">SaRa Lifestyle Ltd</span></p><p style="line-height: 1.6; color: rgb(141, 148, 152); font-size: 14px; outline: 0px !important;"><span style="font-weight: 700; color: rgb(51, 59, 63); outline: 0px !important;">House 966, Road 14, Avenue 2, Mirpur DOHS 1216.</span></p>',
     sizeChartId: 1,
     warrantyTypeId: 1,
     warrantyPeriodId: 1,
@@ -280,7 +280,7 @@ export const products = [
     ],
     variantCombinations: [
       {
-        sku: "sku-5512",
+        sku: "sku-5512-1",
         subStyle: "sub-4456",
         shopProductSku: "GREXSMNJSHYHB-2",
         stock: 20,
@@ -305,7 +305,7 @@ export const products = [
         status: "Y",
       },
       {
-        sku: "sku-5512",
+        sku: "sku-5512-2",
         shopProductSku: "GRESMNJSHYHB-2",
         subStyle: "sub-4456",
         stock: 20,
@@ -330,7 +330,7 @@ export const products = [
         status: "Y",
       },
       {
-        sku: "sku-5512",
+        sku: "sku-5512-3",
         shopProductSku: "ASHXSMNJSHYHB-2",
         subStyle: "sub-4456",
         stock: 20,
@@ -355,7 +355,7 @@ export const products = [
         status: "Y",
       },
       {
-        sku: "sku-5512",
+        sku: "sku-5512-4",
         shopProductSku: "ASHSMNJSHYHB-2",
         subStyle: "sub-4456",
         stock: 20,
@@ -483,7 +483,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6000",
+        "sku": "sku-6000-1",
         "subStyle": "sub-7000",
         "shopProductSku": "BLAC503",
         "stock": 70,
@@ -508,7 +508,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6000",
+        "sku": "sku-6000-2",
         "subStyle": "sub-7000",
         "shopProductSku": "BLAC523",
         "stock": 81,
@@ -533,7 +533,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6000",
+        "sku": "sku-6000-3",
         "subStyle": "sub-7000",
         "shopProductSku": "RED-503",
         "stock": 30,
@@ -558,7 +558,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6000",
+        "sku": "sku-6000-4",
         "subStyle": "sub-7000",
         "shopProductSku": "RED-523",
         "stock": 26,
@@ -669,7 +669,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6001",
+        "sku": "sku-6001-1",
         "subStyle": "sub-7001",
         "shopProductSku": "WHIT4",
         "stock": 100,
@@ -690,7 +690,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6001",
+        "sku": "sku-6001-2",
         "subStyle": "sub-7001",
         "shopProductSku": "GREY4",
         "stock": 77,
@@ -743,7 +743,7 @@ export const products = [
   },
   {
     "productId": 5,
-    "productName": "HONOR  #5",
+    "productName": "HONOR Click Bajar #5",
     "categoryId": 434,
     "unit": "set",
     "shopId": 102,
@@ -755,7 +755,7 @@ export const products = [
       "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
       "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
     ],
-    "brandId": null,
+    "brandId": 553,
     "strapMaterial": null,
     "fitType": null,
     "gender": null,
@@ -797,7 +797,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6002",
+        "sku": "sku-6002-1",
         "subStyle": "sub-7002",
         "shopProductSku": "WHIT5",
         "stock": 57,
@@ -818,7 +818,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6002",
+        "sku": "sku-6002-2",
         "subStyle": "sub-7002",
         "shopProductSku": "CYAN5",
         "stock": 72,
@@ -840,7 +840,7 @@ export const products = [
       }
     ],
     "description": "HONOR  #5 available at TICKR. Category: HONOR.",
-    "specification": "Brand: Generic. Category: HONOR.",
+    "specification": "Brand: Click Bajar. Category: HONOR.",
     "hasEmi": "Y",
     "isReturnable": "Y",
     "returnDuration": 15,
@@ -855,11 +855,11 @@ export const products = [
     "packageHeight": 1.65,
     "productUrl": "honor-5",
     "videoUrl": "",
-    "metaTitle": "HONOR  #5",
-    "metaKeywords": "HONOR,",
+    "metaTitle": "HONOR Click Bajar #5",
+    "metaKeywords": "HONOR, Click Bajar",
     "metaDescription": "Buy HONOR  #5 online at TICKR.",
     "ogType": "product",
-    "ogTitle": "HONOR  #5",
+    "ogTitle": "HONOR Click Bajar #5",
     "ogUrl": "honor-5",
     "ogDescription": "Buy HONOR  #5 online at TICKR.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
@@ -939,7 +939,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6003",
+        "sku": "sku-6003-1",
         "subStyle": "sub-7003",
         "shopProductSku": "MULTL6",
         "stock": 35,
@@ -964,7 +964,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6003",
+        "sku": "sku-6003-2",
         "subStyle": "sub-7003",
         "shopProductSku": "MULTXXL6",
         "stock": 61,
@@ -989,7 +989,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6003",
+        "sku": "sku-6003-3",
         "subStyle": "sub-7003",
         "shopProductSku": "ANTIL6",
         "stock": 7,
@@ -1014,7 +1014,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6003",
+        "sku": "sku-6003-4",
         "subStyle": "sub-7003",
         "shopProductSku": "ANTIXXL6",
         "stock": 36,
@@ -1125,7 +1125,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6004",
+        "sku": "sku-6004-1",
         "subStyle": "sub-7004",
         "shopProductSku": "COMM7",
         "stock": 11,
@@ -1146,7 +1146,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6004",
+        "sku": "sku-6004-2",
         "subStyle": "sub-7004",
         "shopProductSku": "GREY7",
         "stock": 36,
@@ -1253,7 +1253,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6005",
+        "sku": "sku-6005-1",
         "subStyle": "sub-7005",
         "shopProductSku": "PURP8",
         "stock": 8,
@@ -1274,7 +1274,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6005",
+        "sku": "sku-6005-2",
         "subStyle": "sub-7005",
         "shopProductSku": "WHIT8",
         "stock": 53,
@@ -1381,7 +1381,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6006",
+        "sku": "sku-6006-1",
         "subStyle": "sub-7006",
         "shopProductSku": "WHIT9",
         "stock": 6,
@@ -1402,7 +1402,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6006",
+        "sku": "sku-6006-2",
         "subStyle": "sub-7006",
         "shopProductSku": "BLAC9",
         "stock": 61,
@@ -1523,7 +1523,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6007",
+        "sku": "sku-6007-1",
         "subStyle": "sub-7007",
         "shopProductSku": "DARK4610",
         "stock": 42,
@@ -1548,7 +1548,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6007",
+        "sku": "sku-6007-2",
         "subStyle": "sub-7007",
         "shopProductSku": "DARK3410",
         "stock": 10,
@@ -1573,7 +1573,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6007",
+        "sku": "sku-6007-3",
         "subStyle": "sub-7007",
         "shopProductSku": "BLAC4610",
         "stock": 67,
@@ -1598,7 +1598,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6007",
+        "sku": "sku-6007-4",
         "subStyle": "sub-7007",
         "shopProductSku": "BLAC3410",
         "stock": 60,
@@ -1655,7 +1655,7 @@ export const products = [
   },
   {
     "productId": 11,
-    "productName": "Air Cooler  #11",
+    "productName": "Air Cooler Adward Polo #11",
     "categoryId": 326,
     "unit": "set",
     "shopId": 103,
@@ -1667,7 +1667,7 @@ export const products = [
       "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
       "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
     ],
-    "brandId": null,
+    "brandId": 322,
     "strapMaterial": null,
     "fitType": null,
     "gender": null,
@@ -1709,7 +1709,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6008",
+        "sku": "sku-6008-1",
         "subStyle": "sub-7008",
         "shopProductSku": "MULT11",
         "stock": 5,
@@ -1730,7 +1730,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6008",
+        "sku": "sku-6008-2",
         "subStyle": "sub-7008",
         "shopProductSku": "BLAC11",
         "stock": 66,
@@ -1752,7 +1752,7 @@ export const products = [
       }
     ],
     "description": "Air Cooler  #11 available at Deximpo Int.. Category: Air Cooler.",
-    "specification": "Brand: Generic. Category: Air Cooler.",
+    "specification": "Brand: Adward Polo. Category: Air Cooler.",
     "hasEmi": "N",
     "isReturnable": "Y",
     "returnDuration": 15,
@@ -1767,11 +1767,11 @@ export const products = [
     "packageHeight": 0.81,
     "productUrl": "air-cooler-11",
     "videoUrl": "",
-    "metaTitle": "Air Cooler  #11",
-    "metaKeywords": "Air Cooler,",
+    "metaTitle": "Air Cooler Adward Polo #11",
+    "metaKeywords": "Air Cooler, Adward Polo",
     "metaDescription": "Buy Air Cooler  #11 online at Deximpo Int..",
     "ogType": "product",
-    "ogTitle": "Air Cooler  #11",
+    "ogTitle": "Air Cooler Adward Polo #11",
     "ogUrl": "air-cooler-11",
     "ogDescription": "Buy Air Cooler  #11 online at Deximpo Int..",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
@@ -1851,7 +1851,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6009",
+        "sku": "sku-6009-1",
         "subStyle": "sub-7009",
         "shopProductSku": "ASHXXXL12",
         "stock": 71,
@@ -1876,7 +1876,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6009",
+        "sku": "sku-6009-2",
         "subStyle": "sub-7009",
         "shopProductSku": "ASHXXL12",
         "stock": 98,
@@ -1901,7 +1901,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6009",
+        "sku": "sku-6009-3",
         "subStyle": "sub-7009",
         "shopProductSku": "OCEAXXXL12",
         "stock": 39,
@@ -1926,7 +1926,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6009",
+        "sku": "sku-6009-4",
         "subStyle": "sub-7009",
         "shopProductSku": "OCEAXXL12",
         "stock": 7,
@@ -2037,7 +2037,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6010",
+        "sku": "sku-6010-1",
         "subStyle": "sub-7010",
         "shopProductSku": "BRON13",
         "stock": 48,
@@ -2058,7 +2058,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6010",
+        "sku": "sku-6010-2",
         "subStyle": "sub-7010",
         "shopProductSku": "CYAN13",
         "stock": 10,
@@ -2152,7 +2152,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6011",
+        "sku": "sku-6011-1",
         "subStyle": "sub-7011",
         "shopProductSku": "BLAC14",
         "stock": 11,
@@ -2273,7 +2273,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6012",
+        "sku": "sku-6012-1",
         "subStyle": "sub-7012",
         "shopProductSku": "CHOCFREE15",
         "stock": 96,
@@ -2298,7 +2298,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6012",
+        "sku": "sku-6012-2",
         "subStyle": "sub-7012",
         "shopProductSku": "CHOC3015",
         "stock": 21,
@@ -2323,7 +2323,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6012",
+        "sku": "sku-6012-3",
         "subStyle": "sub-7012",
         "shopProductSku": "BLACFREE15",
         "stock": 58,
@@ -2348,7 +2348,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6012",
+        "sku": "sku-6012-4",
         "subStyle": "sub-7012",
         "shopProductSku": "BLAC3015",
         "stock": 40,
@@ -2446,7 +2446,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6013",
+        "sku": "sku-6013-1",
         "subStyle": "sub-7013",
         "shopProductSku": "WHIT16",
         "stock": 41,
@@ -2499,7 +2499,7 @@ export const products = [
   },
   {
     "productId": 17,
-    "productName": "Blender & Mixer  #17",
+    "productName": "Blender & Mixer Ariston #17",
     "categoryId": 305,
     "unit": "set",
     "shopId": 44,
@@ -2511,7 +2511,7 @@ export const products = [
       "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
       "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
     ],
-    "brandId": null,
+    "brandId": 495,
     "strapMaterial": null,
     "fitType": null,
     "gender": null,
@@ -2553,7 +2553,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6014",
+        "sku": "sku-6014-1",
         "subStyle": "sub-7014",
         "shopProductSku": "MULT17",
         "stock": 46,
@@ -2574,7 +2574,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6014",
+        "sku": "sku-6014-2",
         "subStyle": "sub-7014",
         "shopProductSku": "RED17",
         "stock": 66,
@@ -2596,7 +2596,7 @@ export const products = [
       }
     ],
     "description": "Blender & Mixer  #17 available at RMS Corporation. Category: Blender & Mixer.",
-    "specification": "Brand: Generic. Category: Blender & Mixer.",
+    "specification": "Brand: Ariston. Category: Blender & Mixer.",
     "hasEmi": "N",
     "isReturnable": "Y",
     "returnDuration": 15,
@@ -2611,11 +2611,11 @@ export const products = [
     "packageHeight": 0.4,
     "productUrl": "blender-mixer-17",
     "videoUrl": "",
-    "metaTitle": "Blender & Mixer  #17",
-    "metaKeywords": "Blender & Mixer,",
+    "metaTitle": "Blender & Mixer Ariston #17",
+    "metaKeywords": "Blender & Mixer, Ariston",
     "metaDescription": "Buy Blender & Mixer  #17 online at RMS Corporation.",
     "ogType": "product",
-    "ogTitle": "Blender & Mixer  #17",
+    "ogTitle": "Blender & Mixer Ariston #17",
     "ogUrl": "blender-mixer-17",
     "ogDescription": "Buy Blender & Mixer  #17 online at RMS Corporation.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
@@ -2627,7 +2627,7 @@ export const products = [
   },
   {
     "productId": 18,
-    "productName": "Laptop & Desktop  #18",
+    "productName": "Laptop & Desktop BROTHERS TRADING INTERNATIONAL #18",
     "categoryId": 483,
     "unit": "pair",
     "shopId": 107,
@@ -2639,7 +2639,7 @@ export const products = [
       "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
       "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
     ],
-    "brandId": null,
+    "brandId": 554,
     "strapMaterial": null,
     "fitType": "Regular",
     "gender": "unisex",
@@ -2681,7 +2681,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6015",
+        "sku": "sku-6015-1",
         "subStyle": "sub-7015",
         "shopProductSku": "BLUE18",
         "stock": 23,
@@ -2702,7 +2702,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6015",
+        "sku": "sku-6015-2",
         "subStyle": "sub-7015",
         "shopProductSku": "WHIT18",
         "stock": 49,
@@ -2724,7 +2724,7 @@ export const products = [
       }
     ],
     "description": "Laptop & Desktop  #18 available at Panna Electronics. Category: Laptop & Desktop.",
-    "specification": "Brand: Generic. Category: Laptop & Desktop.",
+    "specification": "Brand: BROTHERS TRADING INTERNATIONAL. Category: Laptop & Desktop.",
     "hasEmi": "N",
     "isReturnable": "N",
     "returnDuration": 15,
@@ -2739,11 +2739,11 @@ export const products = [
     "packageHeight": 0.96,
     "productUrl": "laptop-desktop-18",
     "videoUrl": "",
-    "metaTitle": "Laptop & Desktop  #18",
-    "metaKeywords": "Laptop & Desktop,",
+    "metaTitle": "Laptop & Desktop BROTHERS TRADING INTERNATIONAL #18",
+    "metaKeywords": "Laptop & Desktop, BROTHERS TRADING INTERNATIONAL",
     "metaDescription": "Buy Laptop & Desktop  #18 online at Panna Electronics.",
     "ogType": "product",
-    "ogTitle": "Laptop & Desktop  #18",
+    "ogTitle": "Laptop & Desktop BROTHERS TRADING INTERNATIONAL #18",
     "ogUrl": "laptop-desktop-18",
     "ogDescription": "Buy Laptop & Desktop  #18 online at Panna Electronics.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
@@ -2823,7 +2823,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6016",
+        "sku": "sku-6016-1",
         "subStyle": "sub-7016",
         "shopProductSku": "ASH3819",
         "stock": 25,
@@ -2848,7 +2848,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6016",
+        "sku": "sku-6016-2",
         "subStyle": "sub-7016",
         "shopProductSku": "ASH3019",
         "stock": 88,
@@ -2873,7 +2873,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6016",
+        "sku": "sku-6016-3",
         "subStyle": "sub-7016",
         "shopProductSku": "BLAC3819",
         "stock": 24,
@@ -2898,7 +2898,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6016",
+        "sku": "sku-6016-4",
         "subStyle": "sub-7016",
         "shopProductSku": "BLAC3019",
         "stock": 28,
@@ -3009,7 +3009,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6017",
+        "sku": "sku-6017-1",
         "subStyle": "sub-7017",
         "shopProductSku": "WHIT20",
         "stock": 48,
@@ -3030,7 +3030,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6017",
+        "sku": "sku-6017-2",
         "subStyle": "sub-7017",
         "shopProductSku": "BLAC20",
         "stock": 42,
@@ -3137,7 +3137,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6018",
+        "sku": "sku-6018-1",
         "subStyle": "sub-7018",
         "shopProductSku": "OLIV21",
         "stock": 81,
@@ -3158,7 +3158,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6018",
+        "sku": "sku-6018-2",
         "subStyle": "sub-7018",
         "shopProductSku": "WHIT21",
         "stock": 77,
@@ -3279,7 +3279,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6019",
+        "sku": "sku-6019-1",
         "subStyle": "sub-7019",
         "shopProductSku": "BROWM22",
         "stock": 44,
@@ -3304,7 +3304,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6019",
+        "sku": "sku-6019-2",
         "subStyle": "sub-7019",
         "shopProductSku": "BROWFREE22",
         "stock": 86,
@@ -3329,7 +3329,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6019",
+        "sku": "sku-6019-3",
         "subStyle": "sub-7019",
         "shopProductSku": "DARKM22",
         "stock": 67,
@@ -3354,7 +3354,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6019",
+        "sku": "sku-6019-4",
         "subStyle": "sub-7019",
         "shopProductSku": "DARKFREE22",
         "stock": 20,
@@ -3465,7 +3465,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6020",
+        "sku": "sku-6020-1",
         "subStyle": "sub-7020",
         "shopProductSku": "SILV23",
         "stock": 63,
@@ -3486,7 +3486,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6020",
+        "sku": "sku-6020-2",
         "subStyle": "sub-7020",
         "shopProductSku": "WHIT23",
         "stock": 75,
@@ -3593,7 +3593,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6021",
+        "sku": "sku-6021-1",
         "subStyle": "sub-7021",
         "shopProductSku": "GOLD24",
         "stock": 70,
@@ -3614,7 +3614,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6021",
+        "sku": "sku-6021-2",
         "subStyle": "sub-7021",
         "shopProductSku": "BLAC24",
         "stock": 46,
@@ -3667,7 +3667,7 @@ export const products = [
   },
   {
     "productId": 25,
-    "productName": "Mens Hoodie  #25",
+    "productName": "Mens Hoodie Apple #25",
     "categoryId": 21,
     "unit": "pair",
     "shopId": 55,
@@ -3679,7 +3679,7 @@ export const products = [
       "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
       "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
     ],
-    "brandId": null,
+    "brandId": 74,
     "strapMaterial": null,
     "fitType": "Loose",
     "gender": "male",
@@ -3735,7 +3735,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6022",
+        "sku": "sku-6022-1",
         "subStyle": "sub-7022",
         "shopProductSku": "PURPXXXL25",
         "stock": 67,
@@ -3760,7 +3760,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6022",
+        "sku": "sku-6022-2",
         "subStyle": "sub-7022",
         "shopProductSku": "PURPXS25",
         "stock": 24,
@@ -3785,7 +3785,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6022",
+        "sku": "sku-6022-3",
         "subStyle": "sub-7022",
         "shopProductSku": "ORANXXXL25",
         "stock": 67,
@@ -3810,7 +3810,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6022",
+        "sku": "sku-6022-4",
         "subStyle": "sub-7022",
         "shopProductSku": "ORANXS25",
         "stock": 59,
@@ -3836,7 +3836,7 @@ export const products = [
       }
     ],
     "description": "Mens Hoodie  #25 available at International Homeware. Category: Mens Hoodie.",
-    "specification": "Brand: Generic. Category: Mens Hoodie.",
+    "specification": "Brand: Apple. Category: Mens Hoodie.",
     "hasEmi": "Y",
     "isReturnable": "Y",
     "returnDuration": 15,
@@ -3851,11 +3851,11 @@ export const products = [
     "packageHeight": 1.02,
     "productUrl": "mens-hoodie-25",
     "videoUrl": "",
-    "metaTitle": "Mens Hoodie  #25",
-    "metaKeywords": "Mens Hoodie,",
+    "metaTitle": "Mens Hoodie Apple #25",
+    "metaKeywords": "Mens Hoodie, Apple",
     "metaDescription": "Buy Mens Hoodie  #25 online at International Homeware.",
     "ogType": "product",
-    "ogTitle": "Mens Hoodie  #25",
+    "ogTitle": "Mens Hoodie Apple #25",
     "ogUrl": "mens-hoodie-25",
     "ogDescription": "Buy Mens Hoodie  #25 online at International Homeware.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
@@ -3867,7 +3867,7 @@ export const products = [
   },
   {
     "productId": 26,
-    "productName": "Speaker  #26",
+    "productName": "Speaker Bowling Footwear #26",
     "categoryId": 256,
     "unit": "psc",
     "shopId": 74,
@@ -3879,7 +3879,7 @@ export const products = [
       "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
       "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
     ],
-    "brandId": null,
+    "brandId": 328,
     "strapMaterial": null,
     "fitType": null,
     "gender": null,
@@ -3921,7 +3921,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6023",
+        "sku": "sku-6023-1",
         "subStyle": "sub-7023",
         "shopProductSku": "BLAC26",
         "stock": 8,
@@ -3942,7 +3942,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6023",
+        "sku": "sku-6023-2",
         "subStyle": "sub-7023",
         "shopProductSku": "BLUE26",
         "stock": 46,
@@ -3964,7 +3964,7 @@ export const products = [
       }
     ],
     "description": "Speaker  #26 available at Lunettes Bangladesh. Category: Speaker.",
-    "specification": "Brand: Generic. Category: Speaker.",
+    "specification": "Brand: Bowling Footwear. Category: Speaker.",
     "hasEmi": "Y",
     "isReturnable": "Y",
     "returnDuration": 15,
@@ -3979,11 +3979,11 @@ export const products = [
     "packageHeight": 0.92,
     "productUrl": "speaker-26",
     "videoUrl": "",
-    "metaTitle": "Speaker  #26",
-    "metaKeywords": "Speaker,",
+    "metaTitle": "Speaker Bowling Footwear #26",
+    "metaKeywords": "Speaker, Bowling Footwear",
     "metaDescription": "Buy Speaker  #26 online at Lunettes Bangladesh.",
     "ogType": "product",
-    "ogTitle": "Speaker  #26",
+    "ogTitle": "Speaker Bowling Footwear #26",
     "ogUrl": "speaker-26",
     "ogDescription": "Buy Speaker  #26 online at Lunettes Bangladesh.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
@@ -4049,7 +4049,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6024",
+        "sku": "sku-6024-1",
         "subStyle": "sub-7024",
         "shopProductSku": "EVE-27",
         "stock": 19,
@@ -4070,7 +4070,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6024",
+        "sku": "sku-6024-2",
         "subStyle": "sub-7024",
         "shopProductSku": "OLIV27",
         "stock": 74,
@@ -4191,7 +4191,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6025",
+        "sku": "sku-6025-1",
         "subStyle": "sub-7025",
         "shopProductSku": "RED-13X128",
         "stock": 40,
@@ -4216,7 +4216,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6025",
+        "sku": "sku-6025-2",
         "subStyle": "sub-7025",
         "shopProductSku": "RED-13X128X",
         "stock": 86,
@@ -4241,7 +4241,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6025",
+        "sku": "sku-6025-3",
         "subStyle": "sub-7025",
         "shopProductSku": "GOLD13X128",
         "stock": 38,
@@ -4266,7 +4266,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6025",
+        "sku": "sku-6025-4",
         "subStyle": "sub-7025",
         "shopProductSku": "GOLD13X128X",
         "stock": 85,
@@ -4377,7 +4377,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6026",
+        "sku": "sku-6026-1",
         "subStyle": "sub-7026",
         "shopProductSku": "WHIT29",
         "stock": 36,
@@ -4398,7 +4398,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6026",
+        "sku": "sku-6026-2",
         "subStyle": "sub-7026",
         "shopProductSku": "BLUE29",
         "stock": 24,
@@ -4505,7 +4505,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6027",
+        "sku": "sku-6027-1",
         "subStyle": "sub-7027",
         "shopProductSku": "DEEP30",
         "stock": 75,
@@ -4526,7 +4526,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6027",
+        "sku": "sku-6027-2",
         "subStyle": "sub-7027",
         "shopProductSku": "SPAC30",
         "stock": 35,
@@ -4643,7 +4643,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6028",
+        "sku": "sku-6028-1",
         "subStyle": "sub-7028",
         "shopProductSku": "SPARFREE31",
         "stock": 98,
@@ -4668,7 +4668,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6028",
+        "sku": "sku-6028-2",
         "subStyle": "sub-7028",
         "shopProductSku": "BROWFREE31",
         "stock": 85,
@@ -4725,7 +4725,7 @@ export const products = [
   },
   {
     "productId": 32,
-    "productName": "Watch & Accessories  #32",
+    "productName": "Watch & Accessories Clear #32",
     "categoryId": 171,
     "unit": "set",
     "shopId": 45,
@@ -4737,7 +4737,7 @@ export const products = [
       "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
       "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
     ],
-    "brandId": null,
+    "brandId": 369,
     "strapMaterial": "Metal",
     "fitType": null,
     "gender": null,
@@ -4779,7 +4779,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6029",
+        "sku": "sku-6029-1",
         "subStyle": "sub-7029",
         "shopProductSku": "GOLD32",
         "stock": 73,
@@ -4800,7 +4800,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6029",
+        "sku": "sku-6029-2",
         "subStyle": "sub-7029",
         "shopProductSku": "ARMY32",
         "stock": 15,
@@ -4822,7 +4822,7 @@ export const products = [
       }
     ],
     "description": "Watch & Accessories  #32 available at Walton. Category: Watch & Accessories.",
-    "specification": "Brand: Generic. Category: Watch & Accessories.",
+    "specification": "Brand: Clear. Category: Watch & Accessories.",
     "hasEmi": "Y",
     "isReturnable": "Y",
     "returnDuration": 15,
@@ -4837,11 +4837,11 @@ export const products = [
     "packageHeight": 0.24,
     "productUrl": "watch-accessories-32",
     "videoUrl": "",
-    "metaTitle": "Watch & Accessories  #32",
-    "metaKeywords": "Watch & Accessories,",
+    "metaTitle": "Watch & Accessories Clear #32",
+    "metaKeywords": "Watch & Accessories, Clear",
     "metaDescription": "Buy Watch & Accessories  #32 online at Walton.",
     "ogType": "product",
-    "ogTitle": "Watch & Accessories  #32",
+    "ogTitle": "Watch & Accessories Clear #32",
     "ogUrl": "watch-accessories-32",
     "ogDescription": "Buy Watch & Accessories  #32 online at Walton.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
@@ -4907,7 +4907,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6030",
+        "sku": "sku-6030-1",
         "subStyle": "sub-7030",
         "shopProductSku": "SPAC33",
         "stock": 43,
@@ -4928,7 +4928,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6030",
+        "sku": "sku-6030-2",
         "subStyle": "sub-7030",
         "shopProductSku": "LIGH33",
         "stock": 84,
@@ -4981,7 +4981,7 @@ export const products = [
   },
   {
     "productId": 34,
-    "productName": "Networking Devices  #34",
+    "productName": "Networking Devices boAt #34",
     "categoryId": 251,
     "unit": "set",
     "shopId": 64,
@@ -4993,7 +4993,7 @@ export const products = [
       "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
       "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
     ],
-    "brandId": null,
+    "brandId": 137,
     "strapMaterial": null,
     "fitType": null,
     "gender": null,
@@ -5035,7 +5035,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6031",
+        "sku": "sku-6031-1",
         "subStyle": "sub-7031",
         "shopProductSku": "BLAC34",
         "stock": 86,
@@ -5056,7 +5056,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6031",
+        "sku": "sku-6031-2",
         "subStyle": "sub-7031",
         "shopProductSku": "BEIG34",
         "stock": 41,
@@ -5078,7 +5078,7 @@ export const products = [
       }
     ],
     "description": "Networking Devices  #34 available at TP-Link Bangladesh. Category: Networking Devices.",
-    "specification": "Brand: Generic. Category: Networking Devices.",
+    "specification": "Brand: boAt. Category: Networking Devices.",
     "hasEmi": "N",
     "isReturnable": "Y",
     "returnDuration": 15,
@@ -5093,11 +5093,11 @@ export const products = [
     "packageHeight": 1.27,
     "productUrl": "networking-devices-34",
     "videoUrl": "",
-    "metaTitle": "Networking Devices  #34",
-    "metaKeywords": "Networking Devices,",
+    "metaTitle": "Networking Devices boAt #34",
+    "metaKeywords": "Networking Devices, boAt",
     "metaDescription": "Buy Networking Devices  #34 online at TP-Link Bangladesh.",
     "ogType": "product",
-    "ogTitle": "Networking Devices  #34",
+    "ogTitle": "Networking Devices boAt #34",
     "ogUrl": "networking-devices-34",
     "ogDescription": "Buy Networking Devices  #34 online at TP-Link Bangladesh.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
@@ -5109,7 +5109,7 @@ export const products = [
   },
   {
     "productId": 35,
-    "productName": "Geyser  #35",
+    "productName": "Geyser Crafts Maker #35",
     "categoryId": 296,
     "unit": "psc",
     "shopId": 49,
@@ -5121,7 +5121,7 @@ export const products = [
       "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
       "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
     ],
-    "brandId": null,
+    "brandId": 84,
     "strapMaterial": null,
     "fitType": null,
     "gender": null,
@@ -5163,7 +5163,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6032",
+        "sku": "sku-6032-1",
         "subStyle": "sub-7032",
         "shopProductSku": "SILV35",
         "stock": 46,
@@ -5184,7 +5184,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6032",
+        "sku": "sku-6032-2",
         "subStyle": "sub-7032",
         "shopProductSku": "WHIT35",
         "stock": 85,
@@ -5206,7 +5206,7 @@ export const products = [
       }
     ],
     "description": "Geyser  #35 available at Cheetah. Category: Geyser.",
-    "specification": "Brand: Generic. Category: Geyser.",
+    "specification": "Brand: Crafts Maker. Category: Geyser.",
     "hasEmi": "N",
     "isReturnable": "Y",
     "returnDuration": 15,
@@ -5221,11 +5221,11 @@ export const products = [
     "packageHeight": 0.87,
     "productUrl": "geyser-35",
     "videoUrl": "",
-    "metaTitle": "Geyser  #35",
-    "metaKeywords": "Geyser,",
+    "metaTitle": "Geyser Crafts Maker #35",
+    "metaKeywords": "Geyser, Crafts Maker",
     "metaDescription": "Buy Geyser  #35 online at Cheetah.",
     "ogType": "product",
-    "ogTitle": "Geyser  #35",
+    "ogTitle": "Geyser Crafts Maker #35",
     "ogUrl": "geyser-35",
     "ogDescription": "Buy Geyser  #35 online at Cheetah.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
@@ -5237,7 +5237,7 @@ export const products = [
   },
   {
     "productId": 36,
-    "productName": "Mens Katua & Fatua  #36",
+    "productName": "Mens Katua & Fatua Asus #36",
     "categoryId": 9,
     "unit": "psc",
     "shopId": 81,
@@ -5249,7 +5249,7 @@ export const products = [
       "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
       "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
     ],
-    "brandId": null,
+    "brandId": 104,
     "strapMaterial": null,
     "fitType": "Regular",
     "gender": "unisex",
@@ -5305,7 +5305,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6033",
+        "sku": "sku-6033-1",
         "subStyle": "sub-7033",
         "shopProductSku": "CREAXL36",
         "stock": 73,
@@ -5330,7 +5330,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6033",
+        "sku": "sku-6033-2",
         "subStyle": "sub-7033",
         "shopProductSku": "CREAXS36",
         "stock": 56,
@@ -5355,7 +5355,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6033",
+        "sku": "sku-6033-3",
         "subStyle": "sub-7033",
         "shopProductSku": "WHITXL36",
         "stock": 25,
@@ -5380,7 +5380,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6033",
+        "sku": "sku-6033-4",
         "subStyle": "sub-7033",
         "shopProductSku": "WHITXS36",
         "stock": 71,
@@ -5406,7 +5406,7 @@ export const products = [
       }
     ],
     "description": "Mens Katua & Fatua  #36 available at Apurbo Business Center. Category: Mens Katua & Fatua.",
-    "specification": "Brand: Generic. Category: Mens Katua & Fatua.",
+    "specification": "Brand: Asus. Category: Mens Katua & Fatua.",
     "hasEmi": "Y",
     "isReturnable": "Y",
     "returnDuration": 15,
@@ -5421,11 +5421,11 @@ export const products = [
     "packageHeight": 1.28,
     "productUrl": "mens-katua-fatua-36",
     "videoUrl": "",
-    "metaTitle": "Mens Katua & Fatua  #36",
-    "metaKeywords": "Mens Katua & Fatua,",
+    "metaTitle": "Mens Katua & Fatua Asus #36",
+    "metaKeywords": "Mens Katua & Fatua, Asus",
     "metaDescription": "Buy Mens Katua & Fatua  #36 online at Apurbo Business Center.",
     "ogType": "product",
-    "ogTitle": "Mens Katua & Fatua  #36",
+    "ogTitle": "Mens Katua & Fatua Asus #36",
     "ogUrl": "mens-katua-fatua-36",
     "ogDescription": "Buy Mens Katua & Fatua  #36 online at Apurbo Business Center.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
@@ -5505,7 +5505,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6034",
+        "sku": "sku-6034-1",
         "subStyle": "sub-7034",
         "shopProductSku": "BLAC20-M37",
         "stock": 30,
@@ -5530,7 +5530,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6034",
+        "sku": "sku-6034-2",
         "subStyle": "sub-7034",
         "shopProductSku": "BLACFREE37",
         "stock": 93,
@@ -5555,7 +5555,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6034",
+        "sku": "sku-6034-3",
         "subStyle": "sub-7034",
         "shopProductSku": "BLAC20-M37X",
         "stock": 62,
@@ -5580,7 +5580,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6034",
+        "sku": "sku-6034-4",
         "subStyle": "sub-7034",
         "shopProductSku": "BLACFREE37X",
         "stock": 71,
@@ -5691,7 +5691,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6035",
+        "sku": "sku-6035-1",
         "subStyle": "sub-7035",
         "shopProductSku": "COMM38",
         "stock": 84,
@@ -5712,7 +5712,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6035",
+        "sku": "sku-6035-2",
         "subStyle": "sub-7035",
         "shopProductSku": "COMM38X",
         "stock": 5,
@@ -5833,7 +5833,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6036",
+        "sku": "sku-6036-1",
         "subStyle": "sub-7036",
         "shopProductSku": "MINE3-4-39",
         "stock": 10,
@@ -5858,7 +5858,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6036",
+        "sku": "sku-6036-2",
         "subStyle": "sub-7036",
         "shopProductSku": "MINE8-9-39",
         "stock": 7,
@@ -5883,7 +5883,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6036",
+        "sku": "sku-6036-3",
         "subStyle": "sub-7036",
         "shopProductSku": "LEMO3-4-39",
         "stock": 18,
@@ -5908,7 +5908,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6036",
+        "sku": "sku-6036-4",
         "subStyle": "sub-7036",
         "shopProductSku": "LEMO8-9-39",
         "stock": 23,
@@ -6019,7 +6019,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6037",
+        "sku": "sku-6037-1",
         "subStyle": "sub-7037",
         "shopProductSku": "YELL40",
         "stock": 73,
@@ -6040,7 +6040,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6037",
+        "sku": "sku-6037-2",
         "subStyle": "sub-7037",
         "shopProductSku": "GREY40",
         "stock": 11,
@@ -6147,7 +6147,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6038",
+        "sku": "sku-6038-1",
         "subStyle": "sub-7038",
         "shopProductSku": "ORAN41",
         "stock": 56,
@@ -6168,7 +6168,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6038",
+        "sku": "sku-6038-2",
         "subStyle": "sub-7038",
         "shopProductSku": "MULT41",
         "stock": 32,
@@ -6289,7 +6289,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6039",
+        "sku": "sku-6039-1",
         "subStyle": "sub-7039",
         "shopProductSku": "GREY2842",
         "stock": 64,
@@ -6314,7 +6314,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6039",
+        "sku": "sku-6039-2",
         "subStyle": "sub-7039",
         "shopProductSku": "GREY3642",
         "stock": 63,
@@ -6339,7 +6339,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6039",
+        "sku": "sku-6039-3",
         "subStyle": "sub-7039",
         "shopProductSku": "PRIN2842",
         "stock": 8,
@@ -6364,7 +6364,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6039",
+        "sku": "sku-6039-4",
         "subStyle": "sub-7039",
         "shopProductSku": "PRIN3642",
         "stock": 83,
@@ -6489,7 +6489,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6040",
+        "sku": "sku-6040-1",
         "subStyle": "sub-7040",
         "shopProductSku": "OFF-M43",
         "stock": 12,
@@ -6514,7 +6514,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6040",
+        "sku": "sku-6040-2",
         "subStyle": "sub-7040",
         "shopProductSku": "OFF-XS43",
         "stock": 59,
@@ -6539,7 +6539,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6040",
+        "sku": "sku-6040-3",
         "subStyle": "sub-7040",
         "shopProductSku": "BOSSM43",
         "stock": 72,
@@ -6564,7 +6564,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6040",
+        "sku": "sku-6040-4",
         "subStyle": "sub-7040",
         "shopProductSku": "BOSSXS43",
         "stock": 57,
@@ -6675,7 +6675,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6041",
+        "sku": "sku-6041-1",
         "subStyle": "sub-7041",
         "shopProductSku": "WHIT44",
         "stock": 6,
@@ -6696,7 +6696,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6041",
+        "sku": "sku-6041-2",
         "subStyle": "sub-7041",
         "shopProductSku": "OFF-44",
         "stock": 56,
@@ -6749,7 +6749,7 @@ export const products = [
   },
   {
     "productId": 45,
-    "productName": "Microphone  #45",
+    "productName": "Microphone Braun #45",
     "categoryId": 508,
     "unit": "pair",
     "shopId": 86,
@@ -6761,7 +6761,7 @@ export const products = [
       "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
       "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
     ],
-    "brandId": null,
+    "brandId": 290,
     "strapMaterial": null,
     "fitType": null,
     "gender": null,
@@ -6803,7 +6803,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6042",
+        "sku": "sku-6042-1",
         "subStyle": "sub-7042",
         "shopProductSku": "BLAC45",
         "stock": 100,
@@ -6824,7 +6824,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6042",
+        "sku": "sku-6042-2",
         "subStyle": "sub-7042",
         "shopProductSku": "WHIT45",
         "stock": 73,
@@ -6846,7 +6846,7 @@ export const products = [
       }
     ],
     "description": "Microphone  #45 available at Afseen bag. Category: Microphone.",
-    "specification": "Brand: Generic. Category: Microphone.",
+    "specification": "Brand: Braun. Category: Microphone.",
     "hasEmi": "Y",
     "isReturnable": "Y",
     "returnDuration": 15,
@@ -6861,11 +6861,11 @@ export const products = [
     "packageHeight": 0.24,
     "productUrl": "microphone-45",
     "videoUrl": "",
-    "metaTitle": "Microphone  #45",
-    "metaKeywords": "Microphone,",
+    "metaTitle": "Microphone Braun #45",
+    "metaKeywords": "Microphone, Braun",
     "metaDescription": "Buy Microphone  #45 online at Afseen bag.",
     "ogType": "product",
-    "ogTitle": "Microphone  #45",
+    "ogTitle": "Microphone Braun #45",
     "ogUrl": "microphone-45",
     "ogDescription": "Buy Microphone  #45 online at Afseen bag.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
@@ -6931,7 +6931,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6043",
+        "sku": "sku-6043-1",
         "subStyle": "sub-7043",
         "shopProductSku": "GREY46",
         "stock": 9,
@@ -6952,7 +6952,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6043",
+        "sku": "sku-6043-2",
         "subStyle": "sub-7043",
         "shopProductSku": "WHIT46",
         "stock": 14,
@@ -7059,7 +7059,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6044",
+        "sku": "sku-6044-1",
         "subStyle": "sub-7044",
         "shopProductSku": "PERF47",
         "stock": 11,
@@ -7080,7 +7080,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6044",
+        "sku": "sku-6044-2",
         "subStyle": "sub-7044",
         "shopProductSku": "COMM47",
         "stock": 62,
@@ -7133,7 +7133,7 @@ export const products = [
   },
   {
     "productId": 48,
-    "productName": "Electric Grill  #48",
+    "productName": "Electric Grill CAT #48",
     "categoryId": 513,
     "unit": "set",
     "shopId": 59,
@@ -7145,7 +7145,7 @@ export const products = [
       "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
       "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
     ],
-    "brandId": null,
+    "brandId": 110,
     "strapMaterial": null,
     "fitType": null,
     "gender": null,
@@ -7174,7 +7174,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6045",
+        "sku": "sku-6045-1",
         "subStyle": "sub-7045",
         "shopProductSku": "BLAC48",
         "stock": 21,
@@ -7196,7 +7196,7 @@ export const products = [
       }
     ],
     "description": "Electric Grill  #48 available at JBF Traders. Category: Electric Grill.",
-    "specification": "Brand: Generic. Category: Electric Grill.",
+    "specification": "Brand: CAT. Category: Electric Grill.",
     "hasEmi": "Y",
     "isReturnable": "N",
     "returnDuration": 15,
@@ -7211,11 +7211,11 @@ export const products = [
     "packageHeight": 0.45,
     "productUrl": "electric-grill-48",
     "videoUrl": "",
-    "metaTitle": "Electric Grill  #48",
-    "metaKeywords": "Electric Grill,",
+    "metaTitle": "Electric Grill CAT #48",
+    "metaKeywords": "Electric Grill, CAT",
     "metaDescription": "Buy Electric Grill  #48 online at JBF Traders.",
     "ogType": "product",
-    "ogTitle": "Electric Grill  #48",
+    "ogTitle": "Electric Grill CAT #48",
     "ogUrl": "electric-grill-48",
     "ogDescription": "Buy Electric Grill  #48 online at JBF Traders.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
@@ -7295,7 +7295,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6046",
+        "sku": "sku-6046-1",
         "subStyle": "sub-7046",
         "shopProductSku": "LIGH3-4-49",
         "stock": 24,
@@ -7320,7 +7320,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6046",
+        "sku": "sku-6046-2",
         "subStyle": "sub-7046",
         "shopProductSku": "LIGH4-5-49",
         "stock": 64,
@@ -7345,7 +7345,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6046",
+        "sku": "sku-6046-3",
         "subStyle": "sub-7046",
         "shopProductSku": "LIGH3-4-49X",
         "stock": 63,
@@ -7370,7 +7370,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6046",
+        "sku": "sku-6046-4",
         "subStyle": "sub-7046",
         "shopProductSku": "LIGH4-5-49X",
         "stock": 100,
@@ -7481,7 +7481,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6047",
+        "sku": "sku-6047-1",
         "subStyle": "sub-7047",
         "shopProductSku": "BLUE50",
         "stock": 78,
@@ -7502,7 +7502,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6047",
+        "sku": "sku-6047-2",
         "subStyle": "sub-7047",
         "shopProductSku": "PINK50",
         "stock": 26,
@@ -7555,7 +7555,7 @@ export const products = [
   },
   {
     "productId": 51,
-    "productName": "Womens Tees and Tank  #51",
+    "productName": "Womens Tees and Tank Co-Walk #51",
     "categoryId": 37,
     "unit": "psc",
     "shopId": 71,
@@ -7567,7 +7567,7 @@ export const products = [
       "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
       "https://prod.saraemart.com/uploads/images/b012a4a9-dc68-4788-9415-ff8d38327768.jpg"
     ],
-    "brandId": null,
+    "brandId": 149,
     "strapMaterial": null,
     "fitType": "Loose",
     "gender": "female",
@@ -7623,7 +7623,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6048",
+        "sku": "sku-6048-1",
         "subStyle": "sub-7048",
         "shopProductSku": "MAROXXL51",
         "stock": 22,
@@ -7648,7 +7648,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6048",
+        "sku": "sku-6048-2",
         "subStyle": "sub-7048",
         "shopProductSku": "MAROXL51",
         "stock": 96,
@@ -7673,7 +7673,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6048",
+        "sku": "sku-6048-3",
         "subStyle": "sub-7048",
         "shopProductSku": "PURPXXL51",
         "stock": 96,
@@ -7698,7 +7698,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6048",
+        "sku": "sku-6048-4",
         "subStyle": "sub-7048",
         "shopProductSku": "PURPXL51",
         "stock": 41,
@@ -7724,7 +7724,7 @@ export const products = [
       }
     ],
     "description": "Womens Tees and Tank  #51 available at Urbaland. Category: Womens Tees and Tank.",
-    "specification": "Brand: Generic. Category: Womens Tees and Tank.",
+    "specification": "Brand: Co-Walk. Category: Womens Tees and Tank.",
     "hasEmi": "Y",
     "isReturnable": "Y",
     "returnDuration": 15,
@@ -7739,11 +7739,11 @@ export const products = [
     "packageHeight": 0.68,
     "productUrl": "womens-tees-and-tank-51",
     "videoUrl": "",
-    "metaTitle": "Womens Tees and Tank  #51",
-    "metaKeywords": "Womens Tees and Tank,",
+    "metaTitle": "Womens Tees and Tank Co-Walk #51",
+    "metaKeywords": "Womens Tees and Tank, Co-Walk",
     "metaDescription": "Buy Womens Tees and Tank  #51 online at Urbaland.",
     "ogType": "product",
-    "ogTitle": "Womens Tees and Tank  #51",
+    "ogTitle": "Womens Tees and Tank Co-Walk #51",
     "ogUrl": "womens-tees-and-tank-51",
     "ogDescription": "Buy Womens Tees and Tank  #51 online at Urbaland.",
     "ogImage": "https://prod.saraemart.com/uploads/images/89d781cf-0e16-4ede-a0ad-ad63e1a63a5e.jpg",
@@ -7809,7 +7809,7 @@ export const products = [
     ],
     "variantCombinations": [
       {
-        "sku": "sku-6049",
+        "sku": "sku-6049-1",
         "subStyle": "sub-7049",
         "shopProductSku": "BLAC52",
         "stock": 10,
@@ -7830,7 +7830,7 @@ export const products = [
         "status": "Y"
       },
       {
-        "sku": "sku-6049",
+        "sku": "sku-6049-2",
         "subStyle": "sub-7049",
         "shopProductSku": "ORAN52",
         "stock": 34,

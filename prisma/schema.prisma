@@ -72,7 +72,7 @@ model Product {
   shopId              Int
   displayOrder        String?
   thumbnailImages     Json?
-  brandId             Int?
+  brandId             Int
   strapMaterial       String?
   fitType             String?
   gender              String?
@@ -119,7 +119,7 @@ model Product {
 
   category Category @relation(fields: [categoryId], references: [categoryId])
   shop     Shop     @relation(fields: [shopId], references: [shopId])
-  brand    Brand?   @relation(fields: [brandId], references: [brandId])
+  brand    Brand    @relation(fields: [brandId], references: [brandId])
 
   @@unique([productId, shopId])
   @@index([shopId])
@@ -149,8 +149,8 @@ model VariantCombination {
   product Product                    @relation(fields: [productId, shopId], references: [productId, shopId], onDelete: Cascade)
   options VariantCombinationOption[]
 
-  @@unique([shopId, shopProductSku])
-  @@index([shopId, sku])
+  @@unique([shopId, sku])
+  @@index([shopId, shopProductSku])
   @@index([productId])
   @@map("variant_combinations")
 }

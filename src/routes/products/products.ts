@@ -104,7 +104,7 @@ router.get(
         ...product,
         thumbnailImage: Array.isArray(thumbnailImages) ? thumbnailImages[0] ?? null : null,
         shopName: shop.shopName,
-        brandName: brand?.brandName ?? null,
+        brandName: brand.brandName,
         categoryName: category.categoryName,
         sku: variantCombinations[0]?.sku ?? null,
         dpPrice: variantCombinations[0]?.dpPrice ?? null,
@@ -137,20 +137,12 @@ router.get(
      const { shopId, sku } = req.query;
      const skuStr = String(sku);
 
-     const product = await prisma.product.findFirst({
-       where: {
-         shopId: Number(shopId),
-         variantCombinations: { some: { sku: skuStr } },
-       },
-       include: {
-         variantCombinations: {
-           where: { sku: skuStr },
-           include: { options: true },
-         },
-       },
+     const matchedCombination = await prisma.variantCombination.findUnique({
+       where: { shopId_sku: { shopId: Number(shopId), sku: skuStr } },
+       include: { product: true, options: true },
      });
 
-     const matchedCombination = product?.variantCombinations[0];
+     const product = matchedCombination?.product;
 
      const searchProduct = {
        productId: product?.productId,

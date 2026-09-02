@@ -207,6 +207,7 @@ export const products = [
     createdAt: '2026-04-04T09:50',
     updatedBy: 'B B Momin',
     updatedAt: '2026-04-04T09:50',
+    status: 'Y',
 
   },
   {
@@ -408,8 +409,9 @@ export const products = [
     ogTitle: "product meta title",
     ogUrl: "menss-casual-shirt",
     ogDescription: "meta description",
-    // ogImage: null,
-    updatedAt: 'updatedAt'
+    updatedAt: 'updatedAt',
+    status: 'Y',
+
   },
   {
     "productId": 3,
@@ -608,7 +610,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 4,
@@ -735,7 +738,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 5,
@@ -862,7 +866,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 6,
@@ -1061,7 +1066,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 7,
@@ -1188,7 +1194,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 8,
@@ -1315,7 +1322,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 9,
@@ -1442,7 +1450,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 10,
@@ -1641,7 +1650,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 11,
@@ -1768,7 +1778,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 12,
@@ -1967,7 +1978,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 13,
@@ -2094,7 +2106,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 14,
@@ -2187,7 +2200,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 15,
@@ -2386,7 +2400,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 16,
@@ -2479,7 +2494,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 17,
@@ -2606,7 +2622,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 18,
@@ -2733,7 +2750,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 19,
@@ -2932,7 +2950,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 20,
@@ -3059,7 +3078,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 21,
@@ -3186,7 +3206,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 22,
@@ -3385,7 +3406,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 23,
@@ -3512,7 +3534,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 24,
@@ -3639,7 +3662,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 25,
@@ -3838,7 +3862,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 26,
@@ -3965,7 +3990,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 27,
@@ -4092,7 +4118,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 28,
@@ -4291,7 +4318,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 29,
@@ -4418,7 +4446,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 30,
@@ -4545,7 +4574,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 31,
@@ -4690,7 +4720,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 32,
@@ -4817,7 +4848,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 33,
@@ -4944,7 +4976,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 34,
@@ -5071,7 +5104,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 35,
@@ -5198,7 +5232,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 36,
@@ -5397,7 +5432,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 37,
@@ -5596,7 +5632,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 38,
@@ -5723,7 +5760,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 39,
@@ -5922,7 +5960,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 40,
@@ -6049,7 +6088,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 41,
@@ -6176,7 +6216,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 42,
@@ -6375,7 +6416,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 43,
@@ -6574,7 +6616,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 44,
@@ -6701,7 +6744,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 45,
@@ -6828,7 +6872,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 46,
@@ -6955,7 +7000,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 47,
@@ -7082,7 +7128,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 48,
@@ -7175,7 +7222,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 49,
@@ -7374,7 +7422,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 50,
@@ -7501,7 +7550,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 51,
@@ -7700,7 +7750,8 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
   {
     "productId": 52,
@@ -7827,6 +7878,7 @@ export const products = [
     "createdBy": "A A Momin",
     "createdAt": "2026-04-04T09:50",
     "updatedBy": "B B Momin",
-    "updatedAt": "2026-04-04T09:50"
+    "updatedAt": "2026-04-04T09:50",
+    "status": "Y"
   },
 ];

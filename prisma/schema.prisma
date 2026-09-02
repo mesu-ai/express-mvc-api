@@ -113,6 +113,7 @@ model Product {
   createdAt           DateTime             @default(now())
   updatedBy           String?
   updatedAt           DateTime             @default(now()) @updatedAt
+  status              String               @default("Y")
 
   @@unique([productId, shopId])
   @@index([shopId])

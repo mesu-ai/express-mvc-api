@@ -111,13 +111,13 @@ router.get("/", verifyAccessToken, (req: Request, res: Response) => {
 
   if (approvalStatusStr && approvalStatusStr !== "all") {
     filtered = filtered.filter(
-      (product) => product.approvalStatus === approvalStatusStr
+      (product) => product.approvalStatus === approvalStatusStr,
     );
   }
 
   if (categoryIdNum) {
     filtered = filtered.filter(
-      (product) => product.categoryId === categoryIdNum
+      (product) => product.categoryId === categoryIdNum,
     );
   }
 
@@ -182,6 +182,84 @@ router.get("/", verifyAccessToken, (req: Request, res: Response) => {
 });
 
 router.get(
+  "/sku",
+  verifyAccessToken,
+  async (req: Request, res: Response, next: NextFunction) => {
+   try {
+     const { shopId, sku } = req.query;
+     const skuStr = String(sku);
+
+     const product = await prisma.product.findFirst({
+       where: {
+         shopId: Number(shopId),
+         variantCombinations: { some: { sku: skuStr } },
+       },
+       include: {
+         variantCombinations: {
+           where: { sku: skuStr },
+           include: { options: true },
+         },
+       },
+     });
+
+     const matchedCombination = product?.variantCombinations[0];
+
+     const orderProduct = {
+       productId: product?.productId,
+       shopId: product?.shopId,
+       productName: product?.productName,
+      //  productTitle: "DHEU WOMENS WIDE LEG DENIM",
+       sku: matchedCombination?.sku,
+       subStyle: matchedCombination?.subStyle,
+       categoryId: product?.categoryId,
+       thumbnailImage: product?.thumbnailImages,
+       productUrl: product?.productUrl,
+      //  rootCategoryId: 1,
+       productPrice: matchedCombination?.mrp,
+      //  discountAmount: product?.s,
+       burnAmount: 0,
+       productQuantity: matchedCombination?.stock,
+      //  sellerProductSku: p,
+      //  shopProductSku: produc,
+       shopName: product?.shopId, // pass showname
+       categoryName: product?.categoryId, //pass category name
+       productColorAndSizes: [
+         {
+           variationWiseProductId: 1409427,
+           variantOptionId: 1056,
+           variantOptionText: "Indigo",
+           variantName: "Color",
+         },
+         {
+           variationWiseProductId: 1409428,
+           variantOptionId: 1062,
+           variantOptionText: "28",
+           variantName: "Size",
+         },
+       ],
+       
+     };
+
+     console.log(product);
+     if (!product) {
+       return res.status(404).json({
+         success: false,
+         message: "Product not found",
+         data: {},
+       });
+     }
+     return res.status(200).json({
+       success: true,
+       message: "Product retrieved successfully",
+       data: product,
+     });
+   } catch (err) {
+     return next(err);
+   }
+  },
+);
+
+router.get(
   "/:id",
   verifyAccessToken,
   async (req: Request, res: Response, next: NextFunction) => {
@@ -190,11 +268,10 @@ router.get(
 
       const product = await prisma.product.findUnique({
         where: { productId: Number(id) },
+        include: { variantCombinations: { include: { options: true } } },
       });
 
       console.log("Fetched product:", product);
-
-
 
       if (!product) {
         return res.status(404).json({
@@ -214,7 +291,5 @@ router.get(
     }
   },
 );
-
-
 
 export default router;

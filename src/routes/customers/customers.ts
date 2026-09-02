@@ -56,5 +56,24 @@ router.get(
   },
 );
 
+router.post(
+  "/confirm-address",
+  verifyAccessToken,
+  async (req: Request, res: Response, next: NextFunction) => {
+    try {
+      const { customerAddressId } = req.body;
+      console.log(customerAddressId);
+      return res.status(200).json({
+        success: true,
+        message: "Address confirmed",
+        data: null,
+        pagination: null,
+      });
+    } catch (err) {
+      return next(err);
+    }
+  },
+);
+
 
 export default router;

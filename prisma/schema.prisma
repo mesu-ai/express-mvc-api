@@ -63,28 +63,28 @@ model Category {
 // Nested arrays/objects (images, variant dimensions/combinations) are stored as
 // JSON columns so the API response shape stays identical to the mock data.
 model Product {
-  productId           Int     @id
+  productId           Int                  @id @default(autoincrement())
   productName         String
   categoryId          Int
   unit                String?
-  shopId              Int?
+  shopId              Int
   displayOrder        String?
   thumbnailImages     Json?
   brandId             Int?
-  strapMeterial       String?
+  strapMaterial       String?
   fitType             String?
   gender              String?
   variantDimensions   Json?
   variantImages       Json?
-  variantCombinations Json?
-  sku                 String?
-  subStyle            String?
-  stock               Int?
-  dpPrice             Float?
-  mrp                 Float?
-  sellingPrice        Float?
-  startDate           String?
-  endDate             String?
+  variantCombinations VariantCombination[]
+  // sku                 String?
+  // subStyle            String?
+  // stock               Int?
+  // dpPrice             Float?
+  // mrp                 Float?
+  // sellingPrice        Float?
+  // startDate           String?
+  // endDate             String?
   description         String?
   specification       String?
   hasEmi              String?
@@ -110,11 +110,53 @@ model Product {
   ogDescription       String?
   ogImage             String?
   createdBy           String?
-  createdAt           String?
+  createdAt           DateTime             @default(now())
   updatedBy           String?
-  updatedAt           String?
+  updatedAt           DateTime             @default(now()) @updatedAt
 
+  @@unique([productId, shopId])
+  @@index([shopId])
+  @@index([categoryId])
   @@map("products")
+}
+
+model VariantCombination {
+  id               Int       @id @default(autoincrement())
+  sku              String
+  subStyle         String?
+  shopProductSku   String?
+  stock            Int
+  dpPrice          Int
+  mrp              Int
+  sellingPrice     Int
+  startDate        DateTime?
+  endDate          DateTime?
+  burnAmount       Int
+  commissionAmount Int
+  inventoryTypeId  Int
+  status           String
+  productId        Int
+  shopId           Int
+
+  product Product                    @relation(fields: [productId, shopId], references: [productId, shopId], onDelete: Cascade)
+  options VariantCombinationOption[]
+
+  @@unique([shopId, shopProductSku])
+  @@index([shopId, sku])
+  @@index([productId])
+  @@map("variant_combinations")
+}
+
+model VariantCombinationOption {
+  id                Int    @id @default(autoincrement())
+  combinationId     Int
+  variantOptionId   Int
+  variantOptionText String
+
+  variantCombination VariantCombination @relation(fields: [combinationId], references: [id], onDelete: Cascade)
+
+  @@unique([combinationId, variantOptionId])
+  @@map("variant_combination_options")
 }
 
 // Mirrors src/data/ContentCategory.ts
@@ -278,6 +320,7 @@ model User {
 model ColumnSetting {
   value     String   @id
   label     String
+  currency  Boolean?
   disabled  Boolean?
   isVisible Boolean?
 

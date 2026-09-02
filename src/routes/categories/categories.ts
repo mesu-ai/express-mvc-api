@@ -110,7 +110,6 @@ router.get("/tree", verifyAccessToken, (req: Request, res: Response) => {
   });
 });
 
-
 router.get("/suggestions", verifyAccessToken, (req: Request, res: Response) => {
   const { keyword } = req.query;
 
@@ -123,7 +122,9 @@ router.get("/suggestions", verifyAccessToken, (req: Request, res: Response) => {
   }
 
   const suggestCategories = categoriesWithLayer.filter((c) =>
-    c.categoryName.toLowerCase().includes(keyword.toString().toLowerCase().trim()),
+    c.categoryName
+      .toLowerCase()
+      .includes(keyword.toString().toLowerCase().trim()),
   );
 
   return res.status(200).json({

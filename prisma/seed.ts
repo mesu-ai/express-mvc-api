@@ -39,6 +39,29 @@ async function reseed(name: string, model: any, data: any[]) {
   console.log(`  ${name}: ${data.length}`);
 }
 
+// Products own variantCombinations (which in turn own options) as real
+// relations now, so createMany can't nest them — create each product with
+// its combinations/options in one nested write instead.
+async function reseedProducts() {
+  await prisma.product.deleteMany({});
+  for (const { variantCombinations, createdAt, updatedAt, ...productFields } of products) {
+    await prisma.product.create({
+      data: {
+        ...productFields,
+        variantCombinations: {
+          create: variantCombinations.map(({ options, startDate, endDate, ...combo }) => ({
+            ...combo,
+            startDate: startDate ? new Date(startDate) : startDate,
+            endDate: endDate ? new Date(endDate) : endDate,
+            options: { create: options },
+          })),
+        },
+      },
+    });
+  }
+  console.log(`  products: ${products.length}`);
+}
+
 // async function reseedBannerContents() {
 //   await prisma.bannerImage.deleteMany({});
 //   await prisma.bannerContent.deleteMany({});
@@ -67,7 +90,7 @@ async function main() {
   console.log("Seeding database...");
 
   await reseed("categories", prisma.category, categories);
-  await reseed("products", prisma.product, products);
+  await reseedProducts();
   await reseed("brands", prisma.brand, brands);
   await reseed("sellers", prisma.seller, sellerData);
   await reseed("shops", prisma.shop, shops);

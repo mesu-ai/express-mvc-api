@@ -43,7 +43,6 @@ async function reseed(name: string, model: any, data: any[]) {
 // relations now, so createMany can't nest them — create each product with
 // its combinations/options in one nested write instead.
 async function reseedProducts() {
-  await prisma.product.deleteMany({});
   for (const { variantCombinations, createdAt, updatedAt, ...productFields } of products) {
     await prisma.product.create({
       data: {
@@ -89,11 +88,16 @@ async function reseedProducts() {
 async function main() {
   console.log("Seeding database...");
 
+  // Products FK-reference categories/shops/brands, so clear products first
+  // (before those tables are touched) and only recreate products once
+  // they've all been reseeded.
+  await prisma.product.deleteMany({});
+
   await reseed("categories", prisma.category, categories);
-  await reseedProducts();
   await reseed("brands", prisma.brand, brands);
   await reseed("sellers", prisma.seller, sellerData);
   await reseed("shops", prisma.shop, shops);
+  await reseedProducts();
   await reseed("roles", prisma.role, roles);
   await reseed("users", prisma.user, users);
   await reseed("columnSettings", prisma.columnSetting, columns);

@@ -56,6 +56,8 @@ model Category {
   updateBy             String?
   updateDate           String?
 
+  products Product[]
+
   @@map("categories")
 }
 
@@ -115,9 +117,14 @@ model Product {
   updatedAt           DateTime             @default(now()) @updatedAt
   status              String               @default("Y")
 
+  category Category @relation(fields: [categoryId], references: [categoryId])
+  shop     Shop     @relation(fields: [shopId], references: [shopId])
+  brand    Brand?   @relation(fields: [brandId], references: [brandId])
+
   @@unique([productId, shopId])
   @@index([shopId])
   @@index([categoryId])
+  @@index([brandId])
   @@map("products")
 }
 
@@ -216,6 +223,8 @@ model Brand {
   shownHomePage     String?
   productCategories Json?
 
+  products Product[]
+
   @@map("brands")
 }
 
@@ -285,6 +294,8 @@ model Seller {
 model Shop {
   shopId   Int    @id
   shopName String
+
+  products Product[]
 
   @@map("shops")
 }

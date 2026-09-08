@@ -335,6 +335,7 @@ model ColumnSetting {
   currency  Boolean?
   disabled  Boolean?
   isVisible Boolean?
+  type      String
 
   @@map("column_settings")
 }

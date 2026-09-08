@@ -10,12 +10,11 @@ router.get(
   async (req: Request, res: Response, next: NextFunction) => {
     try {
       const { type } = req.query;
+      const typeStr = typeof type === "string" ? type : undefined;
+      let where: any = {};
+      if (typeStr) where.type = typeStr;
 
-      // Currently only the "products" column set exists.
-      const data =
-        type === "products"
-          ? await prisma.columnSetting.findMany()
-          : [];
+      const data = await prisma.columnSetting.findMany({ where });
 
       return res.status(200).json({
         success: true,
